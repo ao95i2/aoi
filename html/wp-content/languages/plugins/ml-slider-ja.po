@@ -1,0 +1,806 @@
+# Translation of Plugins - MetaSlider - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - MetaSlider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-06 14:23:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - MetaSlider - Stable (latest release)\n"
+
+#: ml-slider.php:1659
+msgid "Add slideshow"
+msgstr "スライドショーを追加"
+
+#: admin/assets/js/app-3-16-3.js:36835
+msgid "CSS Manager"
+msgstr "CSS Manager"
+
+#: admin/assets/js/app-3-16-3.js:36821
+msgid "CSS manager module"
+msgstr "CSS manager module"
+
+#: admin/assets/js/app-3-16-3.js:5888
+msgid "CSS Manager notice closed"
+msgstr "CSS Manager notice closed"
+
+#: admin/assets/js/app-3-16-3.js:5885
+msgid "CSS Manager notice opened"
+msgstr "CSS Manager notice opened"
+
+#: admin/assets/js/app-3-16-3.js:8013
+msgid "OK"
+msgstr "OK"
+
+#: admin/assets/js/app-3-16-3.js:8199
+msgid "Preparing slideshow for duplication..."
+msgstr "Preparing slideshow for duplication..."
+
+#: admin/assets/js/app-3-16-3.js:36972
+msgid "Premium support - ask us anyting!"
+msgstr "Premium support - ask us anyting!"
+
+#: admin/assets/js/app-3-16-3.js:36952
+msgid "Slide scheduling - decide when slides appear."
+msgstr "Slide scheduling - decide when slides appear."
+
+#: admin/assets/js/app-3-16-3.js:36935
+msgid "Layer, video and post type slides."
+msgstr "Layer, video and post type slides."
+
+#: admin/assets/js/app-3-16-3.js:36919
+msgid "Upgrading also includes:"
+msgstr "Upgrading also includes:"
+
+#: admin/assets/js/app-3-16-3.js:36899
+msgid "Includes recipes to solve common scenarios."
+msgstr "Includes recipes to solve common scenarios."
+
+#: admin/assets/js/app-3-16-3.js:36881
+msgid "Loads only on the front-end where needed."
+msgstr "Loads only on the front-end where needed."
+
+#: admin/assets/js/app-3-16-3.js:36863
+msgid "Built-in text editor full of features."
+msgstr "Built-in text editor full of features."
+
+#: admin/assets/js/app-3-16-3.js:36841
+msgid "Easily add custom CSS to your slideshows to customize and fit your theme perfectly."
+msgstr "Easily add custom CSS to your slideshows to customize and fit your theme perfectly."
+
+#: admin/assets/js/app-3-16-3.js:36915
+msgid "Upgrade to pro now"
+msgstr "Pro 版にアップグレード"
+
+#: admin/assets/js/app-3-16-3.js:8012
+msgid "Something went wrong"
+msgstr "問題が発生しました"
+
+#: admin/assets/js/app-3-16-3.js:7988
+msgid "Delete"
+msgstr "削除"
+
+#: ml-slider.php:1343
+msgid "100% width"
+msgstr "100% 幅"
+
+#: admin/lib/callout.php:180
+msgid "Close"
+msgstr "閉じる"
+
+#: admin/slideshows/Themes.php:232
+msgid "We removed your selected theme as it could not be found. Was the folder deleted?"
+msgstr "選択されたテーマが見つかりませんでしたので削除しました。 フォルダーは削除されましたか？"
+
+#: ml-slider.php:188
+msgid "MetaSlider Pro is installed but is out of date. You may update it <a target=\"_blank\" href=\"%s\">here</a>. Learn more about this notice <a href=\"%s\">here</a>"
+msgstr "MetaSlider Pro はインストールされていますが古くなっています。 更新するには<a target=\"_blank\" href=\"%s\">こちら</a>をご覧ください。 この通知の詳細については、<a href=\"%s\">こちら</a>をご覧ください。"
+
+#: admin/views/pages/start.php:19
+msgid "Quick start"
+msgstr "クイックスタート"
+
+#: admin/views/pages/start.php:12 admin/assets/js/app-3-16-3.js:39817
+msgid "Learn more"
+msgstr "さらに詳しく"
+
+#: admin/routes/api.php:383
+msgid "This was not a slideshow, so we cannot delete it."
+msgstr "これはスライドショーではなかったので、削除することはできません。"
+
+#: admin/views/pages/start.php:45
+msgid "Create blank slideshow"
+msgstr "空のスライドショーを作成する"
+
+#: admin/views/pages/start.php:41
+msgid "Feel free to create a slideshow with no images. If you are a premium member using the add-on pack, select this option to access video, layer, and external URL slides."
+msgstr "画像のないスライドショーを作成してください。 アドオンパックを使用しているプレミアム会員の場合は、このオプションを選択して動画、レイヤー、および外部 URL スライドにアクセスします。"
+
+#: admin/views/pages/start.php:39
+msgid "Not quite ready?"
+msgstr "準備ができていませんか ?"
+
+#: admin/views/pages/start.php:27
+msgid "Maximum upload file size: %s."
+msgstr "最大アップロードファイルサイズ: %s"
+
+#: admin/views/pages/start.php:20
+msgid "To get started right away, drag and drop your images below."
+msgstr "すぐに使い始めるには、下に画像をドラッグアンドドロップします。"
+
+#: admin/views/pages/start.php:12
+msgid "MetaSlider is compatible with Gutenberg, allowing you to select and preview your slideshows direcly in the editor."
+msgstr "MetaSliderは Gutenberg（ブロックエディター）と互換性があり、スライドショーを直接エディターで選択してプレビューすることができます。"
+
+#: admin/views/pages/start.php:11
+msgid "Gutenberg ready!"
+msgstr "Gutenberg（ブロックエディター）に対応！"
+
+#: admin/views/pages/start.php:7
+msgid "To create your first slideshow, select one of the options below."
+msgstr "最初のスライドショーを作成するには、以下のいずれかのオプションを選択してください。"
+
+#: admin/views/pages/start.php:6
+msgid "Thank you for installing MetaSlider, the #1 WordPress slideshow plugin"
+msgstr "WordPress ナンバーワンのスライドショープラグインMetaSlider をインストールしていただきありがとうございます。"
+
+#: admin/views/pages/upgrade.php:20 admin/views/pages/upgrade.php:21
+msgid "MetaSlider logo"
+msgstr "MetaSlider ロゴ"
+
+#: admin/Notices.php:325
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral"
+msgstr "UpdraftCentral"
+
+#: admin/Notices.php:318 admin/views/pages/upgrade.php:164
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "WP-Optimize"
+msgstr "WP-Optimize"
+
+#: admin/Notices.php:311
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "UpdraftPlus"
+msgstr "UpdraftPlus"
+
+#: admin/Notices.php:290
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "MetaSlider Add-on Pack:"
+msgstr "MetaSlider Add-on Pack:"
+
+#: admin/Notices.php:267
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
+msgstr "サマーセール MetaSlider Add-on Pack が7月31日まで 20% オフ"
+
+#: admin/Notices.php:254
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
+msgstr "スプリングセール MetaSlider Add-on Pack が4月30日まで 20% オフ"
+
+#: admin/Notices.php:241
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
+msgstr "Happy New Year - MetaSlider Add-on Pack が1月14日まで 20% オフ"
+
+#: admin/Notices.php:228
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
+msgstr "クリスマスセール MetaSlider Add-on Pack が12月25日まで 20% オフ"
+
+#: admin/Notices.php:215
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible. Also, \"Black Friday\" is the name of an event in the United States"
+msgid "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
+msgstr "Black Friday - MetaSlider Add-on Pack が11月30日まで 20% オフ"
+
+#: admin/Notices.php:172
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Thank you for installing MetaSlider"
+msgstr "MetaSlider をインストールしていただきありがとうございます"
+
+#: admin/views/pages/parts/shortcode.php:31
+msgid "Copy all code"
+msgstr "すべてのコードをコピー"
+
+#: ml-slider.php:1731 ml-slider.php:1758 ml-slider.php:1784 ml-slider.php:1809
+msgid "Opens in a new window"
+msgstr "新しいウィンドウで開く"
+
+#: inc/slide/metaslide.image.class.php:368
+msgid "Schedule"
+msgstr "スケジュール"
+
+#: admin/views/slides/tabs/schedule.php:9
+msgid "Get it now!"
+msgstr "今すぐ入手"
+
+#: admin/views/slides/tabs/schedule.php:6
+msgid "Why am I seeing this?"
+msgstr "なぜこのページが表示されているのですか ?"
+
+#: admin/slideshows/Themes.php:52
+msgid "No themes found."
+msgstr "テーマが見つかりませんでした。"
+
+#: admin/views/pages/parts/shortcode.php:9
+msgid "How to Use"
+msgstr "使い方"
+
+#: admin/views/pages/parts/toolbar.php:29
+msgid "Add a new slide"
+msgstr "新しいスライドを追加"
+
+#: admin/old/navigation.php:29
+msgid "Select Slideshow"
+msgstr "スライドショーを選択"
+
+#: ml-slider.php:786 admin/slideshows/Slideshows.php:58
+msgid "New Slideshow"
+msgstr "新規スライドショー"
+
+#: ml-slider.php:468
+msgid "Add to slideshow"
+msgstr "スライドショーを追加"
+
+#: admin/slideshows/Settings.php:76 inc/slider/metaslider.class.php:109
+msgid "Previous"
+msgstr "前へ"
+
+#: inc/slide/metaslide.image.class.php:83
+msgid "This isn't an accepted image. Please try again."
+msgstr "これは許可された画像ではありません。 もう一度お試しください。"
+
+#: inc/slide/metaslide.image.class.php:267 inc/slide/metaslide.class.php:382
+msgid "Update slide image"
+msgstr "スライドの画像を更新する"
+
+#: inc/slide/metaslide.class.php:371
+msgid "Delete Permanently"
+msgstr "完全に削除する"
+
+#: inc/slide/metaslide.class.php:359
+msgid "Restore"
+msgstr "復元"
+
+#: inc/slide/metaslide.class.php:121
+msgid "There was an error updating the image. Please try again"
+msgstr "画像を更新する際にエラーが発生しました。もう一度お試しください。"
+
+#: inc/slide/metaslide.class.php:278
+msgid "There was an error while updating the database. Please try again."
+msgstr "データベースを更新する際にエラーが発生しました。もう一度お試しください。"
+
+#: inc/slide/metaslide.class.php:115
+msgid "The image was successfully updated."
+msgstr "画像を正常に更新しました。"
+
+#. Author of the plugin
+msgid "Team Updraft"
+msgstr "Team Updraft"
+
+#: ml-slider.php:508
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ml-slider.php:507
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ml-slider.php:509
+msgid "Layer Slide"
+msgstr "レイヤースライド"
+
+#: ml-slider.php:506
+msgid "Post Feed"
+msgstr "投稿 Feed"
+
+#: ml-slider.php:1549
+msgid "Opacity"
+msgstr "不透明度"
+
+#: ml-slider.php:1562
+msgid "Caption speed"
+msgstr "見出しのスピード"
+
+#: ml-slider.php:1564
+msgid "Set the fade in speed of the caption"
+msgstr "見出しのフェードイン速度を設定"
+
+#: ml-slider.php:1571
+msgid "Developer options"
+msgstr "開発用オプション"
+
+#: ml-slider.php:1576
+msgid "CSS classes"
+msgstr "CSS クラス"
+
+#: ml-slider.php:1578
+msgid "Specify any custom CSS Classes you would like to be added to the slider wrapper"
+msgstr "スライダーラッパーに追加したいカスタム CSS クラスを指定します。"
+
+#: ml-slider.php:1584
+msgid "Print CSS"
+msgstr "CSS を出力"
+
+#: ml-slider.php:1587
+msgid "Uncheck this is you would like to include your own CSS"
+msgstr "独自の CSS を含めたい場合はチェックを外してください"
+
+#: ml-slider.php:1592
+msgid "Print JS"
+msgstr "JS を出力"
+
+#: ml-slider.php:1595
+msgid "Uncheck this is you would like to include your own Javascript"
+msgstr "独自の Javascript を含めたい場合はチェックを外してください"
+
+#: ml-slider.php:1600
+msgid "No conflict mode"
+msgstr "競合モードなし"
+
+#: ml-slider.php:1603
+msgid "Delay adding the flexslider class to the slideshow"
+msgstr "フレックススライダー化を遅延する"
+
+#: ml-slider.php:1657
+msgid "Select slideshow to insert into post"
+msgstr "投稿に挿入するスライドショーを選択"
+
+#: ml-slider.php:1691
+msgid "Choose slideshow"
+msgstr "スライドショーを選択"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#: ml-slider.php:1697
+msgid "Insert slideshow"
+msgstr "スライドショーを挿入"
+
+#. Description of the plugin
+msgid "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
+msgstr "簡単に使えるスライドショープラグインです。 Nivo Slider、Flex Slider、Coin Slider、Responsive Slides で SEO に最適化されたレスポンシブ・スライドショーを作成しましょう。"
+
+#. Plugin Name of the plugin
+msgid "MetaSlider"
+msgstr "Meta Slider"
+
+#: inc/metaslider.widget.class.php:106
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/metaslider.widget.class.php:109
+msgid "Select Slider:"
+msgstr "スライダーを選択:"
+
+#: ml-slider.php:1699 inc/metaslider.widget.class.php:119
+#: admin/assets/js/app-3-16-3.js:38889 admin/assets/js/app-3-16-3.js:39124
+msgid "No slideshows found"
+msgstr "スライドショーがありません"
+
+#: admin/Pages.php:64 admin/assets/js/app-3-16-3.js:37837
+#: admin/assets/js/app-3-16-3.js:38126
+msgid "Caption"
+msgstr "キャプション"
+
+#: admin/Pages.php:65
+msgid "New Window"
+msgstr "新規ウインドウ"
+
+#: admin/Pages.php:63 admin/views/slides/tabs/general.php:27
+msgid "URL"
+msgstr "URL"
+
+#: inc/slide/metaslide.image.class.php:241
+msgid "Image Slide"
+msgstr "画像スライド"
+
+#: inc/slide/metaslide.image.class.php:333
+msgid "General"
+msgstr "一般"
+
+#: inc/slide/metaslide.image.class.php:337
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/slide/metaslide.image.class.php:322
+msgid "Warning: The image data does not exist. Please re-upload the image."
+msgstr "注: 画像データが存在しません。もう一度アップロードしてください。"
+
+#: admin/views/slides/tabs/seo.php:3
+msgid "Image Title Text"
+msgstr "画像タイトルテキスト"
+
+#: admin/views/slides/tabs/seo.php:13
+msgid "Image Alt Text"
+msgstr "画像の代替文字列"
+
+#: ml-slider.php:1846
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: admin/assets/js/app-3-16-3.js:7986
+msgid "Are you sure?"
+msgstr "よろしいですか ?"
+
+#: admin/Pages.php:81
+msgid "Caution: This setting is for advanced developers only. If you're unsure, leave it checked."
+msgstr "注意: この設定は上級の開発者のみ使用できます。もし確信が持てなければチェックしたままにしてください。"
+
+#: ml-slider.php:467
+msgid "Image"
+msgstr "画像"
+
+#: admin/views/pages/parts/toolbar.php:33
+msgid "Add Slide"
+msgstr "スライドを追加"
+
+#: admin/views/pages/parts/toolbar.php:89
+msgid "Save"
+msgstr "保存"
+
+#: ml-slider.php:1231 ml-slider.php:1477
+msgid "Width"
+msgstr "幅"
+
+#: ml-slider.php:1233 admin/assets/js/editor-block-3-16-3.js:161
+#: admin/assets/js/editor-block-3-16-3.js:184
+msgid "Slideshow width"
+msgstr "スライドショー幅"
+
+#: ml-slider.php:1234 ml-slider.php:1247 ml-slider.php:1396
+msgid "px"
+msgstr "px"
+
+#: ml-slider.php:1244 ml-slider.php:1490
+msgid "Height"
+msgstr "高さ"
+
+#: ml-slider.php:1246
+msgid "Slideshow height"
+msgstr "スライドショーの高さ"
+
+#: ml-slider.php:1253
+msgid "Effect"
+msgstr "効果"
+
+#: ml-slider.php:1255
+msgid "Slide transition effect"
+msgstr "スライド遷移エフェクト"
+
+#: ml-slider.php:1257 ml-slider.php:1409
+msgid "Random"
+msgstr "ランダム"
+
+#: ml-slider.php:1258
+msgid "Swirl"
+msgstr "回転"
+
+#: ml-slider.php:1259
+msgid "Rain"
+msgstr "レイン"
+
+#: ml-slider.php:1260
+msgid "Straight"
+msgstr "ストレート"
+
+#: ml-slider.php:1261
+msgid "Slide Down"
+msgstr "スライドダウン"
+
+#: ml-slider.php:1262
+msgid "Slice Up"
+msgstr "スライスアップ"
+
+#: ml-slider.php:1263
+msgid "Slide Up Left"
+msgstr "スライドアップ左"
+
+#: ml-slider.php:1264
+msgid "Slice Up Down"
+msgstr "上下から短冊をスライド (左から右へ)"
+
+#: ml-slider.php:1265
+msgid "Slide Up Down Left"
+msgstr "上下から短冊をスライド (右から左へ)"
+
+#: ml-slider.php:1266
+msgid "Fold"
+msgstr "左から短冊ワイプ"
+
+#: ml-slider.php:1267
+msgid "Fade"
+msgstr "フェード"
+
+#: ml-slider.php:1268
+msgid "Slide In Right"
+msgstr "右にスライドイン"
+
+#: ml-slider.php:1269
+msgid "Slide In Left"
+msgstr "左にスライドイン"
+
+#: ml-slider.php:1270
+msgid "Box Random"
+msgstr "角切りランダムワイプ"
+
+#: ml-slider.php:1271
+msgid "Box Rain"
+msgstr "右下へ角切りワイプ"
+
+#: ml-slider.php:1272
+msgid "Box Rain Reverse"
+msgstr "左上へ角切りワイプ"
+
+#: ml-slider.php:1273
+msgid "Box Rain Grow Reverse"
+msgstr "左上へ角切りワイプ (サイズ増)"
+
+#: ml-slider.php:1274
+msgid "Slide"
+msgstr "スライド"
+
+#: admin/assets/js/app-3-16-3.js:39453
+msgid "Themes"
+msgstr "テーマ"
+
+#: admin/assets/js/app-3-16-3.js:39260
+msgid "Slideshow Theme"
+msgstr "スライドショーのテーマ"
+
+#: ml-slider.php:1280
+msgid "Arrows"
+msgstr "矢印"
+
+#: ml-slider.php:1283
+msgid "Show the previous/next arrows"
+msgstr "前後への矢印を表示する"
+
+#: ml-slider.php:1288
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: ml-slider.php:1291
+msgid "Show the slide navigation bullets"
+msgstr "ナビゲーション用の点を表示する"
+
+#: ml-slider.php:1293
+msgid "Hidden"
+msgstr "非表示"
+
+#: ml-slider.php:1294
+msgid "Dots"
+msgstr "点"
+
+#: admin/assets/js/app-3-16-3.js:37810
+msgid "Title"
+msgstr "タイトル"
+
+#: ml-slider.php:1334
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+#: ml-slider.php:1346
+msgid "Stretch the slideshow output to fill it's parent container"
+msgstr "親コンテナいっぱいに伸縮"
+
+#: ml-slider.php:1351
+msgid "Center align"
+msgstr "中央揃え"
+
+#: ml-slider.php:1354
+msgid "Center align the slideshow"
+msgstr "スライドショーを中央揃え"
+
+#: ml-slider.php:1359
+msgid "Auto play"
+msgstr "自動再生"
+
+#: ml-slider.php:1362
+msgid "Transition between slides automatically"
+msgstr "自動トラジション"
+
+#: ml-slider.php:1376
+msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
+msgstr "自動切り抜きを使うと、レスポンシブスライドがスライドショーのサイズに合った比率で切り抜きされます"
+
+#: ml-slider.php:1381
+msgid "Carousel mode"
+msgstr "カルーセル・モード"
+
+#: ml-slider.php:1392
+msgid "Carousel margin"
+msgstr "カルーセルマージン"
+
+#: ml-slider.php:1395
+msgid "Pixel margin between slides in carousel."
+msgstr "カルーセル内のスライドの間隔 (px) 。"
+
+#: ml-slider.php:1412
+msgid "Randomise the order of the slides"
+msgstr "スライドの順番をランダムにする"
+
+#: ml-slider.php:1417
+msgid "Hover pause"
+msgstr "停止ボタン表示"
+
+#: ml-slider.php:1420
+msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+msgstr "スライダーをポイントしたときにスライド ショーを一時停止し、ホバリングを再開する。"
+
+#: ml-slider.php:1425
+msgid "Reverse"
+msgstr "逆戻り"
+
+#: ml-slider.php:1428
+msgid "Reverse the animation direction"
+msgstr "アニメーション方向反転"
+
+#: ml-slider.php:1438
+msgid "Slide delay"
+msgstr "スライドの遅延"
+
+#: ml-slider.php:1440
+msgid "How long to display each slide, in milliseconds"
+msgstr "各画像の表示時間 (ミリ秒)"
+
+#: ml-slider.php:1451
+msgid "Animation speed"
+msgstr "アニメーションの速度"
+
+#: ml-slider.php:1453
+msgid "Set the speed of animations, in milliseconds"
+msgstr "ミリ秒単位でアニメーションの速度を設定します。"
+
+#: ml-slider.php:1464 ml-slider.php:1466
+msgid "Number of slices"
+msgstr "スライスの数"
+
+#: ml-slider.php:1477 ml-slider.php:1479 ml-slider.php:1490 ml-slider.php:1492
+msgid "Number of squares"
+msgstr "スクエアの数"
+
+#: ml-slider.php:1498
+msgid "Slide direction"
+msgstr "スライドの方向"
+
+#: ml-slider.php:1500
+msgid "Select the sliding direction"
+msgstr "スライドの方向を選択"
+
+#: ml-slider.php:1503
+msgid "Horizontal"
+msgstr "水平方向"
+
+#: ml-slider.php:1504
+msgid "Vertical"
+msgstr "垂直方向"
+
+#: ml-slider.php:1510
+msgid "Easing"
+msgstr "イージング"
+
+#: ml-slider.php:1512
+msgid "Animation easing effect"
+msgstr "アニメーションイージングの効果"
+
+#: ml-slider.php:1519
+msgid "Previous text"
+msgstr "前のテキスト"
+
+#: ml-slider.php:1521
+msgid "Set the text for the 'previous' direction item"
+msgstr "「前へ」 項目のテキストを設定します。"
+
+#: ml-slider.php:1527
+msgid "Next text"
+msgstr "次のテキスト"
+
+#: ml-slider.php:1529
+msgid "Set the text for the 'next' direction item"
+msgstr "「次へ」項目のテキストの設定します。"
+
+#: ml-slider.php:1540
+msgid "Square delay"
+msgstr "スクエアの表示遅延"
+
+#: ml-slider.php:1542
+msgid "Delay between squares in ms"
+msgstr "スクエアの遅延速度を秒単位で設定する"
+
+#: ml-slider.php:1373
+msgid "Disabled"
+msgstr "無効"
+
+#: ml-slider.php:1372
+msgid "Standard"
+msgstr "標準"
+
+#: admin/old/navigation.php:70
+msgid "Switch to dropdown view"
+msgstr "ドロップダウンビューに変更"
+
+#: ml-slider.php:1367
+msgid "Image Crop"
+msgstr "画像の切り抜き"
+
+#: admin/old/navigation.php:70
+msgid "Switch to tabs view"
+msgstr "タブビューに変更"
+
+#: ml-slider.php:1371
+msgid "Smart Crop"
+msgstr "スマート切り抜き"
+
+#: inc/slide/metaslide.class.php:350
+msgid "Delete slide"
+msgstr "スライドを削除"
+
+#: admin/views/slides/tabs/crop.php:3
+msgid "Crop Position"
+msgstr "切り抜きの位置"
+
+#: inc/slide/metaslide.image.class.php:81
+msgid "Failed to add slide. Slide is not an image."
+msgstr "スライドの追加に失敗しました。スライドは画像ではありません。"
+
+#: admin/Pages.php:74
+msgid "Select replacement image"
+msgstr "代替画像を選択"
+
+#: ml-slider.php:1374
+msgid "Disabled (Smart Pad)"
+msgstr "無効 (Smart Pad)"
+
+#: admin/views/slides/tabs/crop.php:7
+msgid "Top Left"
+msgstr "左上"
+
+#: admin/views/slides/tabs/crop.php:8
+msgid "Top Center"
+msgstr "上中央"
+
+#: admin/views/slides/tabs/crop.php:9
+msgid "Top Right"
+msgstr "右上"
+
+#: admin/views/slides/tabs/crop.php:10
+msgid "Center Left"
+msgstr "中央左"
+
+#: admin/views/slides/tabs/crop.php:11
+msgid "Center Center"
+msgstr "中央/中央"
+
+#: admin/views/slides/tabs/crop.php:12
+msgid "Center Right"
+msgstr "中央右"
+
+#: admin/views/slides/tabs/crop.php:13
+msgid "Bottom Left"
+msgstr "左下"
+
+#: admin/views/slides/tabs/crop.php:14
+msgid "Bottom Center"
+msgstr "下中央"
+
+#: admin/views/slides/tabs/crop.php:15
+msgid "Bottom Right"
+msgstr "右下"
+
+#: inc/slide/metaslide.image.class.php:355
+msgid "Crop"
+msgstr "切り抜き"
+
+#: ml-slider.php:1384
+msgid "Display multiple slides at once. Slideshow output will be 100% wide."
+msgstr "一度に複数のスライドを表示します。スライド ショーの出力は、100%幅になります。"
+
+#: admin/views/pages/parts/toolbar.php:54
+msgid "Add a new slideshow"
+msgstr "新しいスライドショーを追加"

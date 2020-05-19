@@ -1,0 +1,1226 @@
+# Translation of Themes - Lightning in Japanese
+# This file is distributed under the same license as the Themes - Lightning package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-23 07:50:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Lightning\n"
+
+#. Theme Name of the theme
+msgid "Lightning"
+msgstr "Lightning"
+
+#. Description of the theme
+msgid "Lightning is a very simple & easy to customize theme which is based on the Bootstrap. It is also very friendly with custom post types and custom taxonomies. When you add a new one, the breadcrumbs will be adjusted and posts will look beautifully without editing or adding a template files."
+msgstr "Lightning は Bootstrap ベースでとてもシンプルで簡単にカスタマイズできるテーマです。カスタム投稿タイプやカスタム分類にとてもフレンドリーです。新しく追加すると、パンくずリストが調整され、投稿はテンプレートファイルを編集、追加せずにきれいに見えます。"
+
+#: inc/vk-components/package/class-vk-component-posts.php:355
+msgid "Media"
+msgstr "メディア"
+
+#: inc/customize/customize-design.php:125
+msgid "This setting field was moved to the \"Layout Setting\" panel."
+msgstr "この設定項目は「レイアウト設定」パネルに移動しました。"
+
+#: inc/enqueue-point-controller/enqueue-point-controller.php:44
+msgid "If you enabled this checkbox that page loading speed become little faster."
+msgstr "このチェックボックスを有効にするとページの読み込み速度が若干向上します。"
+
+#: inc/enqueue-point-controller/enqueue-point-controller.php:40
+msgid "Move to footer"
+msgstr "フッターに移動する"
+
+#: inc/enqueue-point-controller/enqueue-point-controller.php:23
+msgid "Move part of CSS and JS to the footer to improve display speed."
+msgstr "CSS and JS の一部をフッターに移動して表示速度の改善を図ります。"
+
+#: inc/enqueue-point-controller/enqueue-point-controller.php:19
+msgid "CSS and JavaScript load point "
+msgstr "CSS と JavaScript の読み込み位置"
+
+#: inc/class-design-manager.php:45
+msgid "Origin II ( Bootstrap4 )"
+msgstr "Origin II ( Bootstrap4 )"
+
+#: inc/class-design-manager.php:35
+msgid "Origin ( Not recommended )"
+msgstr "Origin ( 非推奨 )"
+
+#: inc/layout-controller/admin-post-meta.php:94
+msgid "Delete siteContent padding"
+msgstr "siteContentの上下余白を無しにする"
+
+#: inc/layout-controller/admin-post-meta.php:90
+msgid "Padding and margin setting"
+msgstr "余白設定"
+
+#: inc/layout-controller/admin-post-meta.php:75
+msgid "Don't display"
+msgstr "表示しない"
+
+#: inc/layout-controller/admin-post-meta.php:71
+msgid "Page Header and Breadcrumb"
+msgstr "ページヘッダーとパンくずリスト"
+
+#: inc/layout-controller/admin-post-meta.php:52
+msgid "Use common settings"
+msgstr "共通設定を適用"
+
+#: inc/layout-controller/admin-post-meta.php:40
+msgid "Layout setting"
+msgstr "レイアウト設定"
+
+#: inc/layout-controller/admin-customize-layout.php:66
+#: inc/layout-controller/admin-post-meta.php:55
+msgid "1 column ( No sub section )"
+msgstr "１カラム (サブセクション無し)"
+
+#: inc/layout-controller/admin-customize-layout.php:65
+#: inc/layout-controller/admin-post-meta.php:54
+msgid "1 column"
+msgstr "１カラム"
+
+#: inc/layout-controller/admin-customize-layout.php:64
+#: inc/layout-controller/admin-post-meta.php:53
+msgid "2 column"
+msgstr "２カラム"
+
+#: inc/layout-controller/admin-customize-layout.php:57
+msgid "Single page"
+msgstr "投稿ページ"
+
+#: inc/layout-controller/admin-customize-layout.php:54
+msgctxt "customize-layout"
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/layout-controller/admin-customize-layout.php:51
+msgid "Archive page"
+msgstr "アーカイブページ"
+
+#. Template Name of the theme
+msgid "Landing Page for Page Builder ( not recommended )"
+msgstr "Landing Page for Page Builder (非推奨)"
+
+#: header.php:16
+msgid "Skip to the Navigation"
+msgstr "ナビゲーションに移動"
+
+#: header.php:15
+msgid "Skip to the content"
+msgstr "コンテンツへスキップ"
+
+#. Template Name of the theme
+msgid "Landing Page ( not recommended )"
+msgstr "ランディングページ (非推奨)"
+
+#. Template Name of the theme
+msgid "No sidebar ( not recommended )"
+msgstr "サイドバーなし (非推奨)"
+
+#: inc/layout-controller/admin-customize-layout.php:161
+msgid "Sidebar fix"
+msgstr "サイドバーの固定"
+
+#: inc/layout-controller/admin-customize-layout.php:112
+msgid "Sidebar Setting"
+msgstr "サイドバーの設定"
+
+#: inc/layout-controller/admin-customize-layout.php:63
+msgid "Unspecified"
+msgstr "指定なし"
+
+#: inc/layout-controller/admin-customize-layout.php:48
+msgid "404 page"
+msgstr "404ページ"
+
+#: inc/layout-controller/admin-customize-layout.php:45
+msgid "Search"
+msgstr "検索"
+
+#: inc/layout-controller/admin-customize-layout.php:41
+msgid "Home page"
+msgstr "トップページ"
+
+#: inc/layout-controller/admin-customize-layout.php:29
+msgid "PC mode"
+msgstr "PC閲覧時"
+
+#: inc/layout-controller/admin-customize-layout.php:29
+msgid "Column Setting"
+msgstr "カラム設定"
+
+#: inc/layout-controller/admin-customize-layout.php:12
+msgid "Layout settings"
+msgstr "レイアウト設定"
+
+#: inc/term-color/package/class.term-color.php:41
+#: inc/term-color/package/class.term-color.php:56
+#: inc/term-color/package/class.term-color.php:130
+msgid "Color"
+msgstr "色"
+
+#: inc/package-manager.php:91
+msgid "Stop %s"
+msgstr "%s を停止"
+
+#: inc/package-manager.php:73
+msgid "These are old functions that already alternated to the new function."
+msgstr "これらの古い機能は新しい機能に置き換わります。"
+
+#: inc/package-manager.php:69
+msgid "Not recommended functions"
+msgstr "非推奨機能"
+
+#: inc/package-manager.php:56
+msgid "Function Settings"
+msgstr "機能設定"
+
+#: inc/package-manager.php:41
+msgid "You can use same function by PR Block in Plugin VK Blocks"
+msgstr "プラグイン VK Blocks の PR Block ブロックで同様の機能が利用できます。"
+
+#: inc/package-manager.php:36
+msgid "If you are using Lightning Pro that, You can use the more powerful function by Media Posts BS4 Widget and Latest Posts Block in Plugin VK Blocks."
+msgstr "Lightning Proを使用している場合、Media Posts BS4 ウィジェット および プラグイン VK Blocks の 新着記事ブロックにより、より強力な機能を使用できます。"
+
+#: inc/package-manager.php:31
+msgid "If you are using Lightning Pro that, You can use the same function by Outer Block and Title Block in Plugin VK Blocks."
+msgstr "Lightning Proを使用している場合、プラグイン VK Blocks の Outer ブロックと見出しブロックで同じ機能を利用できます。"
+
+#: inc/package-manager.php:30
+msgid "Full Wide Title Widget"
+msgstr "全幅見出しウィジェット"
+
+#: inc/vk-components/package/class-vk-component-posts.php:36
+#: template-parts/post/loop-layout-use-component-sample.php:14
+msgid "New!!"
+msgstr "新着!!"
+
+#: inc/customize/customize-top-slide.php:30
+msgid "Slide effect"
+msgstr "スライド効果"
+
+#: template-parts/post/next-prev.php:50
+msgid "Next article"
+msgstr "次の記事"
+
+#: template-parts/post/next-prev.php:38
+msgid "Previous article"
+msgstr "前の記事"
+
+#: inc/customize/customize-design.php:142
+msgid "Other Setting"
+msgstr "その他の設定"
+
+#: inc/customize/customize-design.php:121
+msgid "Layout Setting"
+msgstr "レイアウト設定"
+
+#: inc/customize/customize-design.php:63
+msgid "Key Color"
+msgstr "キーカラー"
+
+#: inc/customize/customize-design.php:60
+msgid "Color Setting"
+msgstr "色設定"
+
+#: inc/customize/customize-design.php:227
+msgid "Don't display grandchild page of deactive page at page sidebar."
+msgstr "固定ページのサイドバーに非アクティブな孫ページを表示しない"
+
+#: inc/customize/customize-top-slide.php:97
+msgid "Slide"
+msgstr "スライド"
+
+#: inc/widgets/widget-new-posts.php:287
+msgid "Latest post list"
+msgstr "最近の投稿一覧"
+
+#: inc/widgets/widget-new-posts.php:286
+msgid "Notation text:"
+msgstr "ボタンの文字 : "
+
+#: inc/widgets/widget-new-posts.php:283
+msgid "Destination URL:"
+msgstr "リンク先URL : "
+
+#: inc/widgets/widget-new-posts.php:278
+msgid "if empty this area, I will do not filtering."
+msgstr "未入力の場合はカスタム分類による絞り込みはされません。"
+
+#: inc/widgets/widget-new-posts.php:276
+msgid "if you need filtering by term, add the term ID separate by \",\"."
+msgstr "カスタム分類で絞り込みをしたい場合はカスタム分類IDを入力してください。複数のカスタム分類を指定したい場合は , で区切って下さい。"
+
+#: inc/widgets/widget-new-posts.php:273
+msgid "taxonomy ID"
+msgstr "カスタム分類ID"
+
+#: inc/widgets/widget-new-posts.php:268
+msgid "Slug for the custom type you want to display"
+msgstr "表示したいカスタム投稿タイプのスラッグ"
+
+#: inc/widgets/widget-new-posts.php:263
+msgid "Display count"
+msgstr "表示件数"
+
+#: inc/widgets/widget-new-posts.php:253
+msgid "Content"
+msgstr "内容"
+
+#: inc/widgets/widget-new-posts.php:246
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: inc/widgets/widget-new-posts.php:246 inc/widgets/widget-new-posts.php:253
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/widgets/widget-new-posts.php:246 inc/widgets/widget-new-posts.php:253
+msgid "Date"
+msgstr "日付"
+
+#: inc/widgets/widget-new-posts.php:246
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: inc/widgets/widget-new-posts.php:239
+msgid "Display Format"
+msgstr "表示形式"
+
+#: inc/widgets/widget-new-posts.php:49 inc/widgets/widget-new-posts.php:228
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: inc/widgets/widget-new-posts.php:17
+msgid "Displays a list of your most recent posts."
+msgstr "最近の投稿リストを表示します。"
+
+#: inc/widgets/widget-new-posts.php:12 inc/package-manager.php:35
+msgid "Content Area Posts Widget"
+msgstr "コンテンツエリア投稿ウィジェット"
+
+#: inc/widgets/widget-full-wide-title.php:153
+msgid "Margin Bottom"
+msgstr "余白下部"
+
+#: inc/widgets/widget-full-wide-title.php:149
+#: inc/widgets/widget-full-wide-title.php:157
+msgid "Ex"
+msgstr "例"
+
+#: inc/widgets/widget-full-wide-title.php:145
+msgid "Margin Top"
+msgstr "余白上部"
+
+#: inc/widgets/widget-full-wide-title.php:142
+msgid "Set to parallax"
+msgstr "パララックスにする"
+
+#: inc/widgets/widget-full-wide-title.php:98
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: inc/widgets/widget-full-wide-title.php:97
+msgid "Set image"
+msgstr "画像を設定"
+
+#: inc/widgets/widget-full-wide-title.php:82
+msgid "Title background color:"
+msgstr "タイトル背景色 :"
+
+#: inc/widgets/widget-full-wide-title.php:77
+msgid "Text shadow color:"
+msgstr "文字の影の色 :"
+
+#: inc/widgets/widget-full-wide-title.php:73
+msgid "Text shadow"
+msgstr "文字の影"
+
+#: inc/widgets/widget-full-wide-title.php:67
+msgid "Text color of the title:"
+msgstr "見出しの文字色 :"
+
+#: inc/widgets/widget-full-wide-title.php:61
+msgid "Sub title:"
+msgstr "サブタイトル :"
+
+#: inc/widgets/widget-new-posts.php:258
+#: inc/widgets/widget-full-wide-title.php:44
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/widgets/widget-full-wide-title.php:10
+msgid "This widget is used for single column only."
+msgstr "このウィジェットは１カラムでのみ対応しています。"
+
+#: inc/widgets/widget-full-wide-title.php:9
+msgid "Full Wide Title"
+msgstr "全幅見出し"
+
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:142
+msgid "This is the widget area.<br>You can set widget item from [ <a href=\"%s\">Appearance > Customize</a> ] Page -> \"Widgets\" panel -> \"Mobile Nav Bottom\" Panel."
+msgstr "ここはウィジェットエリアです。<br>[ <a href=\"%s\">外観 > カスタマイズ</a> ] ページ -> 「ウィジェット」 パネル -> 「モバイルナビ上部」 パネルから設定できます。"
+
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:131
+msgid "Menu is not set.<br>Please set menu from [ <a href=\"%s\">Appearance > Customize</a> ] Page -> \"Menus\" panel -> Menu Locations \"Mobile Navigation\"."
+msgstr "メニューが設定されていません。<br>[ <a href=\"%s\">外観 > カスタマイズ</a> ] ページ ->「メニュー」 パネル -> メニューの位置「Mobile Navigation」より設定してください。"
+
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:98
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:132
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:143
+msgid "* This message is displayed only to users with editing authority."
+msgstr "* このメッセージは編集権限のあるユーザーにのみ表示されています。"
+
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:97
+msgid "This is the widget area.<br>You can set widget item from [ <a href=\"%s\">Appearance > Customize</a> ] Page -> \"Widgets\" panel -> \"Mobile Nav Upper\" Panel."
+msgstr "ここはウィジェットエリアです。<br>[ <a href=\"%s\">外観 > カスタマイズ</a> ] ページ -> 「ウィジェット」 パネル -> 「モバイルナビ上部」 パネルから設定できます。"
+
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:69
+msgid "Mobile Nav Bottom"
+msgstr "モバイルナビ下部"
+
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:59
+msgid "Mobile Nav Upper"
+msgstr "モバイルナビ上部"
+
+#: inc/layout-controller/admin-customize-layout.php:135
+msgid "Sidebar position ( PC mode )"
+msgstr "サイドバーの位置 ( PC閲覧時 )"
+
+#: inc/layout-controller/admin-customize-layout.php:178
+msgid "Don't fix the sidebar"
+msgstr "サイドバーを固定しない"
+
+#: inc/package-manager.php:40 inc/front-page-pr.php:13
+msgid "Front Page PR Block"
+msgstr "トップページ PR Block"
+
+#: inc/customize/customize-top-slide.php:10
+msgid "Home page slide show"
+msgstr "トップページスライドショー"
+
+#: inc/customize/customize-design.php:10
+msgid "Design settings"
+msgstr "デザイン設定"
+
+#: functions.php:283
+msgid "This widget area appears on the Media page only."
+msgstr "このウィジェットはメディアコンテンツでのみ表示されます。"
+
+#: functions.php:279
+msgid "This widget area appears on the Pages page only. If you do not set any widgets in this area, this theme sets the \"Child pages list widget\" by default. This default widget will be hidden, when you set any widgets. <br><br> If you installed our plugin VK All in One Expansion Unit (Free), you can use the \"VK_ child page list\" widget for the alternative."
+msgstr "このウィジェットエリアに何もセットされていない場合は、現在表示されているページの先祖階層からのページリストが表示されます。しかし、このエリアに何かウィジェットを設定した場合には非表示になります。<br><br>固定ページのサイドバーのみに何かを表示させたい場合は、このエリアに表示したいウィジェットを設定してください。ウィジェットで設定する場合は「VK 子ページのリスト」ウィジェットで同様の表示をする事もできます。"
+
+#: functions.php:275
+msgid "This widget area appears on the Posts page only. If you do not set any widgets in this area, this theme sets the following widgets \"Recent posts\", \"Category\", and \"Archive\" by default. These default widgets will be hidden, when you set any widgets. <br><br> If you installed our plugin VK All in One Expansion Unit (Free), you can use the following widgets, \"VK_Recent posts\",  \"VK_Categories\", and  \"VK_archive list\"."
+msgstr "このウィジェットエリアに何もセットされていない場合は、「最新記事リスト」「カテゴリーリスト」「月別アーカイブリスト」が表示されます。しかし、このエリアに何かウィジェットを設定した場合には「最新記事リスト」「カテゴリーリスト」「月別アーカイブリスト」は非表示になります。<br><br>投稿コンテンツ（ 投稿の詳細ページ / カテゴリーアーカイブページ / 投稿の月別アーカイブページ / タグアーカイブページ ）のサイドバーのみに何かを表示させたい場合や、投稿コンテンツのサイドバーに表示されている要素の順番を任意に設定したい時、非表示にしたい要素がある場合は、このエリアに表示したいウィジェットを設定してください。ウィジェットで設定する場合は「VK 最新記事」「VK カテゴリー/カスタム分類」「VK アーカイブリスト」ウィジェットで同様の表示をする事もできます。"
+
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:39
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:54
+msgid "Not recommended"
+msgstr "非推奨"
+
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:216
+msgid "4.7 will be abolished in the near future."
+msgstr "4.7は将来的に廃止されます。"
+
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:213
+msgid "Font Awesome Version"
+msgstr "Font Awesome バージョン"
+
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:190
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:86
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:88
+msgid "Ex ) "
+msgstr "例)"
+
+#. Translators: %s: LP title
+#: functions.php:368
+msgid "LP widget \"%s\""
+msgstr "LP ウィジェット \"%s\""
+
+#: inc/customize/customize-top-slide.php:64
+msgid "millisecond"
+msgstr "ミリ秒"
+
+#: inc/customize/customize-top-slide.php:58
+msgid "Slide interval time"
+msgstr "スライド切り替え間隔"
+
+#: inc/template-tags.php:164
+msgid "Growing up everyday"
+msgstr "Growing up everyday"
+
+#: inc/template-tags.php:163
+msgid "Johnijirou On Snow"
+msgstr "Johnijirou On Snow"
+
+#: inc/template-tags.php:156 inc/template-tags.php:165
+msgid "READ MORE"
+msgstr "READ MORE"
+
+#: inc/template-tags.php:155
+msgid "100% GPL Lisence  and adopting the bootstrap"
+msgstr "100% GPL ライセンス / Bootstrap ベース"
+
+#: inc/template-tags.php:154
+msgid "Simple and Customize easy <br>WordPress theme."
+msgstr "シンプルでカスタマイズしやすい <br>WordPress テーマ"
+
+#: inc/template-tags.php:153
+msgid "https://lightning.nagoya/"
+msgstr "https://lightning.nagoya/"
+
+#: inc/front-page-pr.php:130
+msgid "PR Link URL"
+msgstr "リンク URL"
+
+#: inc/front-page-pr.php:119
+msgid "PR Text"
+msgstr "サブテキスト"
+
+#: inc/front-page-pr.php:108
+msgid "PR Title"
+msgstr "タイトル"
+
+#: inc/front-page-pr.php:95
+msgid "Icon "
+msgstr "アイコン"
+
+#: inc/front-page-pr.php:31
+msgid "Display Front Page PR Block"
+msgstr "PR Block を表示する"
+
+#: inc/customize/customize-top-slide.php:423
+msgid "Text shadow color"
+msgstr "文字の影の色"
+
+#: inc/customize/customize-top-slide.php:402
+msgid "Use text shadow"
+msgstr "文字に影をつける"
+
+#: inc/customize/customize-top-slide.php:382
+msgid "Slide text color"
+msgstr "スライド上の文字色"
+
+#: inc/layout-controller/admin-customize-layout.php:140
+#: inc/customize/customize-top-slide.php:364
+msgid "Right"
+msgstr "右"
+
+#: inc/customize/customize-top-slide.php:363
+msgid "Center"
+msgstr "中央"
+
+#: inc/layout-controller/admin-customize-layout.php:141
+#: inc/customize/customize-top-slide.php:362
+msgid "Left"
+msgstr "左"
+
+#: inc/customize/customize-top-slide.php:356
+msgid "Position to display text"
+msgstr "位置"
+
+#: inc/customize/customize-top-slide.php:338
+msgid "If you do not fill in the link url and button text that, button is do not display."
+msgstr "リンクの URL とボタンのテキストを入力しないと、ボタンは表示されません。"
+
+#: inc/customize/customize-top-slide.php:333
+msgid "Button text"
+msgstr "ボタンのテキスト"
+
+#: inc/customize/customize-top-slide.php:310
+msgid "Slide text"
+msgstr "スライドテキスト"
+
+#: inc/customize/customize-top-slide.php:288
+msgid "Slide title"
+msgstr "スライドタイトル"
+
+#: inc/customize/customize-top-slide.php:267
+msgid "Open in new window."
+msgstr "リンク先を別ウィンドウで開く"
+
+#: inc/customize/customize-top-slide.php:246
+msgid "Slide image link url"
+msgstr "スライド画像リンク先 URL"
+
+#: inc/customize/customize-top-slide.php:227
+msgid "Please input 0 - 100 number"
+msgstr "0-100の数値で入力してください"
+
+#: inc/customize/customize-top-slide.php:222
+msgid "Slide cover opacity"
+msgstr "スライドに被せる色の濃さ"
+
+#: inc/customize/customize-top-slide.php:201
+msgid "Slide cover color"
+msgstr "スライドに被せる色"
+
+#: inc/customize/customize-top-slide.php:178
+msgid "Slide image alt"
+msgstr "スライド画像の代替テキスト"
+
+#: inc/customize/customize-top-slide.php:155
+#: inc/customize/customize-top-slide.php:201
+#: inc/customize/customize-top-slide.php:288
+#: inc/customize/customize-top-slide.php:310
+#: inc/customize/customize-top-slide.php:333
+#: inc/customize/customize-top-slide.php:356
+#: inc/customize/customize-top-slide.php:382
+#: inc/customize/customize-top-slide.php:402
+#: inc/customize/customize-top-slide.php:423
+msgid "optional"
+msgstr "任意"
+
+#: inc/customize/customize-top-slide.php:155
+msgid "Slide image for mobile"
+msgstr "モバイル用スライド画像"
+
+#: inc/customize/customize-top-slide.php:134
+msgid "Recommended image size : 1900*600px"
+msgstr "推奨画像サイズ: 1900×600px"
+
+#: inc/customize/customize-top-slide.php:130
+msgid "Slide image"
+msgstr "スライド画像"
+
+#: inc/customize/customize-design.php:208
+msgid "Don't display post author on a single page"
+msgstr "投稿詳細ページで投稿者名を表示しない"
+
+#: inc/customize/customize-design.php:189
+msgid "Hide modified date on single pages."
+msgstr "投稿詳細ページで最終更新日を表示しない"
+
+#: inc/customize/customize-design.php:170
+msgid "Don't show default content(Post list or Front page) at home page"
+msgstr "トップページでデフォルトの投稿リストや固定ページを表示しない"
+
+#: inc/customize/customize-design.php:101
+msgid "Key color (dark)"
+msgstr "キーカラー (暗)"
+
+#: inc/customize/customize-design.php:82
+msgid "Key color"
+msgstr "キーカラー"
+
+#: inc/customize/customize-design.php:32
+msgid "Header logo image"
+msgstr "ヘッダーロゴ画像"
+
+#: inc/layout-controller/admin-post-meta.php:18
+msgid "Lightning design setting"
+msgstr "Lightning デザイン設定"
+
+#: inc/customize/customize-design.php:36
+msgid "Recommended image size : 280*60px"
+msgstr "推奨画像サイズ: 280×60px"
+
+#: inc/front-page-pr.php:176
+msgid "Lightning is includes to a variety of ideas for making it easier to business site. Please experience the ease of use of the Lightning."
+msgstr "Lightning にはビジネスサイトを簡単に作るための様々な工夫がしてあります。Lightning の使い易さを是非体験してください。"
+
+#: inc/front-page-pr.php:175
+msgid "By using the plug-in \"VK All in One Expansion Unit (free)\", you can use the various functions and rich widgets."
+msgstr "同時開発されたプラグイン「VK All in One Expansion Unit (無料)」を使用する事により、様々な機能や豊富なウィジェットを利用する事ができます。"
+
+#: inc/front-page-pr.php:174
+msgid "Lightning is a simple and customize easy theme. It corresponds by the outstanding versatility to the all-round also in business sites and blogs."
+msgstr "ライトニングはシンプルでカスタマイズしやすい WordPress テーマです。抜群の拡張性でビジネスサイトにもブログにもオールラウンドに対応します。"
+
+#: inc/front-page-pr.php:171
+msgid "Surprisingly easy"
+msgstr "驚くほど簡単"
+
+#: inc/front-page-pr.php:170
+msgid "Powerful features"
+msgstr "豊富で強力な機能"
+
+#: inc/front-page-pr.php:169
+msgid "For all purposes"
+msgstr "シンプル & 高汎用"
+
+#: inc/front-page-pr.php:36
+msgid "* If you want to use the more advanced features and set a PR Block anywhere, please Install the WordPress official directory registration plug-in \"VK All in One Expansion Unit (Free)\" and use the \"VK PR Blocks widgets\". "
+msgstr "*PR Block を好きな場所に設定したり、より高度な機能を使いたい場合は、WordPress 公式ディレクトリ登録プラグイン「VK All in One Expansion Unit (無料)」をインストール・有効化して、ウィジェット「VK PR Blocks」をご利用ください。"
+
+#: inc/class-design-manager.php:272
+msgid "If you change the skin, please save once and reload the page."
+msgstr "デザインスキンを変更した場合は一度保存してページを再読み込みしてください。"
+
+#: inc/class-design-manager.php:274
+msgid "*There is also a case where there is no skin-specific installation item."
+msgstr "※スキンによっては固有の設置項目がない場合もあります。"
+
+#: inc/class-design-manager.php:273
+msgid "If you reload after the saving, it will be displayed skin-specific configuration items."
+msgstr "保存した後で再読み込みをすると、スキン固有の設定項目が表示されます。"
+
+#: inc/class-design-manager.php:269
+msgid "Design skin"
+msgstr "デザインスキン"
+
+#: sidebar-post.php:66
+msgid "Archive"
+msgstr "アーカイブ化"
+
+#: single.php:98 inc/widgets/widget-new-posts.php:190
+msgid "Tags"
+msgstr "タグ"
+
+#: single.php:78 inc/widgets/widget-new-posts.php:168
+msgid "<dl><dt>%s</dt><dd>%l</dd></dl>"
+msgstr "<dl><dt>%s</dt><dd>%l</dd></dl>"
+
+#: sidebar-post.php:57 inc/widgets/widget-new-posts.php:246
+#: inc/widgets/widget-new-posts.php:253
+msgid "Category"
+msgstr "カテゴリー"
+
+#: sidebar-post.php:26
+msgid "Recent posts"
+msgstr "最近の投稿"
+
+#: template-parts/page-header.php:38 template-parts/page-header.php:41
+#: template-parts/breadcrumb.php:216
+msgid "Search Results for : %s"
+msgstr "\"%s\" の検索結果"
+
+#: template-parts/post/meta.php:12
+msgid "Last updated"
+msgstr "最終更新日時"
+
+#: template-parts/page-header.php:43 template-parts/breadcrumb.php:209
+msgid "Not found"
+msgstr "ページが見つかりません"
+
+#: inc/template-tags.php:415
+msgid "Copyright &copy; %s All Rights Reserved."
+msgstr "Copyright &copy; %s All Rights Reserved."
+
+#: inc/template-tags.php:420
+msgid "<p>Powered by <a href=\"https://wordpress.org/\">WordPress</a> &amp; <a href=\"https://lightning.nagoya\" target=\"_blank\" title=\"Free WordPress Theme Lightning\"> Lightning Theme</a> by Vektor,Inc. technology.</p>"
+msgstr "<p>Powered by <a href=\"https://wordpress.org/\">WordPress</a> &amp; <a href=\"https://lightning.nagoya/ja/\" target=\"_blank\" title=\"Free WordPress Theme Lightning\"> Lightning Theme</a> by Vektor,Inc. technology.</p>"
+
+#: inc/tgm-plugin-activation/tgm-config.php:86
+msgid "This theme recommends the following plugin: %1$s.<br>Many additional functions are available for free."
+msgid_plural "This theme recommends the following plugins: %1$s.<br>Many additional functions are available for free."
+msgstr[0] "このテーマは次のプラグインを利用する事を推奨しています : %1$s.<br>この無料のプラグインによって様々な機能を追加する事が出来ます。"
+
+#: inc/widgets/widget-new-posts.php:142
+#: inc/vk-components/package/class-vk-component-posts.php:34
+#: template-parts/post/loop-layout-use-component-sample.php:12
+msgid "Read more"
+msgstr "続きを読む"
+
+#: inc/template-tags.php:402
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/template-tags.php:387
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:385
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:383
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: functions.php:287 inc/woocommerce/functions-woo.php:33
+msgid "This widget area appears on the %s contents page only."
+msgstr "このウィジェットは%sコンテンツでのみ表示されます。"
+
+#: functions.php:230
+msgid "Sidebar(Home)"
+msgstr "サイドバー (トップページ)"
+
+#: index.php:114 front-page.php:103
+msgid "No posts."
+msgstr "投稿はありません。"
+
+#: functions.php:250
+msgid "Sidebar(Common bottom)"
+msgstr "サイドバー (共通下部)"
+
+#: functions.php:240
+msgid "Sidebar(Common top)"
+msgstr "サイドバー (共通上部)"
+
+#: functions.php:294 inc/woocommerce/functions-woo.php:38
+msgid "Sidebar(%s)"
+msgstr "サイドバー (%s)"
+
+#: functions.php:324
+msgid "Widget area of upper footer"
+msgstr "フッター上部"
+
+#: functions.php:311
+msgid "Home content top"
+msgstr "トップページコンテンツエリア上部"
+
+#: functions.php:341
+msgid "Footer widget area "
+msgstr "フッターウィジェットエリア "
+
+#: inc/customize/customize-top-slide.php:183
+msgid "This title text is print to alt tag."
+msgstr "このテキストは alt に反映されます。"
+
+#: inc/template-tags.php:381
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: index.php:107 front-page.php:92
+msgid "Page"
+msgstr "固定ページ"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:39 comments.php:60
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:38 comments.php:59
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:35 comments.php:56
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; に対して%1$s件のコメントがあります。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3395
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3394
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3389
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3392
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3393
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールを完了しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3388
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3400
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3387
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s のインストールと有効化が完了しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3400
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3386
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2694
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストールできるプラグインはありません。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2827
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2656
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2658
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2801
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2625
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2622
+msgid "Update"
+msgstr "更新"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2504
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "%2$s をインストール"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2508
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$s を更新"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2513
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "%2$s を有効化"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2616
+msgid "Install"
+msgstr "インストール"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2456
+msgid "Status"
+msgstr "ステータス"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2455
+msgid "Version"
+msgstr "バージョン"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2451
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2450
+msgid "Source"
+msgstr "ソース"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2302
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "未有効化 <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Minimum required version:"
+msgstr "最低必須バージョン:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "インストール・更新・有効化が必要なプラグインはありません。<a href=\"%1$s\">ダッシュボードに戻る</a>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2449
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2299
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2296
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2234
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2237
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2248
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2293
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2228
+msgid "Active"
+msgstr "有効"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2222
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2199
+msgid "WordPress Repository"
+msgstr "WordPress リポジトリ"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2205
+msgid "Pre-Packaged"
+msgstr "パッケージ化済み"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2202
+msgid "External Source"
+msgstr "外部ソース"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2183
+msgid "Recommended"
+msgstr "推奨"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:942
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:942
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1124
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2841
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1894
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2180
+msgid "Required"
+msgstr "必須"
+
+#: inc/tgm-plugin-activation/tgm-config.php:144
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:145
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:146
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "この通知を無視"
+
+#: inc/tgm-plugin-activation/tgm-config.php:147
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "代わりに parent_slug の設定変数を設定してください。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:826
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3460
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: inc/tgm-plugin-activation/tgm-config.php:142
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3042
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:143
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2845
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインを有効化しました:"
+
+#: inc/tgm-plugin-activation/tgm-config.php:141
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: inc/tgm-plugin-activation/tgm-config.php:121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "%1$s プラグインを有効化するための適切な権限がありません。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:126
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: inc/tgm-plugin-activation/tgm-config.php:131
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: inc/tgm-plugin-activation/tgm-config.php:136
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: inc/tgm-plugin-activation/tgm-config.php:101
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "利用可能な更新があります: %1$s。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:106
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "%1$s プラグインを更新する権限がありません。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:111
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ必須プラグインは、現在有効化されていません: %1$s。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:116
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s。"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:91
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "%1$s プラグインをインストールするための適切な権限がありません。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:96
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:81
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です: %1$s。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:80
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#: inc/tgm-plugin-activation/tgm-config.php:79
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: inc/tgm-plugin-activation/tgm-config.php:77
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: inc/tgm-plugin-activation/tgm-config.php:78
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#. Theme URI of the theme
+msgid "https://lightning.nagoya"
+msgstr "https://lightning.nagoya"
+
+#. Author of the theme
+msgid "Vektor,Inc."
+msgstr "Vektor,Inc."
+
+#. Author URI of the theme
+msgid "https://www.vektor-inc.co.jp"
+msgstr "http://www.vektor-inc.co.jp"

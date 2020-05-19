@@ -1,0 +1,35 @@
+.highslide {
+	cursor: zoom-in;
+}
+.highslide-wrapper {
+	cursor: zoom-out;
+	background: #fff;
+	box-shadow: 2px 2px 24px #666;
+	border-radius: 6px;
+}
+.highslide-image {
+	border: 10px solid #fff;
+	border-radius: 6px;
+}
+.highslide-loading {
+	color: #000;
+	background: #fff;
+	padding: 5px 10px;
+}
+.highslide-header ul li span,
+.highslide-header .highslide-move {
+	display: none;
+}
+.highslide-caption {
+	display: none;
+	font-size: 1em;
+	padding: 10px;
+}
+
+a.highslide-full-expand {
+	background: url(./images/fullexpand.gif) no-repeat;
+	display: block;
+	margin: 0 6px 6px 0;
+	width: 36px;
+	height:36px;
+}

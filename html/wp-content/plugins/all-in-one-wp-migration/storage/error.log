@@ -1,0 +1,36 @@
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1569891553.png): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1712626182.txt): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1205251560.txt): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/500963195.txt): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1458087187.png): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/381391511.png): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1712626182.png): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:00
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1569891553.txt): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:01
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1205251560.png): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:01
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/381391511.txt): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:01
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/1458087187.txt): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Apr 28 2020 03:16:01
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/siteguard\/really-simple-captcha\/tmp\/500963195.png): failed to open stream: Permission denied","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+

@@ -1,0 +1,3379 @@
+# Translation of Plugins - WordPress Shortcodes Plugin — Shortcodes Ultimate - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WordPress Shortcodes Plugin — Shortcodes Ultimate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 13:33:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WordPress Shortcodes Plugin — Shortcodes Ultimate - Stable (latest release)\n"
+
+#: templates/single-post.php:19
+msgid "%n comments"
+msgstr "%n件のコメント"
+
+#: templates/default-loop.php:24 templates/single-post.php:19
+msgid "1 comment"
+msgstr "1件のコメント"
+
+#: templates/default-loop.php:24 templates/single-post.php:19
+msgid "0 comments"
+msgstr "コメントなし"
+
+#: templates/default-loop.php:16 templates/single-post.php:17
+msgid "Posted"
+msgstr "投稿"
+
+#: templates/default-loop.php:32 templates/list-loop.php:16
+#: templates/single-post.php:32 templates/teaser-loop.php:20
+msgid "Posts not found"
+msgstr "投稿が見つかりません。"
+
+#: inc/core/generator.php:611
+msgid "Get more styles"
+msgstr "より多くのスタイルを取得"
+
+#: inc/core/generator.php:603
+msgid "Open dropdown to choose one of new styles"
+msgstr "新しいスタイルを選択するにはドロップダウンして開く"
+
+#: inc/core/generator.php:602
+msgid "Additional skins successfully installed"
+msgstr "追加のスキンを正常にインストールしました。"
+
+#: inc/core/generator.php:392 inc/core/generator.php:395
+msgid "Presets not found"
+msgstr "プリセットが見つかりません"
+
+#: inc/core/generator.php:363
+msgid "Save current settings as preset"
+msgstr "現在の設定をプリセットとして保存"
+
+#: inc/core/generator.php:360
+msgid "Presets"
+msgstr "プリセット"
+
+#: inc/core/generator.php:315
+msgid "Access denied"
+msgstr "アクセスが拒否されました"
+
+#: inc/core/generator.php:272
+msgid "Click to set this value"
+msgstr "この値を設定する場合クリックします。"
+
+#: inc/core/generator.php:247
+msgid "Live preview"
+msgstr "ライブプレビュー"
+
+#: inc/core/generator.php:231
+msgid "Shortcode not specified"
+msgstr "ショートコードが指定されていません。"
+
+#: inc/core/generator.php:192
+msgid "Filter by type"
+msgstr "タイプで絞り込み"
+
+#: inc/core/generator.php:190
+msgid "Hit enter to select highlighted shortcode, while searching"
+msgstr "検索中にハイライトされたショートコードを選択するには Enter キーを押してください"
+
+#: inc/core/generator.php:190
+msgid "Pro Tip"
+msgstr "プロのヒント"
+
+#: inc/core/generator.php:189
+msgid "Search for shortcodes"
+msgstr "ショートコードを検索"
+
+#: inc/core/generator.php:177
+msgid "Plugin homepage"
+msgstr "プラグインのホームページ"
+
+#: inc/core/generator.php:176
+msgid "Plugin settings"
+msgstr "プラグイン設定"
+
+#: inc/core/generator.php:54 inc/core/generator.php:119
+#: inc/core/generator.php:246
+msgid "Insert shortcode"
+msgstr "ショートコードを挿入"
+
+#: inc/core/assets.php:123
+msgid "Next (Right arrow key)"
+msgstr "次 (右矢印キー)"
+
+#: inc/core/assets.php:122
+msgid "Previous (Left arrow key)"
+msgstr "前 (左矢印キー)"
+
+#: inc/core/assets.php:121
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: inc/core/assets.php:120
+msgid "Close (Esc)"
+msgstr "閉じる (Esc)"
+
+#: inc/core/assets.php:118
+msgid "This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."
+msgstr "このショートコードは、ライブプレビューでは動作しません。サイト上のエディタに挿入してください。"
+
+#: inc/core/assets.php:89
+msgid "Last used settings"
+msgstr "最後に使用した設定"
+
+#: inc/core/assets.php:88
+msgid "New preset"
+msgstr "新しいプリセット"
+
+#: inc/core/assets.php:87
+msgid "Please enter a name for new preset"
+msgstr "新しいプリセット名を入力してください"
+
+#: inc/core/assets.php:86
+msgid "Add selected images"
+msgstr "選択した画像を追加"
+
+#: inc/core/assets.php:85
+msgid "Select images"
+msgstr "画像を選択"
+
+#: inc/core/assets.php:84
+msgid "Insert"
+msgstr "挿入"
+
+#: inc/core/assets.php:83
+msgid "Choose file"
+msgstr "ファイルを選択"
+
+#: inc/core/widget.php:46
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/core/widget.php:7
+msgid "Shortcodes Ultimate widget"
+msgstr "Shortcodes Ultimate widget"
+
+#: inc/core/generator-views.php:177
+msgid "Select taxonomy and it's terms.<br>You can select multiple terms with Ctrl (Cmd) key"
+msgstr "タクソノミーを選択します。<br>Ctrl (Cmd) キーを使って複数の用語を選択できます。"
+
+#: inc/core/generator-views.php:177
+msgid "Select categories to retrieve posts from.<br>You can select multiple categories with Ctrl (Cmd) key"
+msgstr "投稿を取得するカテゴリを選択します。<br>Ctrl (Cmd) キーで複数のカテゴリを選択することができます。"
+
+#: inc/core/generator-views.php:177
+msgid "Click the button above and select images.<br>You can select multimple images with Ctrl (Cmd) key"
+msgstr "上記ボタンをクリックし画像を選択します。<br>Ctrl (Cmd)キーと単一画像を選択することができます。"
+
+#: inc/core/generator-views.php:177
+msgid "Add images"
+msgstr "画像を追加"
+
+#: inc/core/generator-views.php:166
+msgid "Select taxonomy"
+msgstr "タクソノミーを選択"
+
+#: inc/core/generator-views.php:155
+msgid "Select images source"
+msgstr "画像ソースを選択"
+
+#: inc/core/generator-views.php:135
+msgid "Border color"
+msgstr "枠線色"
+
+#: inc/core/generator-views.php:135
+msgid "Border style"
+msgstr "境界線のスタイル"
+
+#: inc/core/generator-views.php:135
+msgid "Border width"
+msgstr "境界線の幅"
+
+#: inc/core/generator-views.php:124
+msgid "Blur"
+msgstr "ぼかし"
+
+#: inc/core/generator-views.php:124
+msgid "Vertical offset"
+msgstr "垂直オフセット"
+
+#: inc/core/generator-views.php:124
+msgid "Horizontal offset"
+msgstr "水平オフセット"
+
+#: inc/core/generator-views.php:103
+msgid "Filter icons"
+msgstr "フィルタアイコン"
+
+#: inc/core/generator-views.php:103
+msgid "Icon picker"
+msgstr "アイコンピッカー"
+
+#: inc/core/generator-views.php:98 inc/core/generator-views.php:103
+msgid "Media manager"
+msgstr "メディアマネージャ"
+
+#: inc/core/generator-views.php:93
+msgid "No"
+msgstr "いいえ"
+
+#: inc/core/generator-views.php:93
+msgid "Yes"
+msgstr "はい"
+
+#: includes/functions-galleries.php:420
+msgid "Use this field to add custom links to slides used with Slider, Carousel and Custom Gallery shortcodes"
+msgstr "スライダー、カルーセル、カスタムギャラリーのショートコードでスライドにカスタムリンクを追加するには、このフィールドを使用します。"
+
+#: includes/functions-galleries.php:414
+msgid "Slide link"
+msgstr "スライドリンク"
+
+#: includes/config/borders.php:12
+msgid "Ridge"
+msgstr "リッジ"
+
+#: includes/config/borders.php:11
+msgid "Groove"
+msgstr "溝"
+
+#: includes/config/borders.php:7
+msgid "Solid"
+msgstr "固体"
+
+#: includes/config/addons.php:9
+msgid "Add-ons Bundle"
+msgstr "バンドルアドオン"
+
+#: includes/config/groups.php:12
+msgid "Other"
+msgstr "その他"
+
+#: includes/config/groups.php:9
+msgid "Media"
+msgstr "メディア"
+
+#: inc/core/generator.php:290 includes/config/groups.php:7
+msgid "Content"
+msgstr "コンテンツ"
+
+#: includes/config/groups.php:6
+msgid "All"
+msgstr "すべて"
+
+#: includes/config/supported-blocks.php:8
+msgid "Classic"
+msgstr "クラシック"
+
+#: includes/config/supported-blocks.php:6
+msgid "Paragraph"
+msgstr "段落"
+
+#: includes/shortcodes/vimeo.php:76
+msgid "Vimeo video"
+msgstr "Vimeo 動画"
+
+#: includes/shortcodes/vimeo.php:15
+msgid "Url of Vimeo page with video"
+msgstr "VimeoのページURL"
+
+#: includes/shortcodes/vimeo.php:8
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/shortcodes/tooltip.php:105
+msgid "Tooltip window with custom content"
+msgstr "カスタムコンテンツとウィンドウのツールチップ"
+
+#: includes/shortcodes/tooltip.php:104
+msgid "Hover me to open tooltip"
+msgstr "マウスオーバーしてツールチップを表示"
+
+#: includes/shortcodes/tooltip.php:95
+msgid "Show close button"
+msgstr "閉じるボタンを表示"
+
+#: includes/shortcodes/tooltip.php:94
+msgid "Close button"
+msgstr "閉じるボタン"
+
+#: includes/shortcodes/tooltip.php:89
+msgid "Select tooltip behavior"
+msgstr "選択したツールチップの動作"
+
+#: includes/shortcodes/tooltip.php:88
+msgid "Behavior"
+msgstr "行動"
+
+#: includes/shortcodes/tooltip.php:85
+msgid "Always visible"
+msgstr "常に表示"
+
+#: includes/shortcodes/tooltip.php:84
+msgid "Show and hide by mouse click"
+msgstr "マウスクリックによって表示、非表示"
+
+#: includes/shortcodes/tooltip.php:83
+msgid "Show and hide on mouse hover"
+msgstr "マウスホバーで表示と非表示"
+
+#: includes/shortcodes/tooltip.php:78
+msgid "Enter tooltip content here"
+msgstr "ここにツールチップのコンテンツを入力します"
+
+#: includes/shortcodes/tooltip.php:77
+msgid "Tooltip content"
+msgstr "ツールチップコンテンツ"
+
+#: includes/shortcodes/tooltip.php:76 includes/shortcodes/tooltip.php:118
+msgid "Tooltip text"
+msgstr "ツールチップテキスト"
+
+#: includes/shortcodes/tooltip.php:73
+msgid "Enter title for tooltip window. Leave this field empty to hide the title"
+msgstr "ツールチップトウィンドウのタイトルを入力。タイトルを非表示にする場合は空白にします"
+
+#: includes/shortcodes/tooltip.php:72
+msgid "Tooltip title"
+msgstr "ツールチップタイトル"
+
+#: includes/shortcodes/tooltip.php:68
+msgid "Tooltip font size"
+msgstr "ツールチップのフォントサイズ"
+
+#: includes/shortcodes/tooltip.php:67
+msgid "Font size"
+msgstr "フォントサイズ"
+
+#: includes/shortcodes/tooltip.php:53
+msgid "Use rounded for tooltip. This option is only works with basic styes, e.g. blue, green etc."
+msgstr "ツールチップ丸みを帯びた角を使用。このオプションは基本的なスタイルを持つ。"
+
+#: includes/shortcodes/tooltip.php:52
+msgid "Rounded corners"
+msgstr "角丸"
+
+#: includes/shortcodes/tooltip.php:47
+msgid "Add shadow to tooltip. This option is only works with basic styes, e.g. blue, green etc."
+msgstr "ツールチップに影を追加。このオプションは基本的なスタイルを持つ。例えば青、緑など"
+
+#: includes/shortcodes/tooltip.php:41
+msgid "Tooltip position"
+msgstr "ツールチップの位置"
+
+#: includes/shortcodes/tooltip.php:40
+msgid "Position"
+msgstr "位置"
+
+#: includes/shortcodes/tooltip.php:35
+msgid "Bottom"
+msgstr "下"
+
+#: includes/shortcodes/tooltip.php:34
+msgid "Top"
+msgstr "上"
+
+#: includes/shortcodes/tooltip.php:29
+msgid "Tooltip window style"
+msgstr "ツールチップウィンドウスタイル"
+
+#: includes/shortcodes/tooltip.php:25
+msgid "Cluetip"
+msgstr "Cluetip"
+
+#: includes/shortcodes/tooltip.php:24
+msgid "Tipped"
+msgstr "傾ける"
+
+#: includes/shortcodes/tooltip.php:23
+msgid "jTools"
+msgstr "jTools"
+
+#: includes/shortcodes/tooltip.php:22
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: includes/shortcodes/tooltip.php:21
+msgid "Tipsy"
+msgstr "Tipsy"
+
+#: includes/shortcodes/tooltip.php:20
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/shortcodes/tooltip.php:19
+msgid "Basic: Blue"
+msgstr "基本: 青"
+
+#: includes/shortcodes/tooltip.php:18
+msgid "Basic: Red"
+msgstr "基本: 赤"
+
+#: includes/shortcodes/tooltip.php:17
+msgid "Basic: Green"
+msgstr "基本: 緑"
+
+#: includes/shortcodes/tooltip.php:16
+msgid "Basic: Yellow"
+msgstr "基本: 黄"
+
+#: includes/shortcodes/tooltip.php:15
+msgid "Basic: Dark"
+msgstr "基本: 暗い"
+
+#: includes/shortcodes/tooltip.php:14
+msgid "Basic: Light"
+msgstr "基本:明るい"
+
+#: includes/shortcodes/tooltip.php:7
+msgid "Tooltip"
+msgstr "ツールチップ"
+
+#: includes/shortcodes/document.php:55
+msgid "Document viewer by Google"
+msgstr "Google ドキュメントビューア"
+
+#: includes/shortcodes/document.php:41
+msgid "Ignore width and height parameters and make viewer responsive"
+msgstr "幅と高さのパラメータを無視して視聴者にレスポンジブに表示します"
+
+#: includes/shortcodes/document.php:35
+msgid "Viewer height"
+msgstr "ビューアの高さ"
+
+#: includes/shortcodes/document.php:26
+msgid "Viewer width"
+msgstr "ビューアの幅"
+
+#: includes/shortcodes/document.php:17
+msgid "Url to uploaded document. Supported formats: doc, xls, pdf etc."
+msgstr "アップロードしたドキュメントのURL。使用可能なファイル形式: doc, xls, pdf 等"
+
+#: includes/shortcodes/document.php:9
+msgid "Document"
+msgstr "文書"
+
+#: includes/shortcodes/animate.php:50
+msgid "Wrapper for animation. Any nested element will be animated"
+msgstr "アニメーションのラッパーです。任意のネストされた要素はアニメーションになります"
+
+#: includes/shortcodes/animate.php:49
+msgid "Animated content"
+msgstr "アニメーションコンテンツ"
+
+#: includes/shortcodes/animate.php:40
+msgid "This parameter determines what HTML tag will be used for animation wrapper. Turn this option to YES and animated element will be wrapped in SPAN instead of DIV. Useful for inline animations, like buttons"
+msgstr "このパラメータは、HTMLタグがアニメーションラッパーに使用されるかを決定します。 'はい'でこのオプションをオンにするとアニメーションの要素ではなく、DIVのSPANでラップされます。インラインのアニメーションはボタンのように役立ちます。"
+
+#: includes/shortcodes/animate.php:39
+msgid "Inline"
+msgstr "インライン"
+
+#: includes/shortcodes/animate.php:34
+msgid "Animation delay (seconds)"
+msgstr "アニメーションの遅延 (秒)"
+
+#: includes/shortcodes/animate.php:33
+msgid "Delay"
+msgstr "遅延"
+
+#: includes/shortcodes/animate.php:25
+msgid "Animation duration (seconds)"
+msgstr "アニメーションの時間 (秒)"
+
+#: includes/shortcodes/animate.php:24
+msgid "Duration"
+msgstr "持続期間"
+
+#: includes/shortcodes/animate.php:16
+msgid "Select animation type"
+msgstr "アニメーションの種類を選択"
+
+#: includes/shortcodes/animate.php:7 includes/shortcodes/animate.php:15
+msgid "Animation"
+msgstr "アニメーション"
+
+#: includes/shortcodes/feed.php:44
+msgid "Feed grabber"
+msgstr "フィード取込み"
+
+#: includes/shortcodes/feed.php:25
+msgid "Number of items to show"
+msgstr "表示する項目数"
+
+#: includes/shortcodes/feed.php:8
+msgid "RSS feed"
+msgstr "RSS フィード"
+
+#: includes/shortcodes/heading.php:62
+msgid "Styled heading"
+msgstr "見出しスタイル"
+
+#: includes/shortcodes/heading.php:61
+msgid "Heading text"
+msgstr "見出しテキスト"
+
+#: includes/shortcodes/heading.php:47
+msgid "Bottom margin (pixels)"
+msgstr "ボトムマージン (ピクセル)"
+
+#: includes/shortcodes/heading.php:38
+msgid "Heading text alignment"
+msgstr "見出しテキストの位置"
+
+#: includes/shortcodes/heading.php:27
+msgid "Select heading size (pixels)"
+msgstr "見出しの大きさを選択 (ピクセル)"
+
+#: includes/shortcodes/heading.php:18
+msgid "Choose style for this heading"
+msgstr "この見出しのスタイルを選択"
+
+#: includes/shortcodes/heading.php:7
+msgid "Heading"
+msgstr "見出し"
+
+#: includes/shortcodes/label.php:33
+msgid "Styled label"
+msgstr "ラベルスタイル"
+
+#: includes/shortcodes/label.php:23
+msgid "Style of the label"
+msgstr "ラベルのスタイル"
+
+#: includes/shortcodes/label.php:22
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/shortcodes/label.php:19
+msgid "Info"
+msgstr "情報"
+
+#: includes/shortcodes/label.php:18
+msgid "Black"
+msgstr "黒"
+
+#: includes/shortcodes/label.php:17
+msgid "Important"
+msgstr "重要"
+
+#: includes/shortcodes/label.php:16
+msgid "Warning"
+msgstr "警告"
+
+#: includes/shortcodes/label.php:15
+msgid "Success"
+msgstr "成功"
+
+#: includes/shortcodes/label.php:7 includes/shortcodes/label.php:32
+msgid "Label"
+msgstr "ラベル"
+
+#: includes/shortcodes/gmap.php:63
+msgid "Maps by Google"
+msgstr "Google マップ"
+
+#: includes/shortcodes/gmap.php:48
+msgid "Zoom"
+msgstr "ズーム"
+
+#: includes/shortcodes/gmap.php:40
+msgid "Address for the marker. You can type it in any language"
+msgstr "地図のアドレス。住所もしくは座標を入力します"
+
+#: includes/shortcodes/gmap.php:39
+msgid "Marker"
+msgstr "マーカー"
+
+#: includes/shortcodes/gmap.php:34
+msgid "Ignore width and height parameters and make map responsive"
+msgstr "幅と高さのパラメータを無視して地図をレスポンジブに表示します"
+
+#: includes/shortcodes/gmap.php:28
+msgid "Map height"
+msgstr "地図の高さ"
+
+#: includes/shortcodes/gmap.php:19
+msgid "Map width"
+msgstr "地図の幅"
+
+#: includes/shortcodes/gmap.php:8
+msgid "Google map"
+msgstr "Google map"
+
+#: includes/shortcodes/table.php:39
+msgid ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"</table>"
+msgstr ""
+"<table>\n"
+"<tr>\n"
+"\t<td>テーブル</td>\n"
+"\t<td>テーブル</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>テーブル</td>\n"
+"\t<td>テーブル</td>\n"
+"</tr>\n"
+"</table>"
+
+#: includes/shortcodes/table.php:8
+msgid "Table"
+msgstr "テーブル"
+
+#: includes/shortcodes/members.php:41
+msgid "Content for logged in members only"
+msgstr "ログインメンバーのみのコンテンツ"
+
+#: includes/shortcodes/members.php:40
+msgid "Content for logged members"
+msgstr "ログインメンバー向けコンテンツ"
+
+#: includes/shortcodes/members.php:30 includes/shortcodes/members.php:31
+msgid "Login link url"
+msgstr "ログインリンク URL"
+
+#: includes/shortcodes/members.php:26
+msgid "Text for the login link"
+msgstr "ログインリンク用のテキスト"
+
+#: includes/shortcodes/members.php:25
+msgid "Login link text"
+msgstr "ログインリンクテキスト"
+
+#: includes/shortcodes/members.php:24
+msgid "login"
+msgstr "ログイン"
+
+#: includes/shortcodes/members.php:21
+msgid "This color will applied only to box for not logged users"
+msgstr "この色はログインしていないユーザーに表示するボックスに適用"
+
+#: includes/shortcodes/members.php:20
+msgid "Box color"
+msgstr "ボックスの色"
+
+#: includes/shortcodes/members.php:15
+msgid "Message for not logged users"
+msgstr "ログインしていないユーザーへのメッセージ"
+
+#: includes/shortcodes/members.php:14
+msgid "Message"
+msgstr "メッセージ"
+
+#: includes/shortcodes/members.php:13
+msgid "This content is for registered users only. Please %login%."
+msgstr "このコンテンツは登録ユーザーにだけ許可されています。%login%してください。"
+
+#: includes/shortcodes/members.php:8
+msgid "Members"
+msgstr "メンバー"
+
+#: includes/shortcodes/lightbox.php:63
+msgid "please specify correct source"
+msgstr "正しいソースを指定してください"
+
+#: includes/shortcodes/lightbox.php:44
+msgid "Lightbox window with custom content"
+msgstr "カスタムコンテンツとLightboxのウィンドウ"
+
+#: includes/shortcodes/lightbox.php:43
+msgid "Click here to open lightbox"
+msgstr "クリックして Lightbox を表示"
+
+#: includes/shortcodes/lightbox.php:28
+msgid "Insert here URL or CSS selector. Use URL for Iframe and Image content types. Use CSS selector for Inline content type.<br />Example values:<br /><b%value>http://www.youtube.com/watch?v=XXXXXXXXX</b> - YouTube video (iframe)<br /><b%value>http://example.com/wp-content/uploads/image.jpg</b> - uploaded image (image)<br /><b%value>http://example.com/</b> - any web page (iframe)<br /><b%value>#my-custom-popup</b> - any HTML content (inline)"
+msgstr "ここにURLまたはCSSセレクタを挿入します。インラインフレームと画像のコンテンツタイプのURLを使用してください。インラインコンテンツタイプのCSSセレクターを使用してください。<br />値の例: <br /><b%value>http://www.youtube.com/watch?v=XXXXXXXXX</b> - YouTube動画 (iframe)<br /><b%value>http://example.com/wp-content/uploads/image.jpg</b> - アップロードされた画像<br /><b%value>http://example.com/</b> - 任意のWebページ (iframe)<br /><b%value>#my-custom-popup</b> - 任意のHTMLコンテンツ (inline)"
+
+#: includes/shortcodes/lightbox.php:27
+msgid "Content source"
+msgstr "コンテンツソース"
+
+#: includes/shortcodes/lightbox.php:23
+msgid "Select type of the lightbox window content"
+msgstr "Lightbox のウィンドウタイプを選択"
+
+#: includes/shortcodes/lightbox.php:22
+msgid "Content type"
+msgstr "コンテンツタイプ"
+
+#: includes/shortcodes/lightbox.php:19
+msgid "Inline (html content)"
+msgstr "インライン (HTMLコンテンツ)"
+
+#: includes/shortcodes/lightbox.php:18
+msgid "Image"
+msgstr "画像"
+
+#: includes/shortcodes/lightbox.php:17
+msgid "Iframe"
+msgstr "Iframe"
+
+#: includes/shortcodes/expand.php:94
+msgid "Expandable text block"
+msgstr "拡張可能なテキストブロック"
+
+#: includes/shortcodes/expand.php:93
+msgid "This text block can be expanded"
+msgstr "このテキストブロックを拡大できます"
+
+#: includes/shortcodes/expand.php:84
+msgid "Add an icon to the less link"
+msgstr "小さいリンクにアイコンを追加"
+
+#: includes/shortcodes/expand.php:83
+msgid "Less icon"
+msgstr "小さいアイコン"
+
+#: includes/shortcodes/expand.php:78
+msgid "Add an icon to the more link"
+msgstr "続きを表示のリンクにアイコンを追加"
+
+#: includes/shortcodes/expand.php:77
+msgid "More icon"
+msgstr "詳細アイコン"
+
+#: includes/shortcodes/expand.php:72
+msgid "Select link alignment"
+msgstr "リンクの位置を選択"
+
+#: includes/shortcodes/expand.php:71
+msgid "Link align"
+msgstr "リンクの位置"
+
+#: includes/shortcodes/expand.php:61
+msgid "Select the style for more/less link"
+msgstr "リンクのスタイルを選択"
+
+#: includes/shortcodes/expand.php:60
+msgid "Link style"
+msgstr "リンクのスタイル"
+
+#: includes/shortcodes/expand.php:54
+msgid "Underlined"
+msgstr "下線"
+
+#: includes/shortcodes/expand.php:48
+msgid "Pick the link color"
+msgstr "リンクの色を選択"
+
+#: includes/shortcodes/expand.php:41
+msgid "Pick the text color"
+msgstr "テキストの色を選択"
+
+#: includes/shortcodes/expand.php:34
+msgid "This option allows you to hide less link, when the text block has been expanded"
+msgstr "テキストブロックを拡張した場合、このオプションを使用すると小さいリンクを非表示にします。"
+
+#: includes/shortcodes/expand.php:33
+msgid "Hide less link"
+msgstr "小さいリンクを非表示にする"
+
+#: includes/shortcodes/expand.php:28
+msgid "Height for collapsed state (in pixels)"
+msgstr "折り畳んだ状態の高さ (ピクセル)"
+
+#: includes/shortcodes/expand.php:19
+msgid "Enter the text for less link"
+msgstr "小さいリンク用のテキストを入力"
+
+#: includes/shortcodes/expand.php:18
+msgid "Less text"
+msgstr "小さいテキスト"
+
+#: includes/shortcodes/expand.php:17 includes/shortcodes/expand.php:102
+msgid "Show less"
+msgstr "小さい表示"
+
+#: includes/shortcodes/expand.php:14
+msgid "Enter the text for more link"
+msgstr "続きを表示リンク用のテキストを入力"
+
+#: includes/shortcodes/expand.php:13
+msgid "More text"
+msgstr "複数のテキスト"
+
+#: includes/shortcodes/expand.php:12 includes/shortcodes/expand.php:101
+msgid "Show more"
+msgstr "続きを表示"
+
+#: includes/shortcodes/expand.php:7
+msgid "Expand"
+msgstr "拡大"
+
+#: includes/shortcodes/qrcode.php:110
+msgid "please specify the data"
+msgstr "データを指定してください"
+
+#: includes/shortcodes/qrcode.php:86
+msgid "Advanced QR code generator"
+msgstr "高度な QR コードジェネレータ"
+
+#: includes/shortcodes/qrcode.php:71
+msgid "Pick a primary color"
+msgstr "原色を選択"
+
+#: includes/shortcodes/qrcode.php:70
+msgid "Primary color"
+msgstr "原色"
+
+#: includes/shortcodes/qrcode.php:65
+msgid "Select link target"
+msgstr "リンクターゲットを選択"
+
+#: includes/shortcodes/qrcode.php:55
+msgid "You can make this QR code clickable. Enter here the URL"
+msgstr "このQRコードをクリック可能にすることができます。URLを入力してください。"
+
+#: includes/shortcodes/qrcode.php:50
+msgid "Choose image alignment"
+msgstr "画像の位置を選択"
+
+#: includes/shortcodes/qrcode.php:38
+msgid "Thickness of a margin (in pixels)"
+msgstr " マージンの厚み (ピクセル単位)"
+
+#: includes/shortcodes/qrcode.php:29
+msgid "Image width and height (in pixels)"
+msgstr "画像の幅と高さ (ピクセル)"
+
+#: includes/shortcodes/qrcode.php:20
+msgid "Enter here short description. This text will be used in alt attribute of QR code"
+msgstr "ここに簡単な説明を入力します。このテキストは QR コードの alt 属性で使用します。"
+
+#: includes/shortcodes/qrcode.php:15
+msgid "The text to store within the QR code. You can use here any text or even URL"
+msgstr "QR コード内に格納するテキストです。任意のテキスト、またはURLが使用可能です。"
+
+#: includes/shortcodes/qrcode.php:14 includes/config/groups.php:11
+msgid "Data"
+msgstr "データ"
+
+#: includes/shortcodes/qrcode.php:8
+msgid "QR code"
+msgstr "QR コード"
+
+#: includes/shortcodes/guests.php:19
+msgid "Content for guests only"
+msgstr "ゲストのみのコンテンツ"
+
+#: includes/shortcodes/guests.php:18
+msgid "This content will be available only for non-logged visitors"
+msgstr "このコンテンツは、ログインしていない閲覧者のみに表示されます"
+
+#: includes/shortcodes/guests.php:7
+msgid "Guests"
+msgstr "ゲスト"
+
+#: includes/shortcodes/audio.php:42
+msgid "Custom audio player"
+msgstr "カスタムオーディオプレーヤー"
+
+#: includes/shortcodes/audio.php:21
+msgid "Player width. You can specify width in percents and player will be responsive. Example values: <b%value>200px</b>, <b%value>100&#37;</b>"
+msgstr "プレイヤー幅。パーセントで幅を指定することができプレイヤーはレスポンシブになります。値の例: <b%value>200px</b>、<b%value>100%</b>"
+
+#: includes/shortcodes/audio.php:15
+msgid "Audio file url. Supported formats: mp3, ogg"
+msgstr "音声ファイルの URL 。サポート形式: mp3, ogg"
+
+#: includes/shortcodes/audio.php:7
+msgid "Audio"
+msgstr "オーディオ"
+
+#: includes/shortcodes/row.php:24
+msgid "Row for flexible columns"
+msgstr "柔軟性のある列の行"
+
+#: includes/shortcodes/divider.php:79
+msgid "Content divider with optional TOP link"
+msgstr "トップに戻るリンクの仕切り"
+
+#: includes/shortcodes/divider.php:70
+msgid "Adjust the top and bottom margins of this divider (in pixels)"
+msgstr "このデバイダーの上下の余白を調整 (ピクセル)"
+
+#: includes/shortcodes/divider.php:61
+msgid "Height of the divider (in pixels)"
+msgstr "デバイダーの高さ (ピクセル)"
+
+#: includes/shortcodes/divider.php:52
+msgid "Pick the color for TOP link"
+msgstr "トップリンクの色を選択"
+
+#: includes/shortcodes/expand.php:47 includes/shortcodes/divider.php:51
+msgid "Link color"
+msgstr "リンク色"
+
+#: includes/shortcodes/divider.php:45
+msgid "Pick the color for divider"
+msgstr "デバイダーの色を選択"
+
+#: includes/shortcodes/divider.php:44
+msgid "Divider color"
+msgstr "デバイダーの色"
+
+#: includes/shortcodes/divider.php:38
+msgid "Choose style for this divider"
+msgstr "このデバイダーのスタイルを選択"
+
+#: includes/shortcodes/divider.php:34 includes/config/borders.php:10
+msgid "Double"
+msgstr "二重"
+
+#: includes/shortcodes/expand.php:56 includes/shortcodes/divider.php:33
+#: includes/config/borders.php:9
+msgid "Dashed"
+msgstr "破線"
+
+#: includes/shortcodes/expand.php:55 includes/shortcodes/divider.php:32
+#: includes/config/borders.php:8
+msgid "Dotted"
+msgstr "点線"
+
+#: includes/shortcodes/divider.php:21
+msgid "Text for the GO TOP link"
+msgstr "トップに戻るリンクのテキスト"
+
+#: includes/shortcodes/divider.php:20
+msgid "Link text"
+msgstr "リンクテキスト"
+
+#: includes/shortcodes/divider.php:19
+msgid "Go to top"
+msgstr "ページのトップへ"
+
+#: includes/shortcodes/divider.php:16
+msgid "Show link to top of the page or not"
+msgstr "トップに戻るリンクを表示"
+
+#: includes/shortcodes/divider.php:15
+msgid "Show TOP link"
+msgstr "トップに戻るを表示"
+
+#: includes/shortcodes/divider.php:8
+msgid "Divider"
+msgstr "仕切り"
+
+#: includes/shortcodes/user.php:73
+msgid "password field is not allowed"
+msgstr "パスワードフィールドは許可されていません"
+
+#: includes/shortcodes/user.php:52
+msgid "You can specify custom user ID. Leave this field empty to use an ID of the current user"
+msgstr "カスタムのユーザーIDを指定することができます。現在のユーザーIDを使用するようにこのフィールドを空にします"
+
+#: includes/shortcodes/user.php:51
+msgid "User ID"
+msgstr "ユーザー ID"
+
+#: includes/shortcodes/user.php:28
+msgid "Status"
+msgstr "ステータス"
+
+#: includes/shortcodes/user.php:27
+msgid "Activation key"
+msgstr "アクティベーションキー"
+
+#: includes/shortcodes/user.php:26
+msgid "Registered"
+msgstr "登録日"
+
+#: includes/shortcodes/user.php:24
+msgid "Email"
+msgstr "メール"
+
+#: includes/shortcodes/user.php:23
+msgid "Nice name"
+msgstr "素晴らしい名前"
+
+#: includes/shortcodes/user.php:22
+msgid "Login"
+msgstr "ログイン"
+
+#: includes/shortcodes/user.php:20
+msgid "Display name"
+msgstr "表示名"
+
+#: includes/shortcodes/user.php:8
+msgid "User data"
+msgstr "ユーザーデータ"
+
+#: includes/shortcodes/carousel.php:146
+msgid "Customizable image carousel"
+msgstr "カスタマイズ可能な画像カルーセル"
+
+#: includes/shortcodes/carousel.php:129
+msgid "Choose interval between auto animations. Set to 0 to disable autoplay"
+msgstr "自動アニメーションの間隔を選択。自動再生を無効にする場合は0に設定"
+
+#: includes/shortcodes/carousel.php:120
+msgid "Allow to rotate carousel with mouse wheel"
+msgstr "マウスホイールでカルーセルを回転することを許可"
+
+#: includes/shortcodes/carousel.php:104
+msgid "Is carousel centered on the page"
+msgstr "カルーセルをページ中央に配置"
+
+#: includes/shortcodes/carousel.php:99
+msgid "Display titles for each item"
+msgstr "各項目のタイトルを表示します。"
+
+#: includes/shortcodes/carousel.php:94
+msgid "How much items are scrolled in one transition"
+msgstr "どれくらいのアイテムが1つの移行においてスクロールされるか"
+
+#: includes/shortcodes/carousel.php:93
+msgid "Scroll number"
+msgstr "スクロール数"
+
+#: includes/shortcodes/carousel.php:86
+msgid "How much carousel items is visible"
+msgstr "いくつカルーセル項目を表示するか"
+
+#: includes/shortcodes/carousel.php:85
+msgid "Items to show"
+msgstr "表示するアイテム"
+
+#: includes/shortcodes/carousel.php:77
+msgid "Ignore width and height parameters and make carousel responsive"
+msgstr "幅と高さのパラメータを無視しカルーセルをレスポンシブに表示します"
+
+#: includes/shortcodes/carousel.php:71
+msgid "Carousel height (in pixels)"
+msgstr "カルーセルの高さ (px単位)"
+
+#: includes/shortcodes/carousel.php:62
+msgid "Carousel width (in pixels)"
+msgstr "カルーセルの幅 (px単位)"
+
+#: includes/shortcodes/carousel.php:7
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: includes/shortcodes/pullquote.php:18
+msgid "Pullquote alignment (float)"
+msgstr "Pullquote アライメント (フロート)"
+
+#: includes/shortcodes/pullquote.php:7 includes/shortcodes/pullquote.php:27
+#: includes/shortcodes/pullquote.php:28
+msgid "Pullquote"
+msgstr "Pullquote"
+
+#: includes/shortcodes/tabs.php:107
+msgid "Choose how to open the custom tab link"
+msgstr "カスタムタブのリンクを開く方法を選択"
+
+#: includes/shortcodes/tabs.php:97
+msgid "Link tab to any webpage. Use full URL to turn the tab title into link"
+msgstr "タブを任意の Web ページにリンクします。完全な URL を使用して、タブのタイトルをリンクに変換する"
+
+#: includes/shortcodes/tabs.php:96 includes/shortcodes/user.php:25
+#: includes/shortcodes/feed.php:15
+msgid "URL"
+msgstr "URL"
+
+#: includes/shortcodes/tabs.php:87
+msgid "Is this tab disabled"
+msgstr "このタブでは無効になっています"
+
+#: includes/shortcodes/tabs.php:86
+msgid "Disabled"
+msgstr "無効"
+
+#: includes/shortcodes/tabs.php:81 includes/shortcodes/tabs.php:190
+msgid "Tab title"
+msgstr "タブのタイトル"
+
+#: includes/shortcodes/tabs.php:79
+msgid "Tab name"
+msgstr "タブ名"
+
+#: includes/shortcodes/tabs.php:74
+msgid "Did you know that you need to wrap single tabs with [tabs] shortcode?"
+msgstr "[タブ]ショートコードを持つ単一のタブをラップする必要があることをご存知ですか？"
+
+#: includes/shortcodes/tabs.php:73
+msgid "Single tab"
+msgstr "単一のタブ"
+
+#: includes/shortcodes/tabs.php:72
+msgid "Tab content"
+msgstr "タブコンテンツ"
+
+#: includes/shortcodes/tabs.php:68
+msgid "Tab"
+msgstr "タブ"
+
+#: includes/shortcodes/tabs.php:37
+msgid "Align tabs vertically"
+msgstr "タブを垂直に整列する"
+
+#: includes/shortcodes/tabs.php:36
+msgid "Vertical"
+msgstr "垂直"
+
+#: includes/shortcodes/tabs.php:31
+msgid "Select which tab is open by default"
+msgstr "最初に開いているタブを指定"
+
+#: includes/shortcodes/tabs.php:30
+msgid "Active tab"
+msgstr "有効なタブ"
+
+#: includes/shortcodes/tabs.php:22
+msgid "Choose style for this tabs"
+msgstr "このタブのスタイルを選択"
+
+#: includes/shortcodes/tabs.php:11
+msgid "Tabs container"
+msgstr "コンテナタブ"
+
+#: includes/shortcodes/tabs.php:7
+msgid "Tabs"
+msgstr "タブ"
+
+#: includes/shortcodes/button.php:150
+msgid "Styled button"
+msgstr "ボタンスタイル"
+
+#: includes/shortcodes/button.php:149
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: includes/shortcodes/button.php:140
+msgid "Custom value for the ID attribute"
+msgstr "ID 属性のカスタム値"
+
+#: includes/shortcodes/button.php:139
+msgid "Button ID"
+msgstr "ボタン ID"
+
+#: includes/shortcodes/button.php:135
+msgid "Here you can add value for the title attribute"
+msgstr "ここで title 属性を追加できます"
+
+#: includes/shortcodes/button.php:134
+msgid "Title attribute"
+msgstr "title 属性"
+
+#: includes/shortcodes/button.php:130
+msgid "Here you can add value for the rel attribute.<br>Example values: <b%value>nofollow</b>, <b%value>lightbox</b>"
+msgstr "ここでは、rel 属性に値を追加することができます。<br>値の例: <b%value>nofollow</b>、<b%value>lightbox</b>"
+
+#: includes/shortcodes/button.php:129
+msgid "Rel attribute"
+msgstr "rel 属性"
+
+#: includes/shortcodes/button.php:125
+msgid "Advanced JavaScript code for onClick action"
+msgstr "onClick アクションのための高度な JavaScript コード"
+
+#: includes/shortcodes/button.php:124
+msgid "onClick"
+msgstr "onClick"
+
+#: includes/shortcodes/button.php:115
+msgid "Small description under button text. This option is incompatible with icon."
+msgstr "ボタンの下の小さな説明。このオプションはアイコンと互換性がありません"
+
+#: includes/shortcodes/user.php:18 includes/shortcodes/button.php:114
+msgid "Description"
+msgstr "説明"
+
+#: includes/shortcodes/button.php:110
+msgid "Button text shadow"
+msgstr "ボタンのテキストの影"
+
+#: includes/shortcodes/button.php:109
+msgid "Text shadow"
+msgstr "テキストの影"
+
+#: includes/shortcodes/button.php:98
+msgid "You can upload custom icon for this button or pick a built-in icon"
+msgstr "このボタンのカスタムアイコンをアップロードするか、組み込みのアイコンを選ぶことができます"
+
+#: includes/shortcodes/button.php:92
+msgid "Radius of button corners. Auto-radius calculation based on button size"
+msgstr "ボタンコーナーの半径。ボタンサイズに基づいて半径を自動算出"
+
+#: includes/shortcodes/button.php:85 includes/config/crop-ratios.php:43
+msgid "Square"
+msgstr "正方形"
+
+#: includes/shortcodes/button.php:84
+msgid "Round"
+msgstr "ラウンド"
+
+#: includes/shortcodes/button.php:83
+msgid "Auto"
+msgstr "自動"
+
+#: includes/shortcodes/button.php:78
+msgid "Is button centered on the page"
+msgstr "ボタンをページの中央に配置"
+
+#: includes/shortcodes/button.php:72
+msgid "Fluid buttons has 100% width"
+msgstr "流体ボタンが100%の幅を有します"
+
+#: includes/shortcodes/button.php:71
+msgid "Fluid"
+msgstr "可変"
+
+#: includes/shortcodes/button.php:66
+msgid "Button size"
+msgstr "ボタンサイズ"
+
+#: includes/shortcodes/button.php:57
+msgid "Button text color"
+msgstr "ボタンのテキスト色"
+
+#: includes/shortcodes/button.php:50
+msgid "Button background color"
+msgstr "ボタンの背景色"
+
+#: includes/shortcodes/button.php:43
+msgid "Button background style preset"
+msgstr "ボタンの背景スタイルプリセット"
+
+#: includes/shortcodes/button.php:39
+msgid "3D"
+msgstr "3D"
+
+#: includes/shortcodes/button.php:38
+msgid "Stroked"
+msgstr "撫でる"
+
+#: includes/shortcodes/button.php:33
+msgid "Ghost"
+msgstr "ゴースト"
+
+#: includes/shortcodes/button.php:26
+msgid "Button link target"
+msgstr "ボタンのリンク先"
+
+#: includes/shortcodes/button.php:16
+msgid "Button link"
+msgstr "ボタン"
+
+#: includes/shortcodes/qrcode.php:54 includes/shortcodes/button.php:15
+msgid "Link"
+msgstr "リンク"
+
+#: includes/shortcodes/expand.php:57 includes/shortcodes/button.php:8
+msgid "Button"
+msgstr "ボタン"
+
+#: includes/shortcodes/posts.php:409
+msgid "template not found"
+msgstr "テンプレートが見つかりません。"
+
+#: includes/shortcodes/posts.php:195
+msgid "Custom posts query with customizable template"
+msgstr "カスタム投稿はカスタマイズ可能なテンプレートを使用して照会します。"
+
+#: includes/shortcodes/posts.php:189
+msgid "Select Yes to ignore posts that is sticked"
+msgstr "貼られた記事を無視する場合は[はい]にします"
+
+#: includes/shortcodes/posts.php:188
+msgid "Ignore sticky"
+msgstr "スティッキーを無視"
+
+#: includes/shortcodes/posts.php:180
+msgid "Show only posts with selected status"
+msgstr "選択した状態の投稿のみ表示"
+
+#: includes/shortcodes/posts.php:175
+msgid "Trashed"
+msgstr "ゴミ箱移動済み"
+
+#: includes/shortcodes/posts.php:174
+msgid "Inherit"
+msgstr "継承"
+
+#: includes/shortcodes/posts.php:173
+msgid "Private post"
+msgstr "個人的な投稿"
+
+#: includes/shortcodes/posts.php:172
+msgid "Future post"
+msgstr "予約投稿"
+
+#: includes/shortcodes/posts.php:171
+msgid "Auto-draft"
+msgstr "自動下書き"
+
+#: includes/shortcodes/posts.php:170
+msgid "Draft"
+msgstr "下書き"
+
+#: includes/shortcodes/posts.php:169
+msgid "Pending"
+msgstr "保留中"
+
+#: includes/shortcodes/posts.php:168
+msgid "Published"
+msgstr "公開"
+
+#: includes/shortcodes/posts.php:160
+msgid "Show childrens of entered post (enter post ID)"
+msgstr "入力した後の子供を表示 (投稿IDを入力)"
+
+#: includes/shortcodes/posts.php:155
+msgid "Order posts by"
+msgstr "投稿順"
+
+#: includes/shortcodes/posts.php:154
+msgid "Order by"
+msgstr "順"
+
+#: includes/shortcodes/posts.php:150
+msgid "Meta key values"
+msgstr "Meta キー値"
+
+#: includes/shortcodes/posts.php:148
+msgid "Comments number"
+msgstr "コメント数"
+
+#: includes/shortcodes/posts.php:147
+msgid "Random"
+msgstr "ランダム"
+
+#: includes/shortcodes/posts.php:145
+msgid "Last modified date"
+msgstr "最終更新日"
+
+#: includes/shortcodes/posts.php:144
+msgid "Date"
+msgstr "日付"
+
+#: includes/shortcodes/posts.php:143
+msgid "Post slug"
+msgstr "投稿スラッグ"
+
+#: includes/shortcodes/posts.php:134
+msgid "Posts order"
+msgstr "投稿順"
+
+#: includes/shortcodes/posts.php:133
+msgid "Order"
+msgstr "順序"
+
+#: includes/shortcodes/posts.php:130
+msgid "Ascending"
+msgstr "昇順"
+
+#: includes/shortcodes/posts.php:129
+msgid "Descending"
+msgstr "降順"
+
+#: includes/shortcodes/posts.php:121
+msgid "Specify offset to start posts loop not from first post"
+msgstr "最初の投稿から投稿ループを始めないためのオフセットを指定"
+
+#: includes/shortcodes/posts.php:120
+msgid "Offset"
+msgstr "オフセット"
+
+#: includes/shortcodes/posts.php:109
+msgid "Enter meta key name to show posts that have this key"
+msgstr "このキーを持っている投稿を表示するMetaキー名を入力"
+
+#: includes/shortcodes/posts.php:108
+msgid "Meta key"
+msgstr "Meta キー"
+
+#: includes/shortcodes/posts.php:101
+msgid "Enter here comma-separated list of author's IDs. Example: 1,7,18"
+msgstr "投稿者IDをカンマ区切りで入力。例: 1,7,18"
+
+#: includes/shortcodes/posts.php:100
+msgid "Authors"
+msgstr "投稿者"
+
+#: includes/shortcodes/posts.php:87
+msgid "Taxonomy term operator"
+msgstr "表示する投稿の条件"
+
+#: includes/shortcodes/posts.php:68
+msgid "Select terms to show posts from"
+msgstr "表示する投稿の条件"
+
+#: includes/shortcodes/posts.php:67
+msgid "Terms"
+msgstr "条件"
+
+#: includes/shortcodes/posts.php:57
+msgid "Select taxonomy to show posts from"
+msgstr "表示する投稿のタクソノミー"
+
+#: includes/shortcodes/posts.php:47
+msgid "Select post types. Hold Ctrl key to select multiple post types"
+msgstr "投稿タイプを選択。複数の投稿タイプを選択するにはCtrlキーを押しながら選択"
+
+#: includes/shortcodes/posts.php:46
+msgid "Post types"
+msgstr "投稿タイプ"
+
+#: includes/shortcodes/posts.php:36
+msgid "Specify number of posts that you want to show. Enter -1 to get all posts"
+msgstr "表示したい記事数を指定。すべての投稿を取得するには-1を入力"
+
+#: includes/shortcodes/posts.php:35
+msgid "Posts per page"
+msgstr "ページあたりの投稿数"
+
+#: includes/shortcodes/posts.php:24
+msgid "Enter comma separated ID's of the posts that you want to show"
+msgstr "表示したい ID をカンマで区切って入力"
+
+#: includes/shortcodes/posts.php:23
+msgid "Post ID's"
+msgstr "投稿 ID"
+
+#: includes/shortcodes/posts.php:8
+msgid "Posts"
+msgstr "投稿"
+
+#: includes/shortcodes/permalink.php:44
+msgid "Permalink to specified post/page"
+msgstr "指定された投稿/ページのパーマリンク"
+
+#: includes/shortcodes/permalink.php:24 includes/shortcodes/qrcode.php:64
+#: includes/shortcodes/tabs.php:106
+msgid "Link target"
+msgstr "リンクターゲット"
+
+#: includes/shortcodes/permalink.php:23 includes/shortcodes/button.php:25
+msgid "Target"
+msgstr "ターゲット"
+
+#: includes/shortcodes/permalink.php:14
+msgid "Post or page ID"
+msgstr "投稿やページ ID"
+
+#: includes/shortcodes/permalink.php:7
+msgid "Permalink"
+msgstr "パーマリンク"
+
+#: includes/shortcodes/template.php:29
+msgid "please specify template name"
+msgstr "テンプレート名を指定してください"
+
+#: includes/shortcodes/template.php:19
+msgid "Theme template"
+msgstr "テーマのテンプレート"
+
+#: includes/shortcodes/template.php:14
+msgid "Template name"
+msgstr "テンプレート名"
+
+#: includes/shortcodes/posts.php:15 includes/shortcodes/template.php:8
+msgid "Template"
+msgstr "テンプレート"
+
+#: includes/shortcodes/dummy-text.php:51
+msgid "Text placeholder"
+msgstr "テキストプレースホルダー"
+
+#: includes/shortcodes/dummy-text.php:36
+msgid "Generated text will be cached. Be careful with this option. If you disable it and insert many dummy_text shortcodes the page load time will be highly increased"
+msgstr "生成されたテキストにキャッシュされます。このオプションに注意してください。それを無効にすると、多くのdummy_text ショートコードを挿入した場合、ページの読み込み時間は非常に増加します"
+
+#: includes/shortcodes/dummy-text.php:35
+msgid "Cache"
+msgstr "キャッシュ"
+
+#: includes/shortcodes/dummy-text.php:30
+msgid "How many items (paragraphs or words) to generate. Minimum words amount is 5"
+msgstr "どのように多くの項目(段落やワード)を生成するか。最低限の単語量は5です"
+
+#: includes/shortcodes/dummy-text.php:29
+msgid "Amount"
+msgstr "金額"
+
+#: includes/shortcodes/dummy-text.php:21
+msgid "What to generate"
+msgstr "生成する内容"
+
+#: includes/shortcodes/dummy-text.php:20
+msgid "What"
+msgstr "何"
+
+#: includes/shortcodes/dummy-text.php:17
+msgid "Bytes"
+msgstr "バイト"
+
+#: includes/shortcodes/dummy-text.php:16
+msgid "Words"
+msgstr "言葉"
+
+#: includes/shortcodes/dummy-text.php:15
+msgid "Paragraphs"
+msgstr "段落"
+
+#: includes/shortcodes/dummy-text.php:8
+msgid "Dummy text"
+msgstr "ダミーテキスト"
+
+#: includes/shortcodes/dropcap.php:38
+msgid "D"
+msgstr "D"
+
+#: includes/shortcodes/dropcap.php:29
+msgid "Choose dropcap size"
+msgstr "Dropcap のサイズを選択"
+
+#: includes/shortcodes/dropcap.php:20
+msgid "Dropcap style preset"
+msgstr "Dropcap のプリセットスタイル"
+
+#: includes/shortcodes/dropcap.php:15 includes/shortcodes/button.php:32
+msgid "Flat"
+msgstr "フラット"
+
+#: includes/shortcodes/dropcap.php:7 includes/shortcodes/dropcap.php:39
+msgid "Dropcap"
+msgstr "Dropcap"
+
+#: includes/shortcodes/column.php:47
+msgid "Did you know that you need to wrap columns with [row] shortcode?"
+msgstr "[row]ショートコードを持つ列をラップする必要があることを知っていますか？"
+
+#: includes/shortcodes/column.php:46
+msgid "Flexible and responsive columns"
+msgstr "列の柔軟性とレスポンシブ"
+
+#: includes/shortcodes/column.php:45
+msgid "Column content"
+msgstr "列のコンテンツ"
+
+#: includes/shortcodes/column.php:36
+msgid "Is this column centered on the page"
+msgstr "この列はページの中央に配置されます"
+
+#: includes/shortcodes/column.php:35 includes/shortcodes/button.php:77
+msgid "Centered"
+msgstr "中央"
+
+#: includes/shortcodes/column.php:30
+msgid "Select column width. This width will be calculated depend page width"
+msgstr "列幅を選択。この幅はページ幅に依存して計算されます"
+
+#: includes/shortcodes/dropcap.php:28 includes/shortcodes/qrcode.php:28
+#: includes/shortcodes/column.php:29 includes/shortcodes/divider.php:60
+#: includes/shortcodes/button.php:65 includes/shortcodes/heading.php:26
+msgid "Size"
+msgstr "サイズ"
+
+#: includes/shortcodes/column.php:26
+msgid "Five sixth"
+msgstr "5/6"
+
+#: includes/shortcodes/column.php:25
+msgid "One sixth"
+msgstr "1/6"
+
+#: includes/shortcodes/column.php:24
+msgid "Four fifth"
+msgstr "4/5"
+
+#: includes/shortcodes/column.php:23
+msgid "Three fifth"
+msgstr "3/5"
+
+#: includes/shortcodes/column.php:22
+msgid "Two fifth"
+msgstr "2/5"
+
+#: includes/shortcodes/column.php:21
+msgid "One fifth"
+msgstr "1/5"
+
+#: includes/shortcodes/column.php:20
+msgid "Three fourth"
+msgstr "3/4"
+
+#: includes/shortcodes/column.php:19
+msgid "One fourth"
+msgstr "1/4"
+
+#: includes/shortcodes/column.php:18
+msgid "Two third"
+msgstr "2/3"
+
+#: includes/shortcodes/column.php:17
+msgid "One third"
+msgstr "1/3"
+
+#: includes/shortcodes/column.php:16
+msgid "One half"
+msgstr "1/2"
+
+#: includes/shortcodes/column.php:15
+msgid "Full width"
+msgstr "全幅"
+
+#: includes/shortcodes/column.php:7
+msgid "Column"
+msgstr "カラム"
+
+#: includes/shortcodes/private.php:18
+msgid "Private note text"
+msgstr "プライベートメモ"
+
+#: includes/shortcodes/private.php:7
+msgid "Private"
+msgstr "プライベート"
+
+#: includes/shortcodes/box.php:76
+msgid "This is box title"
+msgstr "これはボックスのタイトルです。"
+
+#: includes/shortcodes/box.php:67
+msgid "Colored box with caption"
+msgstr "カラーボックスの見出し"
+
+#: includes/shortcodes/box.php:66
+msgid "Box content"
+msgstr "ボックスのコンテンツ"
+
+#: includes/shortcodes/box.php:52
+msgid "Box corners radius"
+msgstr "ボックスコーナー半径"
+
+#: includes/shortcodes/box.php:43
+msgid "Color for the box title text"
+msgstr "ボックスタイトルのテキスト色"
+
+#: includes/shortcodes/box.php:42
+msgid "Title text color"
+msgstr "タイトルテキストの色"
+
+#: includes/shortcodes/box.php:36
+msgid "Color for the box title and borders"
+msgstr "ボックスタイトルと枠線色"
+
+#: inc/core/generator-views.php:124 includes/shortcodes/box.php:35
+msgid "Color"
+msgstr "色"
+
+#: includes/shortcodes/box.php:29
+msgid "Box style preset"
+msgstr "ボックススタイルプリセット"
+
+#: includes/shortcodes/box.php:25 includes/shortcodes/button.php:37
+msgid "Noise"
+msgstr "ノイズ"
+
+#: includes/shortcodes/box.php:24 includes/shortcodes/button.php:36
+msgid "Bubbles"
+msgstr "泡"
+
+#: includes/shortcodes/box.php:23 includes/shortcodes/button.php:35
+msgid "Glass"
+msgstr "ガラス"
+
+#: includes/shortcodes/box.php:22 includes/shortcodes/button.php:34
+msgid "Soft"
+msgstr "ソフト"
+
+#: includes/shortcodes/box.php:16
+msgid "Text for the box title"
+msgstr "ボックスタイトルのテキスト"
+
+#: includes/shortcodes/box.php:14
+msgid "Box title"
+msgstr "ボックスタイトル"
+
+#: includes/shortcodes/box.php:8 includes/config/groups.php:8
+msgid "Box"
+msgstr "ボックス"
+
+#: includes/shortcodes/screenr.php:9
+msgid "Screenr"
+msgstr "Screenr"
+
+#: includes/shortcodes/siblings.php:24
+msgid "List of cureent page siblings"
+msgstr "現在のページ兄弟のリスト"
+
+#: includes/shortcodes/siblings.php:15
+msgid "Max depth level"
+msgstr "最大深さレベル"
+
+#: includes/shortcodes/siblings.php:7
+msgid "Siblings"
+msgstr "兄弟"
+
+#: includes/shortcodes/scheduler.php:45
+msgid "By default, the content of this shortcode will be visible all the time. By using fields below, you can add some limitations. For example, if you type 1-5 in the Days of the week field, content will be only shown from Monday to Friday. Using the same principles, you can limit content visibility from years to seconds."
+msgstr "デフォルトでこのショートコードのコンテンツは、すべての時間で表示します。以下のフィールドを使用して、いくつかの制限を追加できます。たとえばフィールドに1-5と入力した場合、コンテンツは月曜日から金曜日まで表示します。同じ原理を使用して秒から年までコンテンツの可視性を制限できます。"
+
+#: includes/shortcodes/scheduler.php:45
+msgid "Please pay special attention to the descriptions, which are located below each text field. It will save you a lot of time"
+msgstr "各テキストフィールドの下の説明に注意してください。それらは時間を節約します。"
+
+#: includes/shortcodes/scheduler.php:45
+msgid "This shortcode allows you to show content only at the specified time."
+msgstr "このショートコードは指定した時間コンテンツを表示します。"
+
+#: includes/shortcodes/scheduler.php:44
+msgid "Allows to show the content only at the specified time period"
+msgstr "指定した期間にコンテンツを表示することができます"
+
+#: includes/shortcodes/scheduler.php:43
+msgid "Scheduled content"
+msgstr "スケジュールされたコンテンツ"
+
+#: includes/shortcodes/scheduler.php:40
+msgid "In this field you can type the text which will be shown if content is not visible at the current moment"
+msgstr "コンテンツが現在、表示されていない場合、このフィールドで表示するテキストを入力します"
+
+#: includes/shortcodes/scheduler.php:39
+msgid "Alternative text"
+msgstr "代替テキスト"
+
+#: includes/shortcodes/scheduler.php:34
+msgid "Years"
+msgstr "年"
+
+#: includes/shortcodes/scheduler.php:29
+msgid "Months"
+msgstr "月間"
+
+#: includes/shortcodes/scheduler.php:24
+msgid "Days of the month"
+msgstr "月の日数"
+
+#: includes/shortcodes/scheduler.php:19
+msgid "Days of the week"
+msgstr "曜日"
+
+#: includes/shortcodes/scheduler.php:15 includes/shortcodes/scheduler.php:20
+#: includes/shortcodes/scheduler.php:25 includes/shortcodes/scheduler.php:30
+#: includes/shortcodes/scheduler.php:35
+msgid "Examples (click to set)"
+msgstr "例 (クリックで設定)"
+
+#: includes/shortcodes/scheduler.php:14
+msgid "Time"
+msgstr "時間"
+
+#: includes/shortcodes/scheduler.php:8
+msgid "Scheduler"
+msgstr "スケジューラ"
+
+#: includes/shortcodes/row.php:7 includes/shortcodes/image-carousel.php:69
+msgid "Columns"
+msgstr "カラム"
+
+#: includes/shortcodes/dropcap.php:16 includes/shortcodes/image-carousel.php:50
+msgid "Light"
+msgstr "ライト"
+
+#: inc/core/generator-views.php:148 includes/shortcodes/posts.php:56
+#: includes/shortcodes/image-carousel.php:21
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: inc/core/generator-views.php:146 includes/shortcodes/image-carousel.php:18
+msgid "Media library"
+msgstr "メディアライブラリー"
+
+#: includes/shortcodes/meta.php:60
+msgid "please specify meta key name"
+msgstr "メタキー名を指定してください"
+
+#: includes/shortcodes/meta.php:58
+msgid "post ID is incorrect"
+msgstr "投稿 ID が正しくありません。"
+
+#: includes/shortcodes/meta.php:42
+msgid "Post meta"
+msgstr "投稿メタ"
+
+#: includes/shortcodes/meta.php:34
+msgid "You can specify custom post ID. Leave this field empty to use an ID of the current post. Current post ID may not work in Live Preview mode"
+msgstr "カスタムの投稿IDを指定することができます。現在の投稿のIDを使用してこのフィールドを空にします。現在の投稿IDはライブプレビューモードでは動作しない場合があります"
+
+#: includes/shortcodes/meta.php:14
+msgid "Meta key name"
+msgstr "Meta キー名"
+
+#: includes/shortcodes/meta.php:13
+msgid "Key"
+msgstr "キー"
+
+#: includes/shortcodes/meta.php:7
+msgid "Meta data"
+msgstr "メタデータ"
+
+#: includes/shortcodes/menu.php:43
+msgid "This menu doesn't exists, or has no elements"
+msgstr "このメニューには要素が存在しないか、または持っていません。"
+
+#: includes/shortcodes/menu.php:23
+msgid "Custom menu by name"
+msgstr "名前によるカスタムメニュー"
+
+#: includes/shortcodes/menu.php:14
+msgid "Custom menu name. Ex: Main menu"
+msgstr "カスタムメニュー名。例: メインメニュー"
+
+#: includes/shortcodes/menu.php:14
+msgid "Menu name"
+msgstr "メニュー名"
+
+#: includes/shortcodes/menu.php:7
+msgid "Menu"
+msgstr "メニュー"
+
+#: includes/shortcodes/dummy-image.php:58
+msgid "Image placeholder with random image"
+msgstr "ランダムな画像による画像プレースホールダー"
+
+#: includes/shortcodes/dummy-image.php:49
+msgid "Select the theme for this image"
+msgstr "この画像のテーマを選択"
+
+#: includes/shortcodes/dummy-image.php:45
+msgid "Transport"
+msgstr "トランスポート"
+
+#: includes/shortcodes/dummy-image.php:44
+msgid "Technics"
+msgstr "テクニクス"
+
+#: includes/shortcodes/dummy-image.php:43
+msgid "Sports"
+msgstr "スポーツ"
+
+#: includes/shortcodes/dummy-image.php:42
+msgid "Nature"
+msgstr "自然"
+
+#: includes/shortcodes/dummy-image.php:41
+msgid "People"
+msgstr "人"
+
+#: includes/shortcodes/dummy-image.php:40
+msgid "Fashion"
+msgstr "ファッション"
+
+#: includes/shortcodes/dummy-image.php:39
+msgid "Night life"
+msgstr "ナイトライフ"
+
+#: includes/shortcodes/dummy-image.php:38
+msgid "Food"
+msgstr "食品"
+
+#: includes/shortcodes/dummy-image.php:37
+msgid "City"
+msgstr "市区町村"
+
+#: includes/shortcodes/dummy-image.php:36
+msgid "Cats"
+msgstr "キャッツ"
+
+#: includes/shortcodes/dummy-image.php:35
+msgid "Business"
+msgstr "ビジネス"
+
+#: includes/shortcodes/dummy-image.php:34
+msgid "Animals"
+msgstr "動物"
+
+#: includes/shortcodes/dummy-image.php:33
+msgid "Abstract"
+msgstr "抽象的"
+
+#: includes/shortcodes/dummy-image.php:32 includes/shortcodes/posts.php:176
+msgid "Any"
+msgstr "任意"
+
+#: includes/shortcodes/dummy-image.php:27
+msgid "Image height"
+msgstr "画像の高さ"
+
+#: includes/shortcodes/dummy-image.php:18
+msgid "Image width"
+msgstr "画像の幅"
+
+#: includes/shortcodes/dummy-image.php:7 includes/shortcodes/dummy-image.php:71
+msgid "Dummy image"
+msgstr "ダミー画像"
+
+#: includes/shortcodes/service.php:47
+msgid "Service box with title"
+msgstr "サービスボックスのタイトル"
+
+#: includes/shortcodes/service.php:46
+msgid "Service description"
+msgstr "サービスの説明"
+
+#: includes/shortcodes/service.php:37
+msgid "Size of the uploaded icon in pixels"
+msgstr "アイコンサイズ (px単位)"
+
+#: includes/shortcodes/service.php:36
+msgid "Icon size"
+msgstr "アイコンサイズ"
+
+#: includes/shortcodes/service.php:22
+msgid "You can upload custom icon for this box"
+msgstr "このボックスにカスタムアイコンをアップロード可能"
+
+#: includes/shortcodes/service.php:16
+msgid "Service name"
+msgstr "サービス名"
+
+#: includes/shortcodes/service.php:14 includes/shortcodes/service.php:56
+msgid "Service title"
+msgstr "サービスタイトル"
+
+#: includes/shortcodes/service.php:8
+msgid "Service"
+msgstr "サービス"
+
+#: includes/shortcodes/youtube-advanced.php:139
+msgid "YouTube video player with advanced settings"
+msgstr "YouTube の動画プレーヤーの高度な設定"
+
+#: includes/shortcodes/youtube-advanced.php:125
+msgid "This parameter controls whether videos play inline or fullscreen in an HTML5 player on iOS"
+msgstr "この変数は、iOS の HTML5プレーヤー上で動画をインラインで再生するか、フルスクリーンで再生するかを制御します"
+
+#: includes/shortcodes/youtube-advanced.php:117
+msgid "WMode"
+msgstr "WMode"
+
+#: includes/shortcodes/youtube-advanced.php:113
+msgid "This parameter indicates whether the embedded player will display player controls (like a play button or volume control) within a dark or light control bar"
+msgstr "このパラメーターは、埋め込み型プレーヤーのプレーヤーコントロール (再生ボタンまたはボリューム コントロール) に暗いか明るいどちらのコントロールバーを表示するかを示します"
+
+#: includes/shortcodes/dummy-image.php:48
+#: includes/shortcodes/youtube-advanced.php:112
+msgid "Theme"
+msgstr "テーマ"
+
+#: includes/shortcodes/youtube-advanced.php:109
+msgid "Light theme"
+msgstr "明るいテーマ"
+
+#: includes/shortcodes/youtube-advanced.php:108
+msgid "Dark theme"
+msgstr "暗いテーマ"
+
+#: includes/shortcodes/youtube-advanced.php:103
+msgid "This parameter lets you use a YouTube player that does not show a YouTube logo. Set the parameter value to YES to prevent the YouTube logo from displaying in the control bar. Note that a small YouTube text label will still display in the upper-right corner of a paused video when the user's mouse pointer hovers over the player"
+msgstr "このパラメータを使用すると、YouTubeのロゴを表示しないYouTubeプレーヤーを使用することができます。コントロールバーからYouTubeのロゴを非表示にするにはパラメータ値を'はい'に設定します。ユーザーのマウスポインタをプレイヤー上に置いたときに、小さなYouTubeのテキストラベルが動画の右上に表示されることに注意してください。"
+
+#: includes/shortcodes/youtube-advanced.php:97
+msgid "Setting this parameter to NO prevents the fullscreen button from displaying"
+msgstr "このパラメーターを'いいえ'に設定するとフルスクリーンのボタンを表示しません。"
+
+#: includes/shortcodes/youtube-advanced.php:96
+msgid "Show full-screen button"
+msgstr "フルスクリーンボタンを表示"
+
+#: includes/shortcodes/youtube-advanced.php:85
+msgid "Setting of YES will cause the player to play the initial video again and again"
+msgstr "'はい'に設定するとプレイヤーは何度も最初の動画を再生します。"
+
+#: includes/shortcodes/youtube-advanced.php:67
+msgid "This parameter indicates whether the video controls will automatically hide after a video begins playing"
+msgstr "このパラメータは、動画の再生が開始した後に動画コントロールを自動的に非表示にするかどうかを示します"
+
+#: includes/shortcodes/youtube-advanced.php:66
+msgid "Autohide"
+msgstr "自動的に隠す"
+
+#: includes/shortcodes/youtube-advanced.php:63
+msgid "2 - Hide progress bar on mouse out"
+msgstr "2 - マウスアウトでプログレスバーを隠す"
+
+#: includes/shortcodes/youtube-advanced.php:62
+msgid "1 - Hide all controls on mouse out"
+msgstr "1 - マウスアウトですべてのコントロールを隠す"
+
+#: includes/shortcodes/youtube-advanced.php:61
+msgid "0 - Do not hide controls"
+msgstr "0 - コントロールを隠さない"
+
+#: includes/shortcodes/youtube-advanced.php:56
+msgid "This parameter indicates whether the video player controls will display"
+msgstr "このパラメータは、動画プレーヤーのコントロールを表示するかどうかを示します"
+
+#: includes/shortcodes/youtube-advanced.php:52
+msgid "2 - Show controls when playback is started"
+msgstr "2 - 再生開始時にコントロールを表示"
+
+#: includes/shortcodes/youtube-advanced.php:51
+msgid "1 - Show controls"
+msgstr "1 - コントロールを表示"
+
+#: includes/shortcodes/youtube-advanced.php:50
+msgid "0 - Hide controls"
+msgstr "0 - コントロールを隠す"
+
+#: includes/shortcodes/youtube-advanced.php:21
+msgid "Value is a comma-separated list of video IDs to play. If you specify a value, the first video that plays will be the VIDEO_ID specified in the URL path, and the videos specified in the playlist parameter will play thereafter"
+msgstr "再生する動画IDのカンマ区切りリストの値です。値を指定した場合は、再生される最初の動画は、URLパスで指定されたVIDEO_IDとなり、プレイリストパラメータで指定された動画は、その後再生されます。"
+
+#: includes/shortcodes/youtube-advanced.php:20
+msgid "Playlist"
+msgstr "プレイリスト"
+
+#: includes/shortcodes/youtube.php:65
+msgid "YouTube video"
+msgstr "YouTube video"
+
+#: includes/shortcodes/youtube.php:50
+#: includes/shortcodes/youtube-advanced.php:78 includes/shortcodes/vimeo.php:50
+msgid "Mute"
+msgstr "ミュート"
+
+#: includes/shortcodes/youtube.php:15
+#: includes/shortcodes/youtube-advanced.php:16
+msgid "Url of YouTube page with video. Ex: http://youtube.com/watch?v=XXXXXX"
+msgstr "YouTubeページのURL。例: http://youtube.com/watch?v=XXXXXX"
+
+#: includes/shortcodes/youtube.php:8
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/shortcodes/list.php:41
+msgid "Styled unordered list"
+msgstr "番号の付かないリスト"
+
+#: includes/shortcodes/list.php:40
+msgid ""
+"<ul>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"<li>並び項目</li>\n"
+"<li>並び項目</li>\n"
+"<li>並び項目</li>\n"
+"</ul>"
+
+#: includes/shortcodes/list.php:30
+msgid "Indent"
+msgstr "インデント"
+
+#: includes/shortcodes/service.php:28 includes/shortcodes/button.php:104
+#: includes/shortcodes/list.php:22
+msgid "This color will be applied to the selected icon. Does not works with uploaded icons"
+msgstr "この色は選択されたアイコンに適用されます。アップロードされたアイコンでは動作しません。"
+
+#: includes/shortcodes/service.php:27 includes/shortcodes/button.php:103
+#: includes/shortcodes/list.php:21
+msgid "Icon color"
+msgstr "アイコンの色"
+
+#: includes/shortcodes/list.php:16
+msgid "You can upload custom icon for this list or pick a built-in icon"
+msgstr "このリストのカスタムアイコンをアップロードするか、組み込みのアイコンを選ぶことができます"
+
+#: includes/shortcodes/list.php:8
+msgid "List"
+msgstr "リスト"
+
+#: includes/shortcodes/lightbox-content.php:105
+msgid "please specify correct ID for this block. You should use same ID as in the Content source field (when inserting lightbox shortcode)"
+msgstr "このブロックの正しいIDを指定してください。コンテンツソースフィールドと同じIDを使用する必要があります。 (lightboxショートコードを挿入するとき)"
+
+#: includes/shortcodes/lightbox-content.php:84
+msgid "Inline content for lightbox"
+msgstr "lightboxのインラインコンテンツ"
+
+#: includes/shortcodes/lightbox-content.php:83
+msgid "Inline content"
+msgstr "インラインコンテンツ"
+
+#: includes/shortcodes/lightbox-content.php:74
+msgid "Adjust the shadow for content box"
+msgstr "コンテンツボックスの影を調整"
+
+#: includes/shortcodes/lightbox-content.php:62
+#: includes/shortcodes/lightbox-content.php:68
+msgid "Pick a text color"
+msgstr "テキストの色を選択"
+
+#: includes/shortcodes/qrcode.php:77
+#: includes/shortcodes/lightbox-content.php:56
+msgid "Pick a background color"
+msgstr "背景色を選択"
+
+#: includes/shortcodes/lightbox-content.php:50
+msgid "Select the text alignment"
+msgstr "テキストの配置を選択"
+
+#: includes/shortcodes/lightbox-content.php:49
+msgid "Text alignment"
+msgstr "テキストアラインメント"
+
+#: includes/shortcodes/lightbox-content.php:39
+msgid "Adjust the padding for inline content (in pixels)"
+msgstr "インラインコンテンツのパディングを調整 (ピクセル単位)"
+
+#: includes/shortcodes/lightbox-content.php:38
+msgid "Padding"
+msgstr "パディング"
+
+#: includes/shortcodes/lightbox-content.php:30
+msgid "Adjust the margin for inline content (in pixels)"
+msgstr "インラインコンテンツのマージンを調整 (ピクセル単位)"
+
+#: includes/shortcodes/qrcode.php:37
+#: includes/shortcodes/lightbox-content.php:29
+#: includes/shortcodes/divider.php:69 includes/shortcodes/heading.php:46
+msgid "Margin"
+msgstr "マージン"
+
+#: includes/shortcodes/lightbox-content.php:21
+msgid "Adjust the width for inline content (in pixels or percents). %s Example values: %s, %s, %s"
+msgstr "インラインコンテンツの幅を調整 (ピクセルまたはパーセント) %s 値の例: %s, %s, %s "
+
+#: includes/shortcodes/lightbox-content.php:16
+msgid "Enter here the ID from Content source field. %s Example value: %s"
+msgstr "コンテンツソースフィールドからIDを入力。 %s 値の例: %s"
+
+#: includes/shortcodes/permalink.php:13
+#: includes/shortcodes/lightbox-content.php:15 includes/shortcodes/user.php:21
+msgid "ID"
+msgstr "ID"
+
+#: includes/shortcodes/lightbox-content.php:7
+msgid "Lightbox content"
+msgstr "lightboxのコンテンツ"
+
+#: includes/shortcodes/video.php:72
+msgid "Custom video player"
+msgstr "カスタム動画プレーヤー"
+
+#: includes/shortcodes/audio.php:33 includes/shortcodes/video.php:63
+msgid "Repeat when playback is ended"
+msgstr "再生が終了したときに繰り返す"
+
+#: includes/shortcodes/youtube-advanced.php:84 includes/shortcodes/audio.php:32
+#: includes/shortcodes/video.php:62
+msgid "Loop"
+msgstr "ループ"
+
+#: includes/shortcodes/audio.php:27 includes/shortcodes/video.php:57
+msgid "Play file automatically when page is loaded"
+msgstr "ページをロードしたとき自動的にファイルを再生"
+
+#: includes/shortcodes/video.php:51
+msgid "Show player controls (play/pause etc.) or not"
+msgstr "プレーヤーコントロール(再生/一時停止など)を表示"
+
+#: includes/shortcodes/youtube-advanced.php:55 includes/shortcodes/video.php:50
+msgid "Controls"
+msgstr "コントロール"
+
+#: includes/shortcodes/video.php:27
+msgid "Player title"
+msgstr "プレイヤータイトル"
+
+#: includes/shortcodes/video.php:21
+msgid "Url to poster image, that will be shown before playback"
+msgstr "ポスター画像のURL。こは再生前に表示されます"
+
+#: includes/shortcodes/video.php:20
+msgid "Poster"
+msgstr "ポスター"
+
+#: includes/shortcodes/video.php:15
+msgid "Url to mp4/flv video-file"
+msgstr "動画ファイル mp4/flv の URL"
+
+#: includes/shortcodes/audio.php:14 includes/shortcodes/video.php:14
+msgid "File"
+msgstr "ファイル"
+
+#: includes/shortcodes/video.php:7
+msgid "Video"
+msgstr "動画"
+
+#: includes/shortcodes/custom-gallery.php:87
+msgid "Customizable image gallery"
+msgstr "カスタマイズ可能な画像ギャラリー"
+
+#: includes/shortcodes/custom-gallery.php:78
+msgid "Title display mode"
+msgstr "タイトル表示モード"
+
+#: includes/shortcodes/custom-gallery.php:74
+msgid "Always"
+msgstr "常に"
+
+#: includes/shortcodes/custom-gallery.php:73
+msgid "On mouse over"
+msgstr "マウスオーバー"
+
+#: includes/shortcodes/custom-gallery.php:72
+msgid "Never"
+msgstr "なし"
+
+#: includes/shortcodes/custom-gallery.php:67
+msgid "Single item height (in pixels)"
+msgstr "単一の項目の高さ (px単位)"
+
+#: includes/shortcodes/custom-gallery.php:58
+msgid "Single item width (in pixels)"
+msgstr "単一アイテムの幅 (px単位)"
+
+#: includes/shortcodes/custom-gallery.php:8 includes/config/groups.php:10
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: includes/shortcodes/spoiler.php:67
+msgid "Spoiler with hidden content"
+msgstr "コンテンツが非表示のスポイラー"
+
+#: includes/shortcodes/spoiler.php:66
+msgid "Hidden content"
+msgstr "非表示のコンテンツ"
+
+#: includes/shortcodes/spoiler.php:56 includes/shortcodes/tabs.php:91
+msgid "Anchor"
+msgstr "アンカー"
+
+#: includes/shortcodes/spoiler.php:52
+msgid "Icons for spoiler"
+msgstr "スポイラーのアイコン"
+
+#: includes/shortcodes/spoiler.php:48
+msgid "Folder 2"
+msgstr "フォルダ 2"
+
+#: includes/shortcodes/spoiler.php:47
+msgid "Folder 1"
+msgstr "フォルダ 1"
+
+#: includes/shortcodes/spoiler.php:46
+msgid "Caret square"
+msgstr "正方形のカーソル"
+
+#: includes/shortcodes/spoiler.php:45
+msgid "Caret"
+msgstr "カーソル"
+
+#: includes/shortcodes/spoiler.php:44
+msgid "Chevron circle"
+msgstr "シェブロンサークル"
+
+#: includes/shortcodes/spoiler.php:43
+msgid "Chevron"
+msgstr "シェブロン"
+
+#: includes/shortcodes/spoiler.php:42
+msgid "Arrow circle 2"
+msgstr "矢印円 2"
+
+#: includes/shortcodes/spoiler.php:41
+msgid "Arrow circle 1"
+msgstr "矢印円 1"
+
+#: includes/shortcodes/spoiler.php:40
+msgid "Arrow"
+msgstr "矢印"
+
+#: includes/shortcodes/spoiler.php:39
+msgid "Plus square 2"
+msgstr "プラスサークル 2"
+
+#: includes/shortcodes/spoiler.php:38
+msgid "Plus square 1"
+msgstr "プラスサークル 1"
+
+#: includes/shortcodes/spoiler.php:37
+msgid "Plus circle"
+msgstr "プラスサークル"
+
+#: includes/shortcodes/spoiler.php:36
+msgid "Plus"
+msgstr "プラス"
+
+#: includes/shortcodes/spoiler.php:31
+msgid "Choose style for this spoiler"
+msgstr "このスポイラーのスタイルを選択"
+
+#: includes/shortcodes/dropcap.php:17 includes/shortcodes/spoiler.php:27
+msgid "Simple"
+msgstr "シンプル"
+
+#: includes/shortcodes/spoiler.php:26
+msgid "Fancy"
+msgstr "ファンシー"
+
+#: includes/shortcodes/spoiler.php:20
+msgid "Is spoiler content visible by default"
+msgstr "スポイラーのコンテンツはデフォルトで表示される"
+
+#: includes/shortcodes/spoiler.php:19
+msgid "Open"
+msgstr "開く"
+
+#: includes/shortcodes/spoiler.php:14
+msgid "Text in spoiler title"
+msgstr "スポイラーのタイトル内のテキスト"
+
+#: includes/shortcodes/spoiler.php:12 includes/shortcodes/spoiler.php:78
+msgid "Spoiler title"
+msgstr "スポイラーのタイトル"
+
+#: includes/shortcodes/spoiler.php:7
+msgid "Spoiler"
+msgstr "スポイラー"
+
+#: includes/shortcodes/note.php:48
+msgid "Colored box"
+msgstr "カラーボックス"
+
+#: includes/shortcodes/note.php:47
+msgid "Note text"
+msgstr "ノートテキスト"
+
+#: includes/shortcodes/note.php:33
+msgid "Note corners radius"
+msgstr "ノートテキスト色"
+
+#: includes/shortcodes/note.php:32 includes/shortcodes/box.php:51
+#: includes/shortcodes/button.php:91
+msgid "Radius"
+msgstr "半径"
+
+#: includes/shortcodes/note.php:24
+msgid "Note text color"
+msgstr "ノートテキストの背景色"
+
+#: includes/shortcodes/note.php:17
+msgid "Note background color"
+msgstr "ノートの背景色"
+
+#: includes/shortcodes/note.php:8
+msgid "Note"
+msgstr "ノート"
+
+#: includes/shortcodes/quote.php:40
+msgid "Blockquote alternative"
+msgstr "代替 Blockquote"
+
+#: includes/shortcodes/quote.php:30
+msgid "Url of the quote author. Leave empty to disable link"
+msgstr "引用投稿者のURL。リンクを無効にする場合は空白にします"
+
+#: includes/shortcodes/quote.php:29
+msgid "Cite url"
+msgstr "引用 URL"
+
+#: includes/shortcodes/quote.php:24
+msgid "Quote author name"
+msgstr "引用の投稿者名"
+
+#: includes/shortcodes/quote.php:23
+msgid "Cite"
+msgstr "引用"
+
+#: includes/shortcodes/quote.php:19
+msgid "Choose style for this quote"
+msgstr "この引用のスタイルを選択"
+
+#: includes/shortcodes/tooltip.php:28 includes/shortcodes/dropcap.php:20
+#: includes/shortcodes/quote.php:18 includes/shortcodes/box.php:28
+#: includes/shortcodes/spoiler.php:30 includes/shortcodes/divider.php:37
+#: includes/shortcodes/tabs.php:21 includes/shortcodes/button.php:42
+#: includes/shortcodes/heading.php:17
+msgid "Style"
+msgstr "スタイル"
+
+#: includes/shortcodes/quote.php:8 includes/shortcodes/quote.php:39
+msgid "Quote"
+msgstr "引用"
+
+#: includes/shortcodes/csv-table.php:87
+msgid "invalid delimiter"
+msgstr "無効なインデント"
+
+#: includes/shortcodes/csv-table.php:77 includes/shortcodes/csv-table.php:83
+msgid "invalid URL"
+msgstr "無効な URL"
+
+#: includes/shortcodes/csv-table.php:47 includes/shortcodes/table.php:29
+msgid "Fixed layout"
+msgstr "固定レイアウト"
+
+#: includes/shortcodes/csv-table.php:36 includes/shortcodes/table.php:18
+msgid "Add horizontal scrollbar if table width larger than page width"
+msgstr "テーブル幅がページ幅より大きい場合は水平スクロールバーを追加"
+
+#: includes/shortcodes/csv-table.php:17
+msgid "CSV file URL"
+msgstr "CSV ファイル URL"
+
+#: includes/shortcodes/csv-table.php:8
+msgid "CSV Table"
+msgstr "CSV テーブル"
+
+#: includes/shortcodes/spacer.php:27
+msgid "Empty space with adjustable height"
+msgstr "調節可能な空きスペースの高さ"
+
+#: includes/shortcodes/spacer.php:18
+msgid "Height of the spacer in pixels"
+msgstr "ピクセル単位のスペーサの高さ"
+
+#: includes/shortcodes/spacer.php:7
+msgid "Spacer"
+msgstr "スペーサー"
+
+#: includes/shortcodes/youtube.php:89 includes/shortcodes/youtube.php:99
+#: includes/shortcodes/youtube-advanced.php:174
+#: includes/shortcodes/youtube-advanced.php:184
+#: includes/shortcodes/vimeo.php:102 includes/shortcodes/vimeo.php:112
+#: includes/shortcodes/audio.php:59 includes/shortcodes/audio.php:71
+#: includes/shortcodes/screenr.php:24 includes/shortcodes/screenr.php:31
+#: includes/shortcodes/dailymotion.php:137
+#: includes/shortcodes/dailymotion.php:144 includes/shortcodes/video.php:92
+#: includes/shortcodes/video.php:100
+msgid "please specify correct url"
+msgstr "正しい URL を指定してください。"
+
+#: includes/shortcodes/dailymotion.php:108
+msgid "Dailymotion video"
+msgstr "デイリーモーション 動画"
+
+#: includes/shortcodes/youtube.php:54 includes/shortcodes/permalink.php:28
+#: includes/shortcodes/youtube-advanced.php:128
+#: includes/shortcodes/qrcode.php:19 includes/shortcodes/gmap.php:52
+#: includes/shortcodes/vimeo.php:60 includes/shortcodes/box.php:15
+#: includes/shortcodes/spoiler.php:13 includes/shortcodes/service.php:15
+#: includes/shortcodes/tabs.php:80 includes/shortcodes/dailymotion.php:97
+#: includes/shortcodes/video.php:26 includes/shortcodes/document.php:44
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/shortcodes/dailymotion.php:94
+msgid "Show videos info (title/author) on the start screen"
+msgstr "スタート画面で動画情報(タイトル/作者)を表示する"
+
+#: includes/shortcodes/dailymotion.php:93
+msgid "Show video info"
+msgstr "動画情報を表示"
+
+#: includes/shortcodes/dailymotion.php:88
+msgid "Show related videos at the end of the video"
+msgstr "動画の最後に関連動画を表示する"
+
+#: includes/shortcodes/dailymotion.php:87
+msgid "Show related videos"
+msgstr "関連動画を表示"
+
+#: includes/shortcodes/dailymotion.php:82
+msgid "Determines the quality that must be played by default if available"
+msgstr "デフォルトで演奏しなければならない場合の品質を指定"
+
+#: includes/shortcodes/dailymotion.php:81
+msgid "Quality"
+msgstr "品質"
+
+#: includes/shortcodes/dailymotion.php:69
+msgid "Allows to hide or show the Dailymotion logo"
+msgstr "Dailymotion のロゴを表示したり非表示にする"
+
+#: includes/shortcodes/dailymotion.php:68
+msgid "Show logo"
+msgstr "ロゴの表示"
+
+#: includes/shortcodes/dailymotion.php:63
+msgid "HTML color of the controls elements' highlights"
+msgstr "HTML コントロール要素のハイライト色"
+
+#: includes/shortcodes/dailymotion.php:62
+msgid "Highlight color"
+msgstr "ハイライトカラー"
+
+#: includes/shortcodes/dailymotion.php:57
+msgid "HTML color of the foreground of controls elements"
+msgstr "HTML コントロール要素の前景色"
+
+#: includes/shortcodes/dailymotion.php:56
+msgid "Foreground color"
+msgstr "表示文字色"
+
+#: includes/shortcodes/dailymotion.php:51
+msgid "HTML color of the background of controls elements"
+msgstr "HTML コントロール要素の背景色"
+
+#: includes/shortcodes/qrcode.php:76
+#: includes/shortcodes/lightbox-content.php:55
+#: includes/shortcodes/dailymotion.php:50
+msgid "Background color"
+msgstr "背景色"
+
+#: includes/shortcodes/dailymotion.php:45
+msgid "Start the playback of the video automatically after the player load. May not work on some mobile OS versions"
+msgstr "自動的にプレーヤーの読込後に動画の再生を開始します。一部のモバイルOSのバージョンでは動作しない場合があります"
+
+#: includes/shortcodes/youtube.php:39
+#: includes/shortcodes/youtube-advanced.php:45 includes/shortcodes/vimeo.php:39
+#: includes/shortcodes/dailymotion.php:39
+msgid "Ignore width and height parameters and make player responsive"
+msgstr "幅と高さのパラメーターは無視され、プレーヤーはレスポンシブになります"
+
+#: includes/shortcodes/youtube.php:33
+#: includes/shortcodes/youtube-advanced.php:39 includes/shortcodes/vimeo.php:33
+#: includes/shortcodes/dailymotion.php:33 includes/shortcodes/video.php:45
+msgid "Player height"
+msgstr "プレイヤーの高さ"
+
+#: includes/shortcodes/youtube.php:24
+#: includes/shortcodes/youtube-advanced.php:30 includes/shortcodes/vimeo.php:24
+#: includes/shortcodes/dailymotion.php:24 includes/shortcodes/video.php:36
+msgid "Player width"
+msgstr "プレイヤーの幅"
+
+#: includes/shortcodes/dailymotion.php:15
+msgid "Url of Dailymotion page with video"
+msgstr "Dailymotion の動画ページの URL"
+
+#: includes/shortcodes/youtube.php:14
+#: includes/shortcodes/youtube-advanced.php:15 includes/shortcodes/vimeo.php:14
+#: includes/shortcodes/dailymotion.php:14 includes/shortcodes/document.php:16
+msgid "Url"
+msgstr "URL"
+
+#: includes/shortcodes/dailymotion.php:8
+msgid "Dailymotion"
+msgstr "デイリーモーション"
+
+#: includes/shortcodes/subpages.php:30
+msgid "List of sub pages"
+msgstr "サブページのリスト"
+
+#: includes/shortcodes/subpages.php:21
+msgid "ID of the parent page. Leave blank to use current page"
+msgstr "親ページ ID。現在のページを使用する場合は空白にします"
+
+#: includes/shortcodes/subpages.php:20
+msgid "Parent ID"
+msgstr "親 ID"
+
+#: includes/shortcodes/subpages.php:15
+msgid "Max depth level of children pages"
+msgstr "子ページの最大深さレベル"
+
+#: includes/shortcodes/subpages.php:14 includes/shortcodes/siblings.php:14
+msgid "Depth"
+msgstr "深さ"
+
+#: includes/shortcodes/subpages.php:7
+msgid "Sub pages"
+msgstr "サブページ"
+
+#: includes/shortcodes/frame.php:29
+msgid "Styled image frame"
+msgstr "画像フレームスタイル"
+
+#: includes/shortcodes/frame.php:24
+msgid "Class"
+msgstr "クラス"
+
+#: includes/shortcodes/frame.php:20
+msgid "Frame alignment"
+msgstr "フレームアライメント"
+
+#: includes/shortcodes/qrcode.php:49 includes/shortcodes/frame.php:19
+#: includes/shortcodes/pullquote.php:18 includes/shortcodes/heading.php:37
+msgid "Align"
+msgstr "整列"
+
+#: includes/shortcodes/tooltip.php:37 includes/shortcodes/qrcode.php:46
+#: includes/shortcodes/expand.php:68 includes/shortcodes/image-carousel.php:89
+#: includes/shortcodes/lightbox-content.php:46 includes/shortcodes/frame.php:16
+#: includes/shortcodes/pullquote.php:15 includes/shortcodes/heading.php:34
+msgid "Right"
+msgstr "右"
+
+#: includes/shortcodes/tooltip.php:36 includes/shortcodes/qrcode.php:44
+#: includes/shortcodes/expand.php:66 includes/shortcodes/image-carousel.php:88
+#: includes/shortcodes/lightbox-content.php:44 includes/shortcodes/frame.php:14
+#: includes/shortcodes/pullquote.php:14 includes/shortcodes/heading.php:32
+msgid "Left"
+msgstr "左"
+
+#: includes/shortcodes/frame.php:7
+msgid "Frame"
+msgstr "フレーム"
+
+#: includes/shortcodes/accordion.php:24 includes/shortcodes/spoiler.php:68
+msgid "Did you know that you can wrap multiple spoilers with [accordion] shortcode to create accordion effect?"
+msgstr "アコーディオン効果を作成する[accordion]ショートコードで複数のスポイラーをラップできることを知っていますか？"
+
+#: includes/shortcodes/accordion.php:23
+msgid "Accordion with spoilers"
+msgstr "スポイラーとアコーディオン"
+
+#: includes/shortcodes/accordion.php:7
+msgid "Accordion"
+msgstr "アコーディオン"
+
+#: includes/shortcodes/slider.php:209
+#: includes/shortcodes/image-carousel.php:236
+#: includes/shortcodes/carousel.php:236
+#: includes/shortcodes/custom-gallery.php:157
+msgid "images not found"
+msgstr "画像が見つかりません。"
+
+#: includes/shortcodes/slider.php:127
+msgid "Customizable image slider"
+msgstr "カスタマイズ可能なスライダー"
+
+#: includes/shortcodes/slider.php:118 includes/shortcodes/carousel.php:137
+msgid "Specify animation speed"
+msgstr "アニメーションの速度を指定"
+
+#: includes/shortcodes/slider.php:118 includes/shortcodes/carousel.php:137
+msgid "Speed"
+msgstr "速度"
+
+#: includes/shortcodes/slider.php:110
+msgid "Choose interval between slide animations. Set to 0 to disable autoplay"
+msgstr "スライドアニメーションの間隔を選択。自動再生を無効にする場合は0に設定"
+
+#: includes/shortcodes/youtube.php:44 includes/shortcodes/slider.php:109
+#: includes/shortcodes/youtube-advanced.php:72
+#: includes/shortcodes/image-carousel.php:157 includes/shortcodes/vimeo.php:44
+#: includes/shortcodes/carousel.php:128 includes/shortcodes/audio.php:26
+#: includes/shortcodes/dailymotion.php:44 includes/shortcodes/video.php:56
+msgid "Autoplay"
+msgstr "自動再生"
+
+#: includes/shortcodes/slider.php:101
+msgid "Allow to change slides with mouse wheel"
+msgstr "マウスホイールでスライド可能"
+
+#: includes/shortcodes/slider.php:100 includes/shortcodes/carousel.php:119
+msgid "Mouse wheel control"
+msgstr "マウスホイールの制御"
+
+#: includes/shortcodes/slider.php:96 includes/shortcodes/carousel.php:115
+msgid "Show pagination"
+msgstr "ページネーションを表示"
+
+#: includes/shortcodes/slider.php:95 includes/shortcodes/carousel.php:114
+msgid "Pagination"
+msgstr "ページ送り"
+
+#: includes/shortcodes/slider.php:90 includes/shortcodes/carousel.php:109
+msgid "Show left and right arrows"
+msgstr "左右の矢印を表示"
+
+#: includes/shortcodes/slider.php:90 includes/shortcodes/carousel.php:109
+msgid "Arrows"
+msgstr "矢印"
+
+#: includes/shortcodes/slider.php:85
+msgid "Is slider centered on the page"
+msgstr "スライダーをページの中央に配置"
+
+#: includes/shortcodes/slider.php:85 includes/shortcodes/qrcode.php:45
+#: includes/shortcodes/expand.php:67 includes/shortcodes/image-carousel.php:90
+#: includes/shortcodes/lightbox-content.php:45
+#: includes/shortcodes/carousel.php:104 includes/shortcodes/frame.php:15
+#: includes/shortcodes/heading.php:33
+msgid "Center"
+msgstr "中央"
+
+#: includes/shortcodes/slider.php:80
+msgid "Display slide titles"
+msgstr "スライドのタイトルを表示"
+
+#: includes/shortcodes/slider.php:80 includes/shortcodes/carousel.php:99
+#: includes/shortcodes/custom-gallery.php:77
+msgid "Show titles"
+msgstr "タイトルを表示"
+
+#: includes/shortcodes/slider.php:75
+msgid "Ignore width and height parameters and make slider responsive"
+msgstr "幅と高さのパラメータを無視してスライダーをレスポンシブに表示します"
+
+#: includes/shortcodes/youtube.php:38 includes/shortcodes/slider.php:74
+#: includes/shortcodes/youtube-advanced.php:44 includes/shortcodes/gmap.php:33
+#: includes/shortcodes/vimeo.php:38 includes/shortcodes/csv-table.php:35
+#: includes/shortcodes/carousel.php:76 includes/shortcodes/table.php:17
+#: includes/shortcodes/dailymotion.php:38 includes/shortcodes/document.php:40
+msgid "Responsive"
+msgstr "レスポンシブ"
+
+#: includes/shortcodes/slider.php:69
+msgid "Slider height (in pixels)"
+msgstr "スライダーの高さ(px単位)"
+
+#: includes/shortcodes/dummy-image.php:26 includes/shortcodes/youtube.php:32
+#: includes/shortcodes/slider.php:69
+#: includes/shortcodes/youtube-advanced.php:38
+#: includes/shortcodes/spacer.php:17 includes/shortcodes/expand.php:27
+#: includes/shortcodes/gmap.php:27 includes/shortcodes/vimeo.php:32
+#: includes/shortcodes/carousel.php:70
+#: includes/shortcodes/custom-gallery.php:66
+#: includes/shortcodes/dailymotion.php:32 includes/shortcodes/video.php:44
+#: includes/shortcodes/document.php:34
+msgid "Height"
+msgstr "高さ"
+
+#: includes/shortcodes/slider.php:61
+msgid "Slider width (in pixels)"
+msgstr "スライダ幅(px単位)"
+
+#: includes/shortcodes/dummy-image.php:17 includes/shortcodes/youtube.php:23
+#: includes/shortcodes/slider.php:61
+#: includes/shortcodes/youtube-advanced.php:29 includes/shortcodes/gmap.php:18
+#: includes/shortcodes/vimeo.php:23 includes/shortcodes/lightbox-content.php:20
+#: includes/shortcodes/carousel.php:61 includes/shortcodes/audio.php:20
+#: includes/shortcodes/custom-gallery.php:57
+#: includes/shortcodes/dailymotion.php:23 includes/shortcodes/video.php:35
+#: includes/shortcodes/document.php:25
+msgid "Width"
+msgstr "幅"
+
+#: includes/shortcodes/slider.php:53 includes/shortcodes/carousel.php:53
+#: includes/shortcodes/custom-gallery.php:49
+msgid "Open links in"
+msgstr "リンクを開く"
+
+#: includes/shortcodes/slider.php:52 includes/shortcodes/image-carousel.php:148
+#: includes/shortcodes/carousel.php:52 includes/shortcodes/feed.php:34
+#: includes/shortcodes/custom-gallery.php:48
+msgid "Links target"
+msgstr "リンクターゲット"
+
+#: includes/shortcodes/slider.php:49 includes/shortcodes/permalink.php:20
+#: includes/shortcodes/qrcode.php:61 includes/shortcodes/image-carousel.php:145
+#: includes/shortcodes/carousel.php:49 includes/shortcodes/tabs.php:103
+#: includes/shortcodes/feed.php:31 includes/shortcodes/custom-gallery.php:45
+#: includes/shortcodes/button.php:22
+msgid "Open in new tab"
+msgstr "新しいタブで開く"
+
+#: includes/shortcodes/slider.php:48 includes/shortcodes/permalink.php:19
+#: includes/shortcodes/qrcode.php:60 includes/shortcodes/image-carousel.php:144
+#: includes/shortcodes/carousel.php:48 includes/shortcodes/tabs.php:102
+#: includes/shortcodes/feed.php:30 includes/shortcodes/custom-gallery.php:44
+#: includes/shortcodes/button.php:21
+msgid "Open in same tab"
+msgstr "同じタブで開く"
+
+#: includes/shortcodes/slider.php:43 includes/shortcodes/carousel.php:43
+#: includes/shortcodes/custom-gallery.php:39
+msgid "Select which links will be used for images in this gallery"
+msgstr "このギャラリー内の画像のリンクを使用するか選択します。"
+
+#: includes/shortcodes/slider.php:42 includes/shortcodes/carousel.php:42
+#: includes/shortcodes/custom-gallery.php:38
+msgid "Links"
+msgstr "リンク"
+
+#: includes/shortcodes/slider.php:39 includes/shortcodes/image-carousel.php:135
+#: includes/shortcodes/carousel.php:39
+#: includes/shortcodes/custom-gallery.php:35
+msgid "Post permalink"
+msgstr "投稿パーマリンク"
+
+#: includes/shortcodes/slider.php:38 includes/shortcodes/image-carousel.php:134
+#: includes/shortcodes/carousel.php:38
+#: includes/shortcodes/custom-gallery.php:34
+msgid "Attachment page"
+msgstr "添付ファイルのページ"
+
+#: includes/shortcodes/slider.php:37 includes/shortcodes/carousel.php:37
+#: includes/shortcodes/custom-gallery.php:33
+msgid "Slide link (added in media editor)"
+msgstr "スライドリンク (メディアエディタで追加)"
+
+#: includes/shortcodes/slider.php:36 includes/shortcodes/lightbox.php:8
+#: includes/shortcodes/image-carousel.php:132
+#: includes/shortcodes/carousel.php:36
+#: includes/shortcodes/custom-gallery.php:32
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/shortcodes/slider.php:35 includes/shortcodes/image-carousel.php:131
+#: includes/shortcodes/carousel.php:35
+#: includes/shortcodes/custom-gallery.php:31
+msgid "Full-size image"
+msgstr "フルサイズ画像"
+
+#: includes/shortcodes/slider.php:34 includes/shortcodes/posts.php:139
+#: includes/shortcodes/qrcode.php:43 includes/shortcodes/image-carousel.php:87
+#: includes/shortcodes/image-carousel.php:130
+#: includes/shortcodes/carousel.php:34
+#: includes/shortcodes/custom-gallery.php:30 includes/config/borders.php:6
+msgid "None"
+msgstr "なし"
+
+#: includes/shortcodes/slider.php:29 includes/shortcodes/carousel.php:29
+#: includes/shortcodes/custom-gallery.php:25
+msgid "Maximum number of image source posts (for recent posts, category and custom taxonomy)"
+msgstr "画像ソース内の記事の最大数 (最近の投稿、カテゴリとカスタムタクソノミーのため)"
+
+#: includes/shortcodes/slider.php:28 includes/shortcodes/image-carousel.php:32
+#: includes/shortcodes/carousel.php:28 includes/shortcodes/feed.php:24
+#: includes/shortcodes/custom-gallery.php:24
+msgid "Limit"
+msgstr "制限"
+
+#: includes/shortcodes/slider.php:20 includes/shortcodes/carousel.php:20
+#: includes/shortcodes/custom-gallery.php:16
+msgid "Choose images source. You can use images from Media library or retrieve it from posts (thumbnails) posted under specified blog category. You can also pick any custom taxonomy"
+msgstr "画像ソースを選択します。メディアライブラリからの画像を使用したり、指定されたブログのカテゴリの下に投稿記事(サムネイル)からそれを取り出すことができます。また、任意のカスタムタクソノミーを選ぶことができます"
+
+#: includes/shortcodes/slider.php:19 includes/shortcodes/carousel.php:19
+#: includes/shortcodes/custom-gallery.php:15
+msgid "Source"
+msgstr "ソース"
+
+#: includes/shortcodes/slider.php:7
+msgid "Slider"
+msgstr "スライダー"
+
+#: includes/shortcodes/highlight.php:31 includes/shortcodes/highlight.php:32
+msgid "Highlighted text"
+msgstr "強調表示するテキストの背景色"
+
+#: includes/shortcodes/tooltip.php:100 includes/shortcodes/subpages.php:26
+#: includes/shortcodes/dummy-image.php:54 includes/shortcodes/dropcap.php:34
+#: includes/shortcodes/youtube.php:61 includes/shortcodes/note.php:38
+#: includes/shortcodes/slider.php:123 includes/shortcodes/permalink.php:39
+#: includes/shortcodes/youtube-advanced.php:135
+#: includes/shortcodes/lightbox.php:39 includes/shortcodes/spacer.php:23
+#: includes/shortcodes/qrcode.php:82 includes/shortcodes/expand.php:89
+#: includes/shortcodes/accordion.php:15 includes/shortcodes/members.php:36
+#: includes/shortcodes/quote.php:35 includes/shortcodes/gmap.php:59
+#: includes/shortcodes/row.php:16 includes/shortcodes/image-carousel.php:188
+#: includes/shortcodes/label.php:28 includes/shortcodes/guests.php:14
+#: includes/shortcodes/vimeo.php:72 includes/shortcodes/box.php:57
+#: includes/shortcodes/csv-table.php:53 includes/shortcodes/private.php:14
+#: includes/shortcodes/lightbox-content.php:79
+#: includes/shortcodes/carousel.php:142 includes/shortcodes/spoiler.php:62
+#: includes/shortcodes/dummy-text.php:47 includes/shortcodes/column.php:41
+#: includes/shortcodes/animate.php:45 includes/shortcodes/divider.php:75
+#: includes/shortcodes/service.php:42 includes/shortcodes/table.php:35
+#: includes/shortcodes/siblings.php:20 includes/shortcodes/tabs.php:53
+#: includes/shortcodes/tabs.php:112 includes/shortcodes/audio.php:38
+#: includes/shortcodes/feed.php:40 includes/shortcodes/menu.php:19
+#: includes/shortcodes/highlight.php:27
+#: includes/shortcodes/custom-gallery.php:83 includes/shortcodes/button.php:145
+#: includes/shortcodes/pullquote.php:23 includes/shortcodes/dailymotion.php:104
+#: includes/shortcodes/heading.php:57 includes/shortcodes/video.php:68
+#: includes/shortcodes/document.php:51 includes/shortcodes/list.php:36
+msgid "Additional CSS class name(s) separated by space(s)"
+msgstr "追加の CSS クラス名。複数設定する場合はスペースで区切ります。"
+
+#: includes/shortcodes/tooltip.php:99 includes/shortcodes/subpages.php:25
+#: includes/shortcodes/dummy-image.php:53 includes/shortcodes/dropcap.php:33
+#: includes/shortcodes/youtube.php:60 includes/shortcodes/note.php:37
+#: includes/shortcodes/slider.php:122 includes/shortcodes/permalink.php:38
+#: includes/shortcodes/youtube-advanced.php:134
+#: includes/shortcodes/lightbox.php:38 includes/shortcodes/spacer.php:22
+#: includes/shortcodes/qrcode.php:81 includes/shortcodes/expand.php:88
+#: includes/shortcodes/accordion.php:14 includes/shortcodes/members.php:35
+#: includes/shortcodes/quote.php:34 includes/shortcodes/gmap.php:58
+#: includes/shortcodes/row.php:15 includes/shortcodes/image-carousel.php:187
+#: includes/shortcodes/label.php:27 includes/shortcodes/guests.php:13
+#: includes/shortcodes/vimeo.php:71 includes/shortcodes/box.php:56
+#: includes/shortcodes/csv-table.php:52 includes/shortcodes/private.php:13
+#: includes/shortcodes/lightbox-content.php:78
+#: includes/shortcodes/carousel.php:141 includes/shortcodes/spoiler.php:61
+#: includes/shortcodes/dummy-text.php:46 includes/shortcodes/column.php:40
+#: includes/shortcodes/animate.php:44 includes/shortcodes/divider.php:74
+#: includes/shortcodes/service.php:41 includes/shortcodes/frame.php:25
+#: includes/shortcodes/table.php:34 includes/shortcodes/siblings.php:19
+#: includes/shortcodes/tabs.php:52 includes/shortcodes/tabs.php:111
+#: includes/shortcodes/audio.php:37 includes/shortcodes/feed.php:39
+#: includes/shortcodes/menu.php:18 includes/shortcodes/highlight.php:26
+#: includes/shortcodes/custom-gallery.php:82 includes/shortcodes/button.php:144
+#: includes/shortcodes/pullquote.php:22 includes/shortcodes/dailymotion.php:103
+#: includes/shortcodes/heading.php:56 includes/shortcodes/video.php:67
+#: includes/shortcodes/document.php:50 includes/shortcodes/list.php:35
+msgid "Extra CSS class"
+msgstr "別の CSS クラス"
+
+#: includes/shortcodes/highlight.php:22
+msgid "Highlighted text color"
+msgstr "強調表示するテキストの色"
+
+#: includes/shortcodes/note.php:23 includes/shortcodes/expand.php:40
+#: includes/shortcodes/lightbox-content.php:61
+#: includes/shortcodes/lightbox-content.php:67
+#: includes/shortcodes/highlight.php:22 includes/shortcodes/button.php:56
+msgid "Text color"
+msgstr "テキストの色"
+
+#: includes/shortcodes/highlight.php:16
+msgid "Highlighted text background color"
+msgstr "強調表示するテキストの背景色"
+
+#: includes/shortcodes/note.php:16 includes/shortcodes/highlight.php:15
+#: includes/shortcodes/button.php:49
+msgid "Background"
+msgstr "背景"
+
+#: includes/shortcodes/highlight.php:7
+msgid "Highlight"
+msgstr "ハイライト"
+
+#: includes/shortcodes/meta.php:39 includes/shortcodes/user.php:57
+#: includes/shortcodes/post.php:71
+msgid "You can apply custom filter to the retrieved value. Enter here function name. Your function must accept one argument and return modified value. Name of your function must include word <b>filter</b>. Example function: "
+msgstr "取得した値にカスタムフィルターを適用きます。ここに関数名を入力してください。関数は1つの引数を受け取り、変更された値を返す必要があります。関数名には <b>filter</b> という単語を含めなければなりません。関数の例:"
+
+#: includes/shortcodes/meta.php:38 includes/shortcodes/user.php:56
+#: includes/shortcodes/post.php:70
+msgid "Filter"
+msgstr "絞り込み"
+
+#: includes/shortcodes/meta.php:29 includes/shortcodes/user.php:47
+#: includes/shortcodes/post.php:55
+msgid "This content will be shown after the value"
+msgstr "このコンテンツは値の後に表示されます"
+
+#: includes/shortcodes/meta.php:28 includes/shortcodes/user.php:46
+#: includes/shortcodes/post.php:54
+msgid "After"
+msgstr "後"
+
+#: includes/shortcodes/meta.php:24 includes/shortcodes/user.php:42
+#: includes/shortcodes/post.php:50
+msgid "This content will be shown before the value"
+msgstr "このコンテンツは値の前に表示されます"
+
+#: includes/shortcodes/meta.php:23 includes/shortcodes/user.php:41
+#: includes/shortcodes/post.php:49
+msgid "Before"
+msgstr "前"
+
+#: includes/shortcodes/meta.php:19 includes/shortcodes/user.php:37
+#: includes/shortcodes/post.php:45
+msgid "This text will be shown if data is not found"
+msgstr "データが見つからない場合、このテキストが表示されます"
+
+#: includes/shortcodes/tooltip.php:58 includes/shortcodes/dropcap.php:14
+#: includes/shortcodes/expand.php:53 includes/shortcodes/quote.php:15
+#: includes/shortcodes/image-carousel.php:38 includes/shortcodes/label.php:14
+#: includes/shortcodes/box.php:21 includes/shortcodes/meta.php:18
+#: includes/shortcodes/spoiler.php:25 includes/shortcodes/divider.php:31
+#: includes/shortcodes/tabs.php:18 includes/shortcodes/user.php:36
+#: includes/shortcodes/post.php:44 includes/shortcodes/button.php:31
+#: includes/shortcodes/heading.php:14
+msgid "Default"
+msgstr "デフォルト"
+
+#: includes/shortcodes/post.php:40
+msgid "Post data field name"
+msgstr "投稿データのフィールド名"
+
+#: includes/shortcodes/user.php:31 includes/shortcodes/post.php:39
+msgid "Field"
+msgstr "フィールド"
+
+#: includes/shortcodes/post.php:36
+msgid "Comment count"
+msgstr "コメント数"
+
+#: includes/shortcodes/post.php:35
+msgid "Post mime type"
+msgstr "投稿 MIME タイプ"
+
+#: includes/shortcodes/post.php:34 includes/shortcodes/post.php:65
+msgid "Post type"
+msgstr "投稿タイプ"
+
+#: includes/shortcodes/posts.php:149 includes/shortcodes/post.php:33
+msgid "Menu order"
+msgstr "メニュー順"
+
+#: includes/shortcodes/post.php:32
+msgid "GUID"
+msgstr "GUID"
+
+#: includes/shortcodes/posts.php:146 includes/shortcodes/posts.php:159
+#: includes/shortcodes/post.php:31
+msgid "Post parent"
+msgstr "親投稿"
+
+#: includes/shortcodes/post.php:29 includes/shortcodes/post.php:30
+msgid "Post modified"
+msgstr "投稿修正"
+
+#: includes/shortcodes/post.php:28
+msgid "Post name"
+msgstr "投稿名"
+
+#: includes/shortcodes/post.php:27
+msgid "Ping status"
+msgstr "Ping ステータス"
+
+#: includes/shortcodes/post.php:26
+msgid "Comment status"
+msgstr "コメントステータス"
+
+#: includes/shortcodes/posts.php:179 includes/shortcodes/post.php:25
+msgid "Post status"
+msgstr "投稿ステータス"
+
+#: includes/shortcodes/post.php:24
+msgid "Post excerpt"
+msgstr "投稿の抜粋"
+
+#: includes/shortcodes/posts.php:142 includes/shortcodes/post.php:23
+msgid "Post title"
+msgstr "投稿タイトル"
+
+#: includes/shortcodes/post.php:19 includes/shortcodes/post.php:20
+msgid "Post date"
+msgstr "投稿日"
+
+#: includes/shortcodes/posts.php:141 includes/shortcodes/post.php:18
+msgid "Post author"
+msgstr "投稿者"
+
+#: includes/shortcodes/posts.php:140 includes/shortcodes/meta.php:33
+#: includes/shortcodes/post.php:17 includes/shortcodes/post.php:59
+msgid "Post ID"
+msgstr "投稿 ID"
+
+#: includes/shortcodes/post.php:11
+msgid "Post data"
+msgstr "投稿データ"
+
+#: admin/class-shortcodes-ultimate-admin-extra-shortcodes.php:126
+#: includes/shortcodes/tooltip.php:46
+#: includes/shortcodes/lightbox-content.php:73
+msgid "Shadow"
+msgstr "影"
+
+#: admin/class-shortcodes-ultimate-admin-extra-shortcodes.php:118
+#: includes/shortcodes/spoiler.php:51 includes/shortcodes/service.php:21
+#: includes/shortcodes/button.php:97 includes/shortcodes/list.php:15
+msgid "Icon"
+msgstr "アイコン"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:271
+msgid "Enable this option if you don't want the inserted shortcode to contain any settings that were not changed by you. As a result, inserted shortcodes will be much shorter."
+msgstr "挿入されたショートコードに変更されていない設定が含まれないようにする場合は、このオプションを有効にします。その結果、挿入されたショートコードはずっと短くなります。"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:270
+msgid "Skip default settings"
+msgstr "デフォルト設定をスキップ"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:260
+msgid "Enable this option if you face any problems with formatting of nested shortcodes."
+msgstr "入れ子になっているショートコードのフォーマットに問題がある場合は、このオプションを有効にします。"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:259
+msgid "Custom formatting"
+msgstr "カスタムフォーマッティング"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:249
+msgid "This prefix will be used in shortcode names. For example: set <code>MY_</code> prefix and shortcodes will look like <code>[MY_button]</code>. Please note that this setting does not change shortcodes that have been inserted earlier. Change this setting very carefully."
+msgstr "この接頭詞はショートコード名として使われます。例えば <code>MY_</code> という接頭詞を設定するとショートコードは <code>[MY_button]</code> のようになります。この設定では、すでに挿入されたショートコードは変更されない点に注意してください。この設定を変更する場合は十分に注意して行ってください。"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:248
+msgid "Shortcodes prefix"
+msgstr "ショートコードの接頭辞"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:234
+msgid "Text widgets"
+msgstr "テキストウィジェット"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:214
+msgid "In this field you can write your custom CSS code for shortcodes. These styles will have higher priority compared to original styles of shortcodes. You can use variables in your CSS code. These variables will be replaced by respective values."
+msgstr "このフィールドでは、ショートコードのためのカスタム CSS コードを設定することができます。これらのスタイルはショートコードのオリジナル CSS より優先度が高くなります。CSS の中で変数を使うことができます。これらの変数はそれぞれの値に置き換えられます。"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:213
+msgid "Custom CSS code"
+msgstr "カスタム CSS コード"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:88
+#: admin/class-shortcodes-ultimate-admin-settings.php:165
+msgid "General settings"
+msgstr "全般設定"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:70
+#: admin/class-shortcodes-ultimate-admin-settings.php:71
+#: admin/class-shortcodes-ultimate-admin-settings.php:186
+#: inc/core/generator.php:176
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:506
+#: admin/class-shortcodes-ultimate-admin-top-level.php:40
+msgid "Shortcodes"
+msgstr "ショートコード"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:433
+msgid "none"
+msgstr "なし"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:412
+msgid "Examples"
+msgstr "例"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:407
+msgid "Term slug(s) separated by comma(s)"
+msgstr "タグスラッグ。複数設定する場合はカンマで区切ります。"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:406
+msgid "Taxonomy slug(s) separated by comma(s)"
+msgstr "タクソノミースラッグ。複数設定する場合はカンマで区切ります。"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:405
+msgid "Post type slug(s) separated by comma(s)"
+msgstr "投稿タイプスラッグ。複数設定する場合はカンマで区切ります。"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:404
+msgid "CSS class name(s) separated by space(s)"
+msgstr "CSS クラス名。複数設定する場合はスペースで区切ります。"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:401
+msgid "Any text value"
+msgstr "任意のテキスト値"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:394
+#: inc/core/generator-views.php:147 includes/shortcodes/image-carousel.php:20
+msgid "Recent posts"
+msgstr "最近の投稿"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:393
+msgid "Post IDs"
+msgstr "投稿 ID"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:392
+msgid "Media file IDs"
+msgstr "メディアファイル ID"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:26
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:27
+msgid "Available shortcodes"
+msgstr "使えるショートコード"
+
+#: admin/partials/pages/addons.php:27
+msgid "Learn more"
+msgstr "詳細はこちら"
+
+#: admin/partials/pages/addons.php:14 inc/core/generator.php:182
+msgid "Premium Add-ons"
+msgstr "プレミアムアドオン"
+
+#: admin/partials/pages/shortcodes-list.php:42
+msgid "No shortcodes found."
+msgstr "ショートコードがありません。"
+
+#: admin/partials/pages/shortcodes-single.php:13
+#: admin/partials/pages/shortcodes-single.php:24
+msgid "Back to shortcodes list"
+msgstr "ショートコード一覧に戻る"
+
+#: admin/partials/pages/shortcodes-single-content.php:55
+#: includes/shortcodes/image-carousel.php:104
+msgid "Default value"
+msgstr "デフォルト値"
+
+#: admin/partials/pages/shortcodes-single-content.php:54
+msgid "Possible values"
+msgstr "可能な値"
+
+#: admin/partials/pages/shortcodes-single-content.php:53
+msgid "Option name"
+msgstr "オプション名"
+
+#: admin/partials/pages/shortcodes-single-content.php:47
+msgid "This shortcode do not have options"
+msgstr "このショートコードにオプションはありません"
+
+#: admin/partials/pages/shortcodes-single-content.php:36
+msgid "Shortcode options"
+msgstr "ショートコードオプション"
+
+#: admin/partials/pages/shortcodes-single-content.php:29
+#: includes/config/supported-blocks.php:7
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/partials/pages/shortcodes-single-content.php:20
+#: inc/core/generator.php:307
+msgid "Preview"
+msgstr "プレビュー"
+
+#: admin/partials/pages/shortcodes-single-content.php:12
+msgid "Shortcode documentation"
+msgstr "ショートコードドキュメンテーション"
+
+#. Translators: %s - link to the shortcodes.css file
+#: admin/partials/settings/fields/css.php:61
+msgid "Open %s file to see default styles"
+msgstr "デフォルトのスタイルを表示するには、 %s ファイルを開きます。"
+
+#: admin/partials/settings/fields/css.php:57
+msgid "More information"
+msgstr "詳細情報"
+
+#: admin/partials/settings/fields/css.php:49
+msgid "the URL of the directory of the plugin"
+msgstr "プラグインのディレクトリの URL"
+
+#: admin/partials/settings/fields/css.php:45
+msgid "the URL of the directory of the current theme"
+msgstr "現在のテーマのディレクトリの URL"
+
+#: admin/partials/settings/fields/css.php:41
+msgid "the URL of the site home page"
+msgstr "サイトのホームページ URL"
+
+#: admin/partials/settings/fields/css.php:29
+msgid "Available variables"
+msgstr "利用可能な変数"
+
+#: admin/partials/settings/fields/checkbox.php:3
+msgid "Enabled"
+msgstr "有効"
+
+#: admin/partials/notices/rate.php:18
+msgid "Dismiss"
+msgstr "非表示"
+
+#: admin/partials/notices/rate.php:17
+msgid "Remind me later"
+msgstr "後で通知"
+
+#: admin/partials/notices/rate.php:16
+msgid "Rate plugin"
+msgstr "プラグインを評価"
+
+#: admin/partials/notices/rate.php:12
+msgid "Thank you!"
+msgstr "ありがとうございます !"
+
+#: admin/partials/notices/rate.php:10
+msgid "Hello"
+msgstr "こんにちは"
+
+#: admin/partials/extra/generator.php:2
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:305
+#: inc/core/generator.php:251
+msgid "All shortcodes"
+msgstr "全てのショートコード"
+
+#: admin/partials/extra/generator.php:2 inc/core/generator.php:251
+msgid "Click to return to the shortcodes list"
+msgstr "ショートコードのリストに戻ります"
+
+#: admin/partials/help/sidebar.php:8
+msgid "GitHub"
+msgstr "GitHub"
+
+#: admin/partials/help/sidebar.php:7
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: admin/partials/help/sidebar.php:6
+#: admin/class-shortcodes-ultimate-admin-addons.php:26
+#: admin/class-shortcodes-ultimate-admin-addons.php:29
+#: admin/class-shortcodes-ultimate-admin-addons.php:54
+#: inc/core/generator.php:182
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: admin/partials/help/sidebar.php:5
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: admin/partials/help/sidebar.php:4
+msgid "Plugin website"
+msgstr "プラグインサイト"
+
+#: admin/partials/settings/fields/css.php:62 admin/partials/help/settings.php:6
+msgid "How to use Custom CSS editor"
+msgstr "カスタム CSS エディターを使うには"
+
+#: admin/partials/help/settings.php:5
+msgid "Plugin settings overview"
+msgstr "プラグイン設定の概要"
+
+#: admin/partials/help/shortcodes.php:6
+msgid "FAQ & Support"
+msgstr "FAQ & サポート"
+
+#: admin/partials/help/shortcodes.php:5
+msgid "Full documentation"
+msgstr "完全なドキュメント"
+
+#: admin/partials/help/settings.php:4 admin/partials/help/shortcodes.php:4
+msgid "Getting started"
+msgstr "はじめに"
+
+#: admin/partials/help/addons.php:7
+msgid "Full add-ons documentation"
+msgstr "完全なアドオンドキュメンテーション"
+
+#: admin/partials/help/addons.php:6
+msgid "How to activate license key"
+msgstr "ライセンスキーを有効化するには"
+
+#: admin/partials/help/addons.php:5
+msgid "How to get updates"
+msgstr "アップデートを取得するには"
+
+#: admin/partials/help/addons.php:4
+msgid "How to install add-on"
+msgstr "アドオンをインストールするには"
+
+#. Author URI of the plugin
+msgid "https://vanokhin.com/"
+msgstr "https://vanokhin.com/"
+
+#. Author of the plugin
+#: admin/partials/notices/rate.php:5
+msgid "Vladimir Anokhin"
+msgstr "Vladimir Anokhin"
+
+#. Description of the plugin
+msgid "A comprehensive collection of visual components for WordPress"
+msgstr "WordPress 用のビジュアルコンポーネントの包括的なコレクション"
+
+#. Plugin URI of the plugin
+msgid "https://getshortcodes.com/"
+msgstr "http://getshortcodes.com/"
+
+#. Plugin Name of the plugin
+#: admin/partials/help/sidebar.php:3
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:88
+#: admin/class-shortcodes-ultimate-admin.php:267
+#: admin/class-shortcodes-ultimate-admin-top-level.php:39
+#: inc/core/widget.php:14 inc/core/widget.php:40
+#: includes/functions-galleries.php:419
+msgid "Shortcodes Ultimate"
+msgstr "Shortcodes Ultimate"

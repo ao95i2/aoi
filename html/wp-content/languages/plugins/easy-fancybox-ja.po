@@ -1,0 +1,818 @@
+# Translation of Plugins - Easy FancyBox - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Easy FancyBox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-12 14:19:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Easy FancyBox - Stable (latest release)\n"
+
+#: inc/easyfancybox-options.php:1181
+msgid "Enable privacy-enhanced mode"
+msgstr "プライバシー強化モードを有効にする"
+
+#: inc/easyfancybox-options.php:884
+msgid "Google Docs Viewer (external)"
+msgstr "Google Docs Viewer (外部)"
+
+#: inc/easyfancybox-options.php:882
+msgid "Embed tag"
+msgstr "埋め込みタグ"
+
+#: inc/easyfancybox-options.php:456
+msgid "Do not use wp_add_inline_script/style functions (may solve issues with older script minification plugins)"
+msgstr "wp_add_inline_script/style を利用しない (より古いスクリプト圧縮プラグインによる問題を解決するかもしれない)"
+
+#: inc/easyfancybox-options.php:887
+msgid "External viewers have bandwidth, usage rate and and file size limits."
+msgstr "帯域、使用率やファイルサイズの制限がある外部のビューアー"
+
+#: inc/easyfancybox-options.php:435
+msgid "Default priority is 10."
+msgstr "デフォルトの優先度は10"
+
+#: inc/easyfancybox-options.php:425
+msgid "FancyBox script priority"
+msgstr "FancyBox スクリプトの優先度"
+
+#: inc/easyfancybox-options.php:419
+msgid "Theme & plugins compatibility"
+msgstr "テーマとプラグインの互換性"
+
+#: inc/easyfancybox-options.php:442
+msgid "Move scripts from footer to theme head section (not recommended for site load times!)"
+msgstr "スクリプトをフッターからテーマのヘッダーへ移動 (サイトの読み込み時間のために推奨しません)"
+
+#: inc/easyfancybox-options.php:435
+msgid "Higher is later."
+msgstr "より高ければより後になる。"
+
+#: inc/easyfancybox-options.php:449
+msgid "Do not include standard WordPress jQuery library (do this only if you are sure jQuery is included from another source!)"
+msgstr "WordPress の標準の jQuery ライブラリを含めない (jQuery の他のソースを含めている場合のみこれを使う)"
+
+#: inc/translation-strings.php:74
+msgid "Or disable the Easy Fancybox Pro plugin."
+msgstr "もしくは Easy Fancybox Pro プラグインを無効化"
+
+#: inc/easyfancybox-options.php:401
+msgid "(leave empty to ignore)"
+msgstr "(無視する場合は空白のままにする)"
+
+#: inc/easyfancybox-options.php:636 inc/easyfancybox-options.php:946
+#: inc/easyfancybox-options.php:1044 inc/easyfancybox-options.php:1140
+#: inc/easyfancybox-options.php:1250 inc/easyfancybox-options.php:1355
+#: inc/easyfancybox-options.php:1458 inc/easyfancybox-options.php:1570
+msgid "Allow title from thumbnail alt attribute."
+msgstr "タイトルにサムネイルの alt 属性を許可する"
+
+#: inc/translation-strings.php:15
+msgid "Link with ID matching URL hash"
+msgstr "URL ハッシュに一致する ID にリンクする"
+
+#. Translators: %s is replaced by a version number
+#: inc/translation-strings.php:78
+msgid "Please upgrade %s to verion %s or later."
+msgstr "アップデートしてください: %s から %s かもしくはそれ以降のバージョン"
+
+#. Translators: %s is replaced by Easy FancyBox plugin title plus installation
+#. link
+#: inc/translation-strings.php:73
+msgid "To use the Easy Fancybox Pro advanced options, please install %s."
+msgstr "Easy Fancybox Pro の高度なオプションを利用するためには、以下をインストールください: %s"
+
+#: inc/easyfancybox-options.php:615 inc/easyfancybox-options.php:926
+#: inc/easyfancybox-options.php:1024 inc/easyfancybox-options.php:1119
+#: inc/easyfancybox-options.php:1230 inc/easyfancybox-options.php:1335
+#: inc/easyfancybox-options.php:1438 inc/easyfancybox-options.php:1550
+msgid "FancyBox will try to get a title from the link or thumbnail title attributes."
+msgstr "FancyBox はリンクやサムネイルの title 属性からタイトルを取得しようとします。"
+
+#: inc/easyfancybox-options.php:392
+msgid "Minimum browser/device viewport width"
+msgstr "ブラウザー / デバイスの viewport 幅最小値"
+
+#: inc/translation-strings.php:59
+msgid "easeInOutBounce"
+msgstr "easeInOutBounce"
+
+#: inc/translation-strings.php:58
+msgid "easeOutBounce"
+msgstr "easeOutBounce"
+
+#: inc/translation-strings.php:57
+msgid "easeInBounce"
+msgstr "easeInBounce"
+
+#: inc/translation-strings.php:56
+msgid "easeInOutBack"
+msgstr "easeInOutBack"
+
+#: inc/translation-strings.php:55
+msgid "easeInOutElastic"
+msgstr "easeInOutElastic"
+
+#: inc/translation-strings.php:54
+msgid "easeOutElastic"
+msgstr "easeOutElastic"
+
+#: inc/translation-strings.php:53
+msgid "easeInElastic"
+msgstr "easeInElastic"
+
+#: inc/translation-strings.php:52
+msgid "easeInOutCirc"
+msgstr "easeInOutCirc"
+
+#: inc/translation-strings.php:51
+msgid "easeOutCirc"
+msgstr "easeOutCirc"
+
+#: inc/translation-strings.php:50
+msgid "easeInCirc"
+msgstr "easeInCirc"
+
+#: inc/translation-strings.php:49
+msgid "easeInOutExpo"
+msgstr "easeInOutExpo"
+
+#: inc/translation-strings.php:48
+msgid "easeOutExpo"
+msgstr "easeOutExpo"
+
+#: inc/translation-strings.php:47
+msgid "easeInExpo"
+msgstr "easeInExpo"
+
+#: inc/translation-strings.php:46
+msgid "easeInOutSine"
+msgstr "easeInOutSine"
+
+#: inc/translation-strings.php:45
+msgid "easeOutSine"
+msgstr "easeOutSine"
+
+#: inc/translation-strings.php:44
+msgid "easeInSine"
+msgstr "easeInSine"
+
+#: inc/translation-strings.php:43
+msgid "easeInOutQuint"
+msgstr "easeInOutQuint"
+
+#: inc/translation-strings.php:42
+msgid "easeOutQuint"
+msgstr "easeOutQuint"
+
+#: inc/translation-strings.php:41
+msgid "easeInQuint"
+msgstr "easeInQuint"
+
+#: inc/translation-strings.php:40
+msgid "easeInOutQuart"
+msgstr "easeInOutQuart"
+
+#: inc/translation-strings.php:39
+msgid "easeOutQuart"
+msgstr "easeOutQuart"
+
+#: inc/translation-strings.php:38
+msgid "easeInQuart"
+msgstr "easeInQuart"
+
+#: inc/translation-strings.php:37
+msgid "easeInOutCubic"
+msgstr "easeInOutCubic"
+
+#: inc/translation-strings.php:36
+msgid "easeOutCubic"
+msgstr "easeOutCubic"
+
+#: inc/translation-strings.php:35
+msgid "easeInCubic"
+msgstr "easeInCubic"
+
+#: inc/translation-strings.php:34
+msgid "easeInOutQuad"
+msgstr "easeInOutQuad"
+
+#: inc/translation-strings.php:33
+msgid "easeOutQuad"
+msgstr "easeOutQuad"
+
+#: inc/translation-strings.php:32
+msgid "easeInQuad"
+msgstr "easeInQuad"
+
+#: inc/translation-strings.php:26
+msgid "Treat popups on different URLs separately"
+msgstr "異なるURLのポップアップを単独に扱う"
+
+#: inc/translation-strings.php:24
+msgid "First of any link"
+msgstr "最初のリンク"
+
+#: inc/translation-strings.php:23
+msgid "First iFrame link"
+msgstr "最初の iFrame リンク"
+
+#: inc/translation-strings.php:22
+msgid "First Dailymotion link"
+msgstr "最初の Dailymotion リンク"
+
+#: inc/translation-strings.php:21
+msgid "First Vimeo link"
+msgstr "最初の Vimeo リンク"
+
+#: inc/translation-strings.php:20
+msgid "First YouTube link"
+msgstr "最初の YouTube リンク"
+
+#: inc/translation-strings.php:19
+msgid "First SVG link"
+msgstr "最初の SVG リンク"
+
+#: inc/translation-strings.php:18
+msgid "First SWF link"
+msgstr "最初の SWF リンク"
+
+#: inc/translation-strings.php:17
+msgid "First PDF link"
+msgstr "最初の PDF リンク"
+
+#: inc/translation-strings.php:16
+msgid "First Image link"
+msgstr "最初の画像リンク"
+
+#: inc/translation-strings.php:12
+msgid "Set a border radius to create rounded corners. Higher is rounder."
+msgstr "角を丸くする。数値が大きければより丸くなる。"
+
+#: inc/translation-strings.php:9
+msgid "Get support here."
+msgstr "サポートはこちら"
+
+#: inc/translation-strings.php:8
+msgid "Thank you for purchasing the Easy FancyBox - Pro extension. New options are available."
+msgstr "Easy FancyBox - Pro extension のご購入ありがとうございます。新しいオプションが利用可能です。"
+
+#: inc/easyfancybox-options.php:877
+msgid "Embed with"
+msgstr "埋め込み"
+
+#: inc/easyfancybox-options.php:377
+msgid "1 Year"
+msgstr "1年"
+
+#: inc/easyfancybox-options.php:376
+msgid "1 Month"
+msgstr "1ヶ月"
+
+#: inc/easyfancybox-options.php:375
+msgid "1 Week"
+msgstr "1週間"
+
+#: inc/easyfancybox-options.php:374
+msgid "1 Day"
+msgstr "1日"
+
+#: inc/easyfancybox-options.php:352
+msgid "Delay in milliseconds"
+msgstr "ミリ秒単位で遅くする"
+
+#: inc/easyfancybox-options.php:335
+msgid "Auto popup"
+msgstr "自動ポップアップ"
+
+#: inc/easyfancybox-options.php:256
+msgid "Margin"
+msgstr "マージン"
+
+#: inc/class-easyfancybox-admin.php:92
+msgid "Please contact your web site administrator."
+msgstr "サイト管理者にお問い合わせください。"
+
+#: inc/class-easyfancybox-admin.php:90 inc/class-easyfancybox-admin.php:252
+msgid "Please <a href=\"%1$s\" target=\"_blank\">download and install the latest Pro version</a>."
+msgstr "<a href=\"%1$s\" target=\"_blank\">最新のPro バージョン</a>をダウンロードし、インストールしてください。"
+
+#: inc/easyfancybox-options.php:1577
+msgid "Allow embedded content to jump to full screen mode"
+msgstr "埋め込みコンテンツをフルスクリーンモードにジャンプできるようにする"
+
+#: inc/easyfancybox-options.php:881
+msgid "Object tag (plus fall-back link)"
+msgstr "Object タグ (fall-back リンクを追加)"
+
+#: inc/easyfancybox-options.php:757
+msgid "Try to adjust size to inline/html content. If unchecked the default dimensions will be used."
+msgstr "inline/html コンテンツにサイズを調整する。もしチェックをしなければ、デフォルトの大きさが適用される。"
+
+#: inc/easyfancybox-options.php:366
+msgid "Hide popup after first visit?"
+msgstr "最初の訪問の後はポップアップを隠す"
+
+#: inc/easyfancybox-options.php:883
+msgid "iFrame tag (let browser decide)"
+msgstr "iFrame タグ (ブラウザーに決定させる)"
+
+#: inc/easyfancybox-options.php:524
+msgid "Force FancyBox to treat all media linked with class=\"fancybox\" as images?"
+msgstr "class=\"fancybox\" のあるリンクをすべてのメディアを取り扱うようにする。"
+
+#: inc/class-easyfancybox-admin.php:254
+msgid "Or you can ignore and <a href=\"%1$s\">hide this message</a>."
+msgstr "無視する <a href=\"%1$s\">メッセージを非表示</a>。"
+
+#: inc/translation-strings.php:76 inc/class-easyfancybox-admin.php:87
+#: inc/class-easyfancybox-admin.php:250
+msgid "Notice: The current Easy FancyBox plugin version is not fully compatible with your version of the Pro extension. Some advanced options may not be functional."
+msgstr "注意: プラグインのバージョンは Pro 拡張機能のバージョンと適合していません。いくつかの機能が作動しないかもしれません。"
+
+#: inc/easyfancybox-options.php:460 inc/easyfancybox-options.php:640
+#: inc/easyfancybox-options.php:721
+msgid "Advanced"
+msgstr "上級者モード"
+
+#: inc/easyfancybox-options.php:766
+msgid "Always"
+msgstr "常に"
+
+#: inc/class-easyfancybox-admin.php:201
+msgid "Support"
+msgstr "作者を応援　"
+
+#: inc/easyfancybox-options.php:121
+msgid "Color"
+msgstr "色"
+
+#: inc/easyfancybox-options.php:158
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/easyfancybox-options.php:193
+msgid "Border color"
+msgstr "枠線の色"
+
+#: inc/easyfancybox-options.php:765
+msgid "Auto"
+msgstr "自動"
+
+#: inc/easyfancybox-options.php:9
+msgid "Global settings"
+msgstr "全体の設定"
+
+#: inc/easyfancybox-options.php:329
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: inc/easyfancybox-options.php:219
+msgid "Dimensions"
+msgstr "寸法"
+
+#: inc/easyfancybox-options.php:651
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: inc/easyfancybox-options.php:14
+msgid "Media"
+msgstr "メディア"
+
+#: inc/easyfancybox-options.php:27 inc/easyfancybox-options.php:484
+msgid "Images"
+msgstr "画像"
+
+#: inc/easyfancybox-options.php:199 inc/easyfancybox-options.php:590
+#: inc/easyfancybox-options.php:665 inc/easyfancybox-options.php:824
+#: inc/easyfancybox-options.php:887
+msgid "Note:"
+msgstr "注:"
+
+#: inc/easyfancybox-options.php:767
+msgid "Never"
+msgstr "期限なし"
+
+#: inc/class-easyfancybox-admin.php:139
+msgid "Checked"
+msgstr "チェック済み"
+
+#: inc/easyfancybox-options.php:725
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: inc/easyfancybox-options.php:199 inc/easyfancybox-options.php:508
+msgid "Example:"
+msgstr "例:"
+
+#: inc/class-easyfancybox-admin.php:19 inc/class-easyfancybox-admin.php:67
+msgid "FancyBox"
+msgstr "FancyBox"
+
+#. Plugin Name of the plugin
+#: inc/class-easyfancybox-admin.php:67
+msgid "Easy FancyBox"
+msgstr "Easy FancyBox"
+
+#: inc/class-easyfancybox-admin.php:141
+msgid "Unchecked"
+msgstr "未チェック"
+
+#: inc/easyfancybox-options.php:34 inc/easyfancybox-options.php:734
+msgid "Inline content"
+msgstr "インラインコンテンツ"
+
+#: inc/easyfancybox-options.php:41 inc/easyfancybox-options.php:848
+msgid "PDF"
+msgstr "PDF"
+
+#: inc/easyfancybox-options.php:48 inc/easyfancybox-options.php:959
+msgid "SWF"
+msgstr "SWF"
+
+#: inc/easyfancybox-options.php:55 inc/easyfancybox-options.php:1054
+msgid "SVG"
+msgstr "SVG"
+
+#: inc/easyfancybox-options.php:62 inc/easyfancybox-options.php:1150
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/easyfancybox-options.php:69 inc/easyfancybox-options.php:1262
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/easyfancybox-options.php:76 inc/easyfancybox-options.php:1365
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: inc/easyfancybox-options.php:83 inc/easyfancybox-options.php:1495
+msgid "iFrames"
+msgstr "iFrame"
+
+#: inc/easyfancybox-options.php:89 inc/easyfancybox-options.php:626
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+#: inc/easyfancybox-options.php:109
+msgid "Opacity"
+msgstr "不透明度"
+
+#: inc/easyfancybox-options.php:117
+msgid "Value between 0 and 1. "
+msgstr "0から1間の値。 "
+
+#: inc/easyfancybox-options.php:117 inc/easyfancybox-options.php:127
+#: inc/easyfancybox-options.php:199 inc/easyfancybox-options.php:239
+#: inc/easyfancybox-options.php:252 inc/easyfancybox-options.php:265
+#: inc/easyfancybox-options.php:316 inc/easyfancybox-options.php:362
+#: inc/easyfancybox-options.php:711
+msgid "Default:"
+msgstr "デフォルト:"
+
+#: inc/easyfancybox-options.php:127
+msgid "Enter an HTML color value."
+msgstr "HTML 色値を入力してください。"
+
+#: inc/easyfancybox-options.php:135
+msgid "Spotlight effect"
+msgstr "スポットライト効果"
+
+#: inc/easyfancybox-options.php:140
+msgid "Window"
+msgstr "ウィンドウ"
+
+#: inc/easyfancybox-options.php:146 inc/easyfancybox-options.php:608
+msgid "Appearance"
+msgstr "外観"
+
+#: inc/easyfancybox-options.php:153
+msgid "Show the (X) close button"
+msgstr "閉じるボタン (X) を表示"
+
+#: inc/easyfancybox-options.php:170
+msgid "Text color"
+msgstr "テキスト色"
+
+#: inc/easyfancybox-options.php:182
+msgid "Title color"
+msgstr "タイトル色"
+
+#: inc/easyfancybox-options.php:204
+msgid "Border radius"
+msgstr "ボーダー角丸"
+
+#: inc/easyfancybox-options.php:270 inc/easyfancybox-options.php:536
+msgid "Behavior"
+msgstr "動作"
+
+#: inc/easyfancybox-options.php:295
+msgid "Opening speed"
+msgstr "開く速度"
+
+#: inc/easyfancybox-options.php:307
+msgid "Closing speed"
+msgstr "閉じる速度"
+
+#: inc/easyfancybox-options.php:316 inc/easyfancybox-options.php:711
+msgid "Duration in milliseconds. Higher is slower."
+msgstr "動作時間 (ミリ秒単位)。高いほど遅くなります。"
+
+#: inc/easyfancybox-options.php:512
+msgid "Apply to"
+msgstr "設定対象"
+
+#: inc/easyfancybox-options.php:545 inc/easyfancybox-options.php:572
+#: inc/easyfancybox-options.php:779 inc/easyfancybox-options.php:806
+msgid "Fade"
+msgstr "フェード"
+
+#: inc/easyfancybox-options.php:619 inc/easyfancybox-options.php:930
+#: inc/easyfancybox-options.php:1028 inc/easyfancybox-options.php:1123
+#: inc/easyfancybox-options.php:1234 inc/easyfancybox-options.php:1339
+#: inc/easyfancybox-options.php:1442 inc/easyfancybox-options.php:1554
+msgid "Title Position"
+msgstr "タイトルの位置"
+
+#: inc/easyfancybox-options.php:623 inc/easyfancybox-options.php:934
+#: inc/easyfancybox-options.php:1032 inc/easyfancybox-options.php:1127
+#: inc/easyfancybox-options.php:1238 inc/easyfancybox-options.php:1343
+#: inc/easyfancybox-options.php:1446 inc/easyfancybox-options.php:1558
+msgid "Float"
+msgstr "フロート"
+
+#: inc/easyfancybox-options.php:655
+msgid "Autogallery"
+msgstr "自動ギャラリー"
+
+#: inc/easyfancybox-options.php:662
+msgid "All in one gallery"
+msgstr "オールインワンギャラリー"
+
+#: inc/easyfancybox-options.php:690
+msgid "Change speed"
+msgstr "変更速度"
+
+#: inc/easyfancybox-options.php:702
+msgid "Fade speed"
+msgstr "フェード速度"
+
+#: inc/translation-strings.php:67
+msgid "(3 seconds)"
+msgstr "(3秒)"
+
+#: inc/translation-strings.php:68
+msgid "(6 seconds)"
+msgstr "(6秒)"
+
+#: inc/translation-strings.php:69
+msgid "(9 seconds)"
+msgstr "(9秒)"
+
+#: inc/translation-strings.php:70
+msgid "(12 seconds)"
+msgstr "(12秒)"
+
+#: inc/easyfancybox-options.php:761
+msgid "Scrolling"
+msgstr "スクロール"
+
+#. Plugin URI of the plugin
+msgid "http://status301.net/wordpress-plugins/easy-fancybox/"
+msgstr "http://status301.net/wordpress-plugins/easy-fancybox/"
+
+#. Author of the plugin
+msgid "RavanH"
+msgstr "RavanH"
+
+#. Author URI of the plugin
+msgid "http://status301.net/"
+msgstr "http://status301.net/"
+
+#: inc/easyfancybox-options.php:501 inc/easyfancybox-options.php:861
+#: inc/easyfancybox-options.php:972 inc/easyfancybox-options.php:1067
+#: inc/easyfancybox-options.php:1163 inc/easyfancybox-options.php:1275
+#: inc/easyfancybox-options.php:1378
+msgid "Autodetect"
+msgstr "自動検出"
+
+#: inc/easyfancybox-options.php:348 inc/easyfancybox-options.php:520
+#: inc/easyfancybox-options.php:563 inc/easyfancybox-options.php:590
+#: inc/easyfancybox-options.php:665 inc/easyfancybox-options.php:797
+#: inc/easyfancybox-options.php:824
+msgid "More options &raquo;"
+msgstr "詳細オプション &raquo;"
+
+#: inc/easyfancybox-options.php:624 inc/easyfancybox-options.php:935
+#: inc/easyfancybox-options.php:1033 inc/easyfancybox-options.php:1128
+#: inc/easyfancybox-options.php:1239 inc/easyfancybox-options.php:1344
+#: inc/easyfancybox-options.php:1447 inc/easyfancybox-options.php:1559
+msgid "Outside"
+msgstr "外側"
+
+#: inc/easyfancybox-options.php:625 inc/easyfancybox-options.php:936
+#: inc/easyfancybox-options.php:1034 inc/easyfancybox-options.php:1129
+#: inc/easyfancybox-options.php:1240 inc/easyfancybox-options.php:1345
+#: inc/easyfancybox-options.php:1448 inc/easyfancybox-options.php:1560
+msgid "Inside"
+msgstr "内側"
+
+#: inc/easyfancybox-options.php:135 inc/easyfancybox-options.php:177
+#: inc/easyfancybox-options.php:214 inc/easyfancybox-options.php:379
+#: inc/easyfancybox-options.php:468 inc/easyfancybox-options.php:476
+#: inc/easyfancybox-options.php:647 inc/easyfancybox-options.php:728
+msgid "Make available &raquo;"
+msgstr "使用可能にする &raquo;"
+
+#: inc/class-easyfancybox-admin.php:65 inc/class-easyfancybox-admin.php:66
+msgid "Donate to keep the Easy FancyBox plugin development going!"
+msgstr "Easy FancyBox プラグインの開発継続のため寄付をお願いします。"
+
+#. Description of the plugin
+msgid "Easily enable the <a href=\"http://fancybox.net/\">FancyBox jQuery extension</a> on all image, SWF, PDF, YouTube, Dailymotion and Vimeo links. Also supports iFrame and inline content."
+msgstr ""
+"すべての画像、SWF、PDF、YouTube、Dailymotion、Vimeo について、手軽に<a href=\"http://fancybox.net/\">FancyBox jQuery extension</a> を有効にできます。iframe\n"
+" やインラインコンテンツもサポートしています。"
+
+#: inc/easyfancybox-options.php:239
+msgid "If content size is not set or cannot be determined automatically, these default dimensions will be used."
+msgstr "コンテンツサイズが設定されていないかまたは自動的に決定できない場合は、これらのデフォルトサイズが使用されます。"
+
+#: inc/easyfancybox-options.php:661
+msgid "WordPress galleries only"
+msgstr "WordPress ギャラリーのみ"
+
+#: inc/easyfancybox-options.php:553 inc/easyfancybox-options.php:787
+msgid "Easing In"
+msgstr "イージングイン"
+
+#: inc/easyfancybox-options.php:580 inc/easyfancybox-options.php:814
+msgid "Easing Out"
+msgstr "イージングアウト"
+
+#: inc/easyfancybox-options.php:517
+msgid "All image links"
+msgstr "すべての画像リンク"
+
+#: inc/easyfancybox-options.php:415
+msgid "Include IE 8 compatibility style rules"
+msgstr "IE8 互換のスタイルルールを適用するかどうか"
+
+#: inc/easyfancybox-options.php:672
+msgid "Show the gallery navigation arrows"
+msgstr "ギャラリーのナビゲーション矢印を表示する"
+
+#: inc/easyfancybox-options.php:679
+msgid "Arrow key strokes browse the gallery"
+msgstr "ギャラリー閲覧にキー操作を許可する"
+
+#: inc/easyfancybox-options.php:665
+msgid "When disabled, you can use the rel attribute to manually group image links together."
+msgstr "無効化した場合、 rel 属性を画像リンクを手動でグループ化するために使える。"
+
+#: inc/easyfancybox-options.php:604 inc/easyfancybox-options.php:838
+msgid "Close FancyBox when content is clicked"
+msgstr "コンテンツがクリックされたら FancyBox を閉じる"
+
+#: inc/easyfancybox-options.php:560 inc/easyfancybox-options.php:587
+#: inc/easyfancybox-options.php:794 inc/easyfancybox-options.php:821
+msgid "easeOutBack"
+msgstr "easeOutBack"
+
+#: inc/easyfancybox-options.php:559 inc/easyfancybox-options.php:586
+#: inc/easyfancybox-options.php:793 inc/easyfancybox-options.php:820
+msgid "easeInBack"
+msgstr "easeInBack"
+
+#: inc/easyfancybox-options.php:546 inc/easyfancybox-options.php:573
+#: inc/easyfancybox-options.php:780 inc/easyfancybox-options.php:807
+msgid "Elastic"
+msgstr "Elastic"
+
+#: inc/easyfancybox-options.php:597 inc/easyfancybox-options.php:831
+msgid "Transparency fade during elastic transition. CAUTION: Use only when at least Transition In is set to Elastic!"
+msgstr "エラスティックトランジションの間、透明にフェードする。警告 : 少なくともトランジションインが Elastic に設定されている時のみ使用"
+
+#: inc/easyfancybox-options.php:567 inc/easyfancybox-options.php:801
+msgid "Transition Out"
+msgstr "トランジションアウト (引っ込む時)"
+
+#: inc/easyfancybox-options.php:558 inc/easyfancybox-options.php:585
+#: inc/easyfancybox-options.php:792 inc/easyfancybox-options.php:819
+msgid "Swing"
+msgstr "Swing"
+
+#: inc/easyfancybox-options.php:557 inc/easyfancybox-options.php:584
+#: inc/easyfancybox-options.php:791 inc/easyfancybox-options.php:818
+msgid "Linear"
+msgstr "Linear"
+
+#: inc/easyfancybox-options.php:540 inc/easyfancybox-options.php:774
+msgid "Transition In"
+msgstr "トランジションイン ( 出てくる時 )"
+
+#: inc/easyfancybox-options.php:489
+msgid "To make images open in an overlay, add their extension to the Autodetect field or use the class \"fancybox\" for its link. Clear field to switch off all autodetection."
+msgstr "画像をオーバーレイで表示させるためには、自動検出の入力フィールドにそれらの拡張子を追加する、もしくはリンクタグに class 名に \"fancybox\" を使用する。全ての自動検出をオフにするためには入力フィールドをクリアする。"
+
+#: inc/easyfancybox-options.php:284
+msgid "Esc key stroke closes FancyBox"
+msgstr "Esc キーで FancyBox を閉じる"
+
+#: inc/easyfancybox-options.php:199
+msgid "Use RGBA notation for semi-transparent borders."
+msgstr "半透明の枠線には RGBA カラーを利用"
+
+#: inc/easyfancybox-options.php:105
+msgid "Close FancyBox when overlay is clicked."
+msgstr "オーバーレイがクリックされた時 FancyBox を閉じる"
+
+#: inc/easyfancybox-options.php:98
+msgid "Show the overlay around content opened in FancyBox."
+msgstr "FancyBox でコンテンツが開かれた周囲にオーバーレイを表示"
+
+#: inc/easyfancybox-options.php:20
+msgid "Enable FancyBox for"
+msgstr "FancyBox を有効化"
+
+#: inc/easyfancybox-options.php:1267
+msgid "To make any Vimeo movie open in an overlay, switch on Autodetect or use the class \"fancybox-vimeo\" for its link."
+msgstr "Vimeo 動画をオーバーレイで開くには、自動検出をオンにする、もしくはリンクにクラス名 \"fancybox-vimeo\" を使用する。"
+
+#: inc/easyfancybox-options.php:1370
+msgid "To make any Dailymotion movie open in an overlay, switch on Autodetect or use the class \"fancybox-dailymotion\" for its link."
+msgstr "Dailymotion 動画をオーバーレイで開くには、自動検出をオンにする、もしくはリンクにクラス名 \"fancybox-dailymotion\" を使用する。"
+
+#: inc/easyfancybox-options.php:1059
+msgid "To make any SVG (.svg) file open in an overlay, switch on Autodetect or use the class \"fancybox-svg\" for its link."
+msgstr "SVG (.svg) ファイルをオーバーレイで開くには、自動検出をオンにする、もしくはリンクにクラス名 \"fancybox-svg\" を使用する。"
+
+#: inc/easyfancybox-options.php:964
+msgid "To make any Flash (.swf) file open in an overlay, switch on Autodetect or use the class \"fancybox-swf\" for its link."
+msgstr "Flash (.swf) ファイルをオーバーレイで開くには、自動検出をオンにする、もしくはリンクにクラス名 \"fancybox-swf\" を使用する。"
+
+#: inc/easyfancybox-options.php:853
+msgid "To make any PDF document file open in an overlay, switch on Autodetect or use the class \"fancybox-pdf\" for its link."
+msgstr "PDF 文書をオーバーレイで開くには、自動検出をオンにする、もしくはリンクにクラス名 \"fancybox-pdf\" を使用する。"
+
+#: inc/easyfancybox-options.php:770
+msgid "Define scrolling and scrollbar visibility."
+msgstr "スクロールやスクロールバーの見た目を定義する"
+
+#: inc/easyfancybox-options.php:739
+msgid "To make inline content open in an overlay, wrap that content in a div with a unique ID, create a link with target \"#uniqueID\" and give it a class \"fancybox-inline\" attribute."
+msgstr "インラインコンテンツをオーバーレイで開くには、コンテンツを固有の ID を持つ div で囲み、リンクターゲットを \"#uniqueID\" とした上でクラス属性に \"fancybox-inline\" を与える。"
+
+#: inc/class-easyfancybox-admin.php:68
+msgid "First enable each sub-section that you need. Then save and come back to adjust its specific settings."
+msgstr "初めに必要なサブセクションを有効化します。保存したのちそれらの具体的な設定を調整します。"
+
+#: inc/easyfancybox-options.php:1500
+msgid "To make a website or HTML document open in an overlay, use the class \"fancybox-iframe\" for its link."
+msgstr "ウェブサイトや HTML 文書をオーバーレイで開くには、リンクにクラス名 \"fancybox-iframe\" を使用する。"
+
+#: inc/easyfancybox-options.php:339
+msgid "Open on page load"
+msgstr "ページロード時に開く"
+
+#: inc/easyfancybox-options.php:86
+msgid "For advanced options and support, please get the Easy FancyBox - Pro extension."
+msgstr "より高度なオプションやサポートは、Easy FancyBox - Pro extension を取得してください。"
+
+#: inc/easyfancybox-options.php:345
+msgid "Link with ID \"fancybox-auto\""
+msgstr "ID \"fancybox-auto\" のあるリンク"
+
+#: inc/easyfancybox-options.php:644
+msgid "Hide/show title on mouse hover action"
+msgstr "マウスホバーアクションでタイトルを非表示 / 表示"
+
+#: inc/easyfancybox-options.php:615 inc/easyfancybox-options.php:926
+#: inc/easyfancybox-options.php:1024 inc/easyfancybox-options.php:1119
+#: inc/easyfancybox-options.php:1230 inc/easyfancybox-options.php:1335
+#: inc/easyfancybox-options.php:1438 inc/easyfancybox-options.php:1550
+msgid "Show title."
+msgstr "タイトルを表示。"
+
+#: inc/easyfancybox-options.php:388
+msgid "Browser & device compatibility"
+msgstr "ブラウザーや端末の互換性"
+
+#: inc/class-easyfancybox-admin.php:68
+msgid "Some setting like Transition options are unavailable for SWF video, PDF and iFrame content to ensure browser compatibility and readability."
+msgstr "トランジションのオプションのようないくつかの設定は、 SWF 動画、 PDF や  iFrame コンテンツにブラウザの互換性や可読性を保証することができません。"
+
+#: inc/class-easyfancybox-admin.php:68
+msgid "Note: Each additional sub-section and features like <em>Auto-detection</em>, <em>Elastic transitions</em> and all <em>Easing effects</em> (except Swing) will have some extra impact on client-side page speed. Enable only those sub-sections and options that you actually need on your site."
+msgstr "注意 : それぞれの追加サブセクションや、<em>自動検出</em>、<em>弾性トランジション</em>や全ての<em>イージング効果</em> (Swingを除く) はクライアントサイドのページ速度にいくらか余分な影響を持つものです。これらのサブセクションやオプションはサイトで本当に必要な場合にのみ有効化します。"
+
+#: inc/class-easyfancybox-admin.php:67
+msgid "The options in this section are provided by the plugin %s and determine the <strong>Media Lightbox</strong> overlay appearance and behavior controlled by %s."
+msgstr "このセクションの設定は %s プラグインによって提供され、<strong>Media Lightbox</strong> オーバーレイの体裁と %s がどのように動作をコントロールするかを決定します。"
+
+#: inc/easyfancybox-options.php:1155
+msgid "To make any YouTube movie open in an overlay, switch on Autodetect or use the class \"fancybox-youtube\" for its link."
+msgstr "YouTube 動画をオーバーレイで開くには、自動検出をオンにする、もしくはリンクにクラス名 \"fancybox-youtube\" を使用します。"

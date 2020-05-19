@@ -1,0 +1,162 @@
+
+@media screen and (max-width: 480px){
+  .page-body,
+  .menu-content{
+    font-size: 16px;
+  }
+}
+.appeal{
+  background-image: url(http://localhost:9000/wp-content/uploads/2020/04/yoga-3053488_1280.jpg);
+}
+.appeal .appeal-in{
+  min-height: 400px;
+}
+.appeal-content .appeal-button{
+  background-color: #528abf;
+}
+.main{
+  width: 860px;
+}
+.sidebar{
+  width: 376px;
+}
+/* .toc-content, */
+.toc-checkbox {
+  display: none;
+}
+.toc-content{
+  visibility: hidden;
+  /*display: block; */
+  /* margin-top: -24px; */
+  height: 0;
+  opacity: 0.2;
+  transition: all 0.5s ease-out;
+}
+.toc-checkbox:checked ~ .toc-content {
+  /* display: block; */
+  visibility: visible;
+  padding-top: 0.6em;
+  height: 100%;
+  opacity: 1;
+}
+.toc-title::after{
+  content: '[開く]';
+  margin-left: 0.5em;
+  cursor: pointer;
+  font-size: 0.8em;
+}
+.toc-title:hover::after{
+  text-decoration: underline;
+}
+.toc-checkbox:checked + .toc-title::after{
+  content: '[閉じる]';
+}#respond {
+  display: none;
+}
+.entry-content > *,
+.demo .entry-content p {
+  line-height: 1.8;
+}
+    .main p,
+  .main p.wp-block-paragraph {
+    line-height: 1.8;
+  }
+  .entry-content > *,
+.demo .entry-content p {
+  margin-top: 1.4em;
+  margin-bottom: 1.4em;
+}
+.entry-content > .micro-top{
+  margin-bottom: -1.54em;
+}
+.entry-content > .micro-balloon{
+  margin-bottom: -1.12em;
+}
+.entry-content > .micro-bottom{
+  margin-top: -1.54em;
+}
+.entry-content > .micro-bottom.micro-balloon{
+  margin-top: -1.12em;
+  margin-bottom: 1.4em;
+}
+    .main p,
+  .main p.wp-block-paragraph {
+    margin-top: 1.4em;
+    margin-bottom: 1.4em;
+  }
+  .blank-box.bb-key-color{
+  border-color: #19448e;
+}
+.iic-key-color li::before{
+  color: #19448e;
+}
+.blank-box.bb-tab.bb-key-color::before {
+  background-color: #19448e;
+}
+.tb-key-color .toggle-button {
+  border: 1px solid #19448e;
+  background: #19448e;
+  color: #fff;
+}
+.tb-key-color .toggle-button::before {
+  color: #ccc;
+}
+.tb-key-color .toggle-checkbox:checked ~ .toggle-content {
+  border-color: #19448e;
+}
+.cb-key-color.caption-box {
+  border-color: #19448e;
+}
+.cb-key-color .caption-box-label {
+  background-color: #19448e;
+  color: #fff;
+}
+.tcb-key-color .tab-caption-box-label {
+  background-color: #19448e;
+  color: #fff;
+}
+.tcb-key-color .tab-caption-box-content {
+  border-color: #19448e;
+}
+.lb-key-color .label-box-content {
+  border-color: #19448e;
+}
+.mc-key-color {
+  background-color: #19448e;
+  color: #fff;
+  border: none;
+}
+.mc-key-color.micro-bottom::after {
+  border-bottom-color: #19448e;
+  border-top-color: transparent;
+}
+.mc-key-color::before {
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+}
+.mc-key-color::after {
+  border-top-color: #19448e;
+}
+.btn-key-color, .btn-wrap.btn-wrap-key-color > a {
+  background-color: #19448e;
+}
+.has-text-color.has-key-color-color {
+  color: #19448e;
+}
+.has-background.has-key-color-background-color {
+  background-color: #19448e;
+}
+.article.page-body,
+body#tinymce.wp-editor{
+  background-color: #fff}
+.article.page-body,
+.editor-post-title__block .editor-post-title__input,
+body#tinymce.wp-editor{
+  color: #333}
+.box-menu:hover{
+  box-shadow: inset 2px 2px 0 0 #f6a068, 2px 2px 0 0 #f6a068, 2px 0 0 0 #f6a068, 0 2px 0 0
+#f6a068;
+}
+.box-menu-icon{
+  color: #f6a068;
+}

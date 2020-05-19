@@ -1,0 +1,579 @@
+# Translation of Plugins - Aurora Heatmap - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Aurora Heatmap - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-25 12:35:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Aurora Heatmap - Stable (latest release)\n"
+
+#: class-aurora-heatmap-basic.php:1086
+msgid "Specify the unread rate to warn."
+msgstr "警告する未読了率を指定します。"
+
+#: class-aurora-heatmap-basic.php:1082
+msgid "Warning unread rate"
+msgstr "警告する未読了率"
+
+#: class-aurora-heatmap-basic.php:1066
+msgid "Specify the minimum number of accesses per week per page to prevent false detection."
+msgstr "誤検出防止用に、ページ毎週毎の最小アクセス件数を指定します。"
+
+#: class-aurora-heatmap-basic.php:1062
+msgid "Minimum number of accesses"
+msgstr "最小アクセス件数"
+
+#: class-aurora-heatmap-basic.php:1050
+msgid "Recommended is from 20% to 50%."
+msgstr "推奨は 20% ～ 50% です。"
+
+#. translators: %s: default value.
+#: class-aurora-heatmap-basic.php:1048 class-aurora-heatmap-basic.php:1070
+#: class-aurora-heatmap-basic.php:1090
+msgid "The default is %s."
+msgstr "デフォルトは %s です。"
+
+#: class-aurora-heatmap-basic.php:1042
+msgid "For example, 25% count visits where only 25% of the content has been read."
+msgstr "例えば 25% では、コンテンツの 25% までしか読まれていないアクセスを数えます。"
+
+#: class-aurora-heatmap-basic.php:1039
+msgid "Specify the breakaway position that is considered unread as a percentage of the content height."
+msgstr "未読了とみなす離脱位置を、コンテンツの高さの割合で指定します。"
+
+#: class-aurora-heatmap-basic.php:1035
+msgid "Unread threshold"
+msgstr "未読了しきい値"
+
+#: class-aurora-heatmap-basic.php:1024
+msgid "If also required in the index / archive page, add the following HTML to the end of content block in the template."
+msgstr "インデックス/アーカイブページでも必要な場合、テンプレートのコンテンツブロックの最後に次の HTML を追加してください。"
+
+#: class-aurora-heatmap-basic.php:1022
+msgid "The marker is a zero px element whose coordinates can be obtained."
+msgstr "マーカーは座標を取得可能な 0px の要素です。"
+
+#: class-aurora-heatmap-basic.php:1021
+msgid "Whether to output the content end marker to post / page. Long footers can be ignored."
+msgstr "コンテンツ終了マーカーを投稿/固定ページに出力するかどうか。長いフッターを無視できます。"
+
+#: class-aurora-heatmap-basic.php:1017
+msgid "Content end marker"
+msgstr "コンテンツ終了マーカー"
+
+#: class-aurora-heatmap-basic.php:940
+msgid "The top page (first page of the front page) is always reported regardless of the setting."
+msgstr "トップページ（フロントページの1ページ目）は設定に関わらず常に計測されます。"
+
+#: class-aurora-heatmap-basic.php:939
+msgid "Control reporting for archive pages, error 404 pages, search result pages, etc."
+msgstr "アーカイブページ、404エラーページ、検索結果ページなどの計測を制御します。"
+
+#: class-aurora-heatmap-basic.php:935
+msgid "Non-singular pages"
+msgstr "個別ページ以外"
+
+#: class-aurora-heatmap-basic.php:899
+msgid "Do not output"
+msgstr "出力しない"
+
+#: class-aurora-heatmap-basic.php:898
+msgid "Output"
+msgstr "出力する"
+
+#: class-aurora-heatmap-basic.php:862
+msgid "Do not report"
+msgstr "計測しない"
+
+#: class-aurora-heatmap-basic.php:861
+msgid "Report"
+msgstr "計測する"
+
+#: class-aurora-heatmap-basic.php:503
+msgid "( empty )"
+msgstr "（空）"
+
+#: class-aurora-heatmap-basic.php:455 class-aurora-heatmap-basic.php:803
+msgid "Unread Detection"
+msgstr "未読了検出"
+
+#: class-aurora-heatmap-basic.php:450
+msgid "Heatmap List"
+msgstr "ヒートマップ一覧"
+
+#: aurora-heatmap.php:79
+msgid ""
+"From %1$s to %2$s.\n"
+"%3$d%% (about %4$.1f of %5$d, average height is %6$d px)"
+msgstr ""
+"%1$s ～ %2$s\n"
+"%3$d%% (%5$d 件中約 %4$.1f 件、平均の高さ %6$d px)"
+
+#: aurora-heatmap.php:77
+msgctxt "Date Format"
+msgid "M jS"
+msgstr "n/j"
+
+#: aurora-heatmap.php:76
+msgctxt "Date Format"
+msgid "M jS, Y"
+msgstr "Y/n/j"
+
+#: aurora-heatmap.php:75
+msgid "Rate where only 25% of the content was read. (Red)"
+msgstr "コンテンツの 25% までしか読まれていない割合（赤）"
+
+#: aurora-heatmap.php:74
+msgid "Rate where only 50% of the content was read. (Orange)"
+msgstr "コンテンツの 50% までしか読まれていない割合（オレンジ）"
+
+#: aurora-heatmap.php:73
+msgid "Rate where only 75% of the content was read. (Yellow-green)"
+msgstr "コンテンツの 75% までしか読まれていない割合（黄緑）"
+
+#: aurora-heatmap.php:72
+msgid "Unread ratio for 6 weeks up to last week. This week is calculated on the next Monday."
+msgstr "先週までの6週間の未読了率の推移です。今週分は次の月曜日に計算されます。"
+
+#: aurora-heatmap.php:71
+msgid "Detect pages that are not read enough (pages with a high unread rate). It can be used as a clue for content improvement."
+msgstr "十分に読まれていないページ（未読了率が高いページ）を検出します。コンテンツ改善の手掛かりに利用できます。"
+
+#: aurora-heatmap.php:70 class-aurora-heatmap-basic.php:1013
+msgid "Unread detection"
+msgstr "未読了検出"
+
+#: class-aurora-heatmap-basic.php:886 class-aurora-heatmap-basic.php:892
+msgid "Except for the following comma-separated parameters:"
+msgstr "除外するパラメータ（複数指定はカンマで区切ります）"
+
+#: class-aurora-heatmap-basic.php:998
+msgid "The following parameters for WordPress are always displayed individually."
+msgstr "WordPressで付与される次のパラメーターは、常に個別に表示されます。"
+
+#: class-aurora-heatmap-basic.php:878 class-aurora-heatmap-basic.php:884
+msgid "Integrated display"
+msgstr "統合表示"
+
+#: class-aurora-heatmap-basic.php:805
+msgid "Advanced URL Optimization"
+msgstr "高度な URL 最適化"
+
+#: class-aurora-heatmap-basic.php:804
+msgid "URL Optimization"
+msgstr "URL 最適化"
+
+#: class-aurora-heatmap-basic.php:995
+msgid "Whether to distinguish <code>utm_source=google</code>, <code>utm_medium=organic</code>, etc. from <code>https://example.com/?p=123&utm_source=google&utm_medium=organic</code>."
+msgstr "<code>https://example.com/?p=123&utm_source=google&utm_medium=organic</code> で <code>utm_source=google</code>, <code>utm_medium=organic</code> などを区別するかどうか"
+
+#: class-aurora-heatmap-basic.php:981
+msgid "Whether to distinguish <code>#top</code> from <code>https://example.com/?p=123#top</code>."
+msgstr "<code>https://example.com/?p=123#top</code> で <code>#top</code>を区別するかどうか。"
+
+#: class-aurora-heatmap-basic.php:996
+msgid "In the premium version, you can specify exception parameters separated by commas. For example, <code>utm_source, utm_medium</code>."
+msgstr "有料版では、例外パラメーターをコンマで区切って指定できます。 たとえば、<code>utm_source, utm_medium</code> などです。"
+
+#: class-aurora-heatmap-basic.php:1009 class-aurora-heatmap-basic.php:1102
+msgid "Counted High accuracy mode data will remain as set, but standard mode data will be deleted. This cannot be restored."
+msgstr "カウント済みの高精度モードデータは期間設定どおり残りますが、標準モードのデータは削除されます。これは元に戻せません。"
+
+#: class-aurora-heatmap-basic.php:955
+msgid "Number of drawing points"
+msgstr "描画ポイントの数"
+
+#: class-aurora-heatmap-basic.php:869
+msgid "1000"
+msgstr "1000"
+
+#: class-aurora-heatmap-basic.php:868
+msgid "3000"
+msgstr "3000"
+
+#: class-aurora-heatmap-basic.php:867
+msgid "10000"
+msgstr "10000"
+
+#: class-aurora-heatmap-basic.php:866
+msgid "Unlimited"
+msgstr "無制限"
+
+#: class-aurora-heatmap-list.php:141
+msgctxt "List_Table"
+msgid "PC Bearkaway"
+msgstr "パソコン 離脱"
+
+#: class-aurora-heatmap-list.php:113 class-aurora-heatmap-list.php:145
+msgctxt "List_Table"
+msgid "Mobile Attention"
+msgstr "パソコン 熟読"
+
+#: class-aurora-heatmap-list.php:112 class-aurora-heatmap-list.php:144
+msgctxt "List_Table"
+msgid "Mobile Breakaway"
+msgstr "モバイル 離脱"
+
+#: class-aurora-heatmap-list.php:111 class-aurora-heatmap-list.php:143
+msgctxt "List_Table"
+msgid "Mobile Click"
+msgstr "モバイル クリック"
+
+#: class-aurora-heatmap-list.php:110 class-aurora-heatmap-list.php:142
+msgctxt "List_Table"
+msgid "PC Attention"
+msgstr "パソコン 熟読"
+
+#: class-aurora-heatmap-list.php:109
+msgctxt "List_Table"
+msgid "PC Breakaway"
+msgstr "パソコン 離脱"
+
+#: class-aurora-heatmap-list.php:108 class-aurora-heatmap-list.php:140
+msgctxt "List_Table"
+msgid "PC Click"
+msgstr "パソコン クリック"
+
+#: class-aurora-heatmap-basic.php:743
+msgid "Search page"
+msgstr "ページを検索"
+
+#: aurora-heatmap.php:49
+msgid "Help"
+msgstr "ヘルプ"
+
+#: class-aurora-heatmap-basic.php:705
+msgid "At the 90 display position, 10% of users have left."
+msgstr "90%表示の位置では10%のユーザーが離脱したということになります。"
+
+#: class-aurora-heatmap-basic.php:715
+msgid "Yellow indicates the strongest reaction."
+msgstr "黄色が最も強い反応を示します。"
+
+#: class-aurora-heatmap-basic.php:714
+msgid "Attention heatmap determines where the user is watching."
+msgstr "熟読ヒートマップはユーザーが注視している箇所を判定します。"
+
+#: class-aurora-heatmap-basic.php:704
+msgid "Breakaway heatmap determines how far the page has been read."
+msgstr "離脱ヒートマップはページがどこまで読まれているかを判別します。"
+
+#: class-aurora-heatmap-basic.php:695
+msgid "You can find interesting places, text selection, lead wire functions, and false clicks that impair the user experience."
+msgstr "興味を惹いている箇所・テキストの選択・導線の機能・ユーザー体験を損ねる誤クリックの発見ができます。"
+
+#: class-aurora-heatmap-basic.php:694
+msgid "Click heatmap shows where a user clicks the mouse, or where it is tapped on mobile."
+msgstr "クリックヒートマップはユーザーのマウスクリック、モバイルではタップしている箇所を示します。"
+
+#. translators: %s: Your Profile.
+#: aurora-heatmap.php:68
+msgctxt "Free Plan"
+msgid "Restart the user registration"
+msgstr "ユーザー登録をやり直す"
+
+#: aurora-heatmap.php:65
+msgctxt "Free Plan"
+msgid "If you can't receive authentication email"
+msgstr "認証メールを受信できない場合"
+
+#: aurora-heatmap.php:63
+msgctxt "Free Plan"
+msgid "<b>Delete</b> the premium version plugin."
+msgstr "有料版のプラグインを<b>削除</b>します。"
+
+#: aurora-heatmap.php:61
+msgctxt "Free Plan"
+msgid "<b>Stop</b> the premium version plugin."
+msgstr "有料版プラグインの <b>停止</b>。"
+
+#: aurora-heatmap.php:60
+msgctxt "Free Plan"
+msgid "Migrate data to the free version"
+msgstr "無料版へのデータ移行"
+
+#: aurora-heatmap.php:58
+msgctxt "Free Plan"
+msgid "It is also possible to take over the current data."
+msgstr "その際、既存データを引き継ぐことも可能です。"
+
+#: aurora-heatmap.php:57
+msgctxt "Free Plan"
+msgid "However, it is not possible to update to the latest version of the premium version, so we recommend that you replace the WordPress.org plugin directory with the free version."
+msgstr "ただし、最新版への更新などは行えませんので、WordPress.org プラグインディレクトリの無料版への入れ替えをお勧めします。"
+
+#: aurora-heatmap.php:56
+msgctxt "Free Plan"
+msgid "The license has expired, but the free plan can still be used."
+msgstr "現在、ライセンス失効していますが、引き続き無料版としての機能をご利用いただけます。"
+
+#. translators: %3$s: URL of Help in this plugin.
+#: aurora-heatmap.php:55
+msgctxt "Free Plan"
+msgid "About the free plan"
+msgstr "フリープランについて"
+
+#: aurora-heatmap.php:50
+msgctxt "Free Plan"
+msgid "Due to unlicensed or expired licenses, the premium version features, including <b>premium version plugin updates</b>, are limited."
+msgstr "ライセンス未契約または失効のため <b>有料版プラグインの更新</b> を含む有料版の機能が制限されています。"
+
+#: class-aurora-heatmap-list.php:58 class-aurora-heatmap-list.php:107
+#: class-aurora-heatmap-list.php:139
+msgctxt "List_Table"
+msgid "Page"
+msgstr "Page"
+
+#: class-aurora-heatmap-list.php:171
+msgctxt "List_Table"
+msgid "Delete"
+msgstr "削除"
+
+#: class-aurora-heatmap-basic.php:1009 class-aurora-heatmap-basic.php:1102
+msgid "Save"
+msgstr "保存"
+
+#: class-aurora-heatmap-basic.php:991
+msgid "URL parameter"
+msgstr "URL パラメータ"
+
+#: class-aurora-heatmap-basic.php:977
+msgid "URL hash"
+msgstr "URL ハッシュ"
+
+#: class-aurora-heatmap-basic.php:969
+msgid "Count bar"
+msgstr "カウントバー"
+
+#: class-aurora-heatmap-basic.php:920
+msgid "Accuracy"
+msgstr "精度"
+
+#: class-aurora-heatmap-basic.php:951
+msgid "Display settings"
+msgstr "表示設定"
+
+#: class-aurora-heatmap-basic.php:948
+msgid "Bulk data deletion"
+msgstr "データ一括削除"
+
+#: class-aurora-heatmap-basic.php:948
+msgid "Are you sure you want to delete all the heatmap data?"
+msgstr "ヒートマップデータをすべて削除してもよろしいですか？"
+
+#: class-aurora-heatmap-basic.php:911
+msgid "Retension period"
+msgstr "保存期間"
+
+#: class-aurora-heatmap-basic.php:907
+msgid "Data settings"
+msgstr "データ設定"
+
+#: class-aurora-heatmap-basic.php:874
+msgid "Hide"
+msgstr "表示しない"
+
+#: class-aurora-heatmap-basic.php:873
+msgid "Show"
+msgstr "表示する"
+
+#: class-aurora-heatmap-basic.php:857
+msgid "Standard"
+msgstr "標準"
+
+#: class-aurora-heatmap-basic.php:856
+msgid "High accuracy"
+msgstr "高精度"
+
+#: class-aurora-heatmap-basic.php:852
+msgid "6 months"
+msgstr "6か月"
+
+#: class-aurora-heatmap-basic.php:851
+msgid "3 months"
+msgstr "3か月"
+
+#: class-aurora-heatmap-basic.php:850
+msgid "1 month"
+msgstr "1か月"
+
+#: class-aurora-heatmap-basic.php:834
+msgid "<b>Delete</b> the free version plugin."
+msgstr "無料版プラグインの <b>削除</b>。"
+
+#: class-aurora-heatmap-basic.php:833
+msgid "<b>User registration</b> / <b>license agreement</b> / <b>update plugin</b>."
+msgstr "<b>ユーザー登録</b>・<b>ライセンス契約</b>・<b>プラグインの更新</b>。"
+
+#: class-aurora-heatmap-basic.php:832
+msgid "<b>Install</b> / <b>activate</b> the installer."
+msgstr "インストーラの <b>インストール</b>・<b>有効化</b>。"
+
+#: class-aurora-heatmap-basic.php:831
+msgid "<b>Stop</b> the free version plugin."
+msgstr "無料版プラグインを <b>停止</b>。"
+
+#: class-aurora-heatmap-basic.php:830
+msgid "<a href=\"https://market.seous.info/aurora-heatmap/premium\">Get the installer</a> of the premium version plugin."
+msgstr "有料版プラグインの <a href=\"https://market.seous.info/aurora-heatmap/premium\">インストーラを入手</a>。"
+
+#: class-aurora-heatmap-basic.php:828
+msgid "Migrate data to the premium version"
+msgstr "有料版へのデータ移行"
+
+#: class-aurora-heatmap-basic.php:807
+msgid "Update to the Latest Version"
+msgstr "最新版への更新"
+
+#: class-aurora-heatmap-basic.php:806
+msgid "Extended Retension Period (6 months)"
+msgstr "データ保存期間の延長（6か月）"
+
+#: class-aurora-heatmap-basic.php:433 class-aurora-heatmap-basic.php:802
+msgid "Attention Heatmap"
+msgstr "熟読ヒートマップ"
+
+#: class-aurora-heatmap-basic.php:432 class-aurora-heatmap-basic.php:801
+msgid "Breakaway Heatmap"
+msgstr "離脱ヒートマップ"
+
+#: class-aurora-heatmap-basic.php:431 class-aurora-heatmap-basic.php:684
+#: class-aurora-heatmap-basic.php:800
+msgid "Click Heatmap"
+msgstr "クリックヒートマップ"
+
+#: class-aurora-heatmap-basic.php:799
+msgid "Priority Email Support"
+msgstr "メールサポート"
+
+#: class-aurora-heatmap-basic.php:787
+msgid "Standard Plan"
+msgstr "スタンダードプラン"
+
+#: class-aurora-heatmap-basic.php:786
+msgid "Free Plan"
+msgstr "フリープラン"
+
+#: class-aurora-heatmap-basic.php:783
+msgid "Premium Version"
+msgstr "有料版"
+
+#: class-aurora-heatmap-basic.php:782
+msgid "Free Version"
+msgstr "無料版"
+
+#: class-aurora-heatmap-basic.php:777
+msgid "Features comparison"
+msgstr "機能比較"
+
+#: class-aurora-heatmap-basic.php:772
+msgid "If you like this plugin, please consider upgrading!"
+msgstr "本プラグインを気に入っていただけましたら、ぜひ、アップグレードを検討ください！"
+
+#: class-aurora-heatmap-basic.php:770
+msgid "<b>Aurora Heatmap</b> has a premium version with extended features."
+msgstr "<b>Aurora Heatmap</b> は機能を拡張した有料版を用意しています。"
+
+#: class-aurora-heatmap-basic.php:733
+msgid "Mobile"
+msgstr "モバイル"
+
+#: class-aurora-heatmap-basic.php:732
+msgid "PC"
+msgstr "パソコン"
+
+#: class-aurora-heatmap-basic.php:638
+msgid "Deleted heatmap data."
+msgstr "ヒートマップデータは削除されました。"
+
+#: class-aurora-heatmap-basic.php:634
+msgid "Updated options."
+msgstr "設定を更新しました。"
+
+#: class-aurora-heatmap-basic.php:736
+msgid "Attention"
+msgstr "熟読"
+
+#: class-aurora-heatmap-basic.php:735
+msgid "Breakaway"
+msgstr "離脱"
+
+#: class-aurora-heatmap-basic.php:734
+msgid "Click"
+msgstr "クリック"
+
+#: class-aurora-heatmap-basic.php:465
+msgid "Premium Version Information"
+msgstr "有料版のご案内"
+
+#: class-aurora-heatmap-basic.php:460
+msgid "Settings"
+msgstr "設定"
+
+#: aurora-heatmap.php:26
+msgid "Fail to activate. Another version of Aurora Heatmap is already active."
+msgstr "有効化に失敗しました。他のバージョンの Aurora Heatmap が既に有効化されています。"
+
+#. Author URI of the plugin
+msgid "https://seous.info/"
+msgstr "https://seous.info/"
+
+#. Author of the plugin
+msgid "R3098"
+msgstr "R3098"
+
+#. Description of the plugin
+#: aurora-heatmap.php:47
+msgid "Beautiful like an aurora! A simple WordPress heatmap that can be completed with just a plugin."
+msgstr "オーロラのように美しい、プラグインだけで完結するシンプルな WordPress 用ヒートマップです。"
+
+#. Plugin URI of the plugin
+msgid "https://market.seous.info/aurora-heatmap"
+msgstr "https://market.seous.info/aurora-heatmap"
+
+#. Plugin Name of the plugin
+#: aurora-heatmap.php:46 class-aurora-heatmap-basic.php:406
+#: class-aurora-heatmap-basic.php:407 class-aurora-heatmap-basic.php:620
+msgid "Aurora Heatmap"
+msgstr "Aurora Heatmap"
+
+#: class-aurora-heatmap-basic.php:959
+msgid "The default is the latest 3,000 points. Adjust according to server performance."
+msgstr "※ デフォルトは最新3000件です。サーバのパフォーマンスに応じて調整してください。"
+
+#: class-aurora-heatmap-basic.php:925
+msgid "For high accuracy, data of conditions narrowed down from the standard is saved."
+msgstr "※ 高精度では標準より絞り込んだ条件のデータを保存します。"
+
+#: class-aurora-heatmap-basic.php:924
+msgid "The default is high accuracy. If the count is not enough, try the standard mode."
+msgstr "※ デフォルトは高精度です。カウント量が十分でない場合は標準モードをお試しください。"
+
+#: class-aurora-heatmap-basic.php:816
+msgid "<b>*</b> The free plan is a premium version with no license or expired."
+msgstr "※ フリープランはライセンス未契約またはライセンス失効の有料版です。"
+
+#: class-aurora-heatmap-basic.php:879 class-aurora-heatmap-basic.php:890
+msgid "Individual display"
+msgstr "個別表示"
+
+#. translators: %3$s: URL of Help in this plugin.
+#: aurora-heatmap.php:54
+msgctxt "Free Plan"
+msgid "To use the latest version, we recommend the <a href=\"%1$s\">lisense agreement</a> or the <a href=\"%2$s\">free version</a>. See the <a href=\"%3$s\">help</a> for details."
+msgstr "最新版をご利用いただくため、<a href=\"%1$s\">ライセンス契約</a> または <a href=\"%2$s\">無料版</a> をおすすめします。詳細は <a href=\"%3$s\">ヘルプ</a> をご覧ください。"
+
+#. translators: %s: Your Profile.
+#: aurora-heatmap.php:67
+msgctxt "Free Plan"
+msgid "Change the email address of <a href=\"profile.php\">%s</a> and restart the user registration with the following button."
+msgstr "<a href=\"profile.php\">%s</a> のメールアドレスを変更の上、次のボタンでユーザー登録をやり直してください。"
+
+#: aurora-heatmap.php:62
+msgctxt "Free Plan"
+msgid "<b>Install</b> / <b>activate</b> <a href=\"plugin-install.php?s=aurora-heatmap&amp;tab=search&amp;type=term\">the free version</a> plugin."
+msgstr "<a href=\"plugin-install.php?s=aurora-heatmap&amp;tab=search&amp;type=term\">無料版プラグイン</a> の <b>インストール</b>・<b>有効化</b>。"

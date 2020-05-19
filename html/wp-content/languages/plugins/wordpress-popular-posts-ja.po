@@ -1,0 +1,1090 @@
+# Translation of Plugins - WordPress Popular Posts - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WordPress Popular Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-23 15:00:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WordPress Popular Posts - Stable (latest release)\n"
+
+#: src/Admin/Admin.php:1367
+msgid "<strong>WordPress Popular Posts:</strong> It seems your site is popular (great!) You may want to check <a href=\"%s\">these suggestions</a> to make sure your website's performance stays up to par."
+msgstr "<strong>WordPress Popular Posts:</strong> このサイトはアクセス数が多いようです。サイトのパフォーマンスを維持するため、<a href=\"%s\">こちら</a> をご覧になることをおすすめします。"
+
+#: wordpress-popular-posts.php:52
+msgid "WordPress Popular Posts requires at least PHP %1$s and WordPress %2$s to function correctly. Your site uses PHP %3$s and WordPress %4$s."
+msgstr "WordPress Popular Posts が正常に動作するためには、PHP %1$s と WordPress %2$s 以上が必要です。このサイトは PHP %3$s と WordPress %4$s を使用しています。"
+
+#: src/Widget/form.php:234
+msgid "Please save this widget (or reload this page) to enable WPP themes."
+msgstr "WPP テーマを使用可能にするためには、ウィジェットを保存するかこのページを更新してください。"
+
+#: src/Widget/form.php:218
+msgid "see a <a href=\"%s\">list of supported browsers</a>"
+msgstr "対応ブラウザは <a href=\"%s\"> こちら</a>  をご覧ください。"
+
+#: src/Widget/form.php:218
+msgid "Theme"
+msgstr "テーマ"
+
+#: src/Admin/admin-page.php:878
+msgid "outputs the position of the post in the listing"
+msgstr "リスト内での投稿の位置を表示します"
+
+#: src/Admin/admin-page.php:878
+msgid "outputs number of popular posts found"
+msgstr "見つかった人気の投稿数を表示します"
+
+#: src/Admin/Admin.php:493
+msgid "View more"
+msgstr "さらに表示"
+
+#: src/Admin/admin-page.php:425
+msgid "No"
+msgstr "いいえ"
+
+#: src/Admin/admin-page.php:422
+msgid "Lazy load"
+msgstr "Lazy Load"
+
+#: src/Admin/Admin.php:699 src/Admin/Admin.php:1090 src/Admin/Admin.php:1092
+#: src/Output.php:705
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s 件のコメント"
+
+#: src/Admin/Admin.php:699 src/Admin/Admin.php:1088 src/Admin/Admin.php:1092
+#: src/Output.php:722
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s件のビュー"
+
+#: src/Rest/Controller.php:501
+msgid "Include popular posts from author ID(s)."
+msgstr "人気の投稿に投稿者の ID を含めます。"
+
+#: src/Rest/Controller.php:477
+msgid "Post IDs to exclude from the listing."
+msgstr "リストから除外する投稿 ID"
+
+#: src/Admin/admin-page.php:527
+msgid "WPP can cache the popular list for a specified amount of time. Recommended for large / high traffic sites"
+msgstr "WPP は指定された時間の間の人気リストをキャッシュすることができます。大きい規模やトラフィックの多いサイトでは使用を推奨します。"
+
+#: src/Admin/admin-page.php:519
+msgid "Data Caching"
+msgstr "データキャッシュ"
+
+#: src/Rest/Controller.php:542
+msgid "Sets the Sampling Rate."
+msgstr "サンプリングレートを設定"
+
+#: src/Rest/Controller.php:535
+msgid "Enables Data Sampling."
+msgstr "データサンプリングを有効化"
+
+#: src/Rest/Controller.php:528
+msgid "The post / page ID."
+msgstr "投稿・固定ページ ID"
+
+#: src/Rest/Controller.php:522
+msgid "Security nonce."
+msgstr "セキュリティ nonce。"
+
+#: src/Rest/Controller.php:493
+msgid "Taxonomy IDs, separated by comma (prefix a minus sign to exclude)."
+msgstr "コンマ区切りでタクソノミー ID を指定してください (特定の ID を除外するにはマイナス記号を使います)。"
+
+#: src/Rest/Controller.php:485
+msgid "Include posts in a specified taxonomy."
+msgstr "指定したタクソノミーの投稿を含めます。"
+
+#: src/Rest/Controller.php:461
+msgid "Specifies the time unit of the custom time range."
+msgstr "時間に使用する単位を指定します。"
+
+#: src/Rest/Controller.php:453
+msgid "Return popular posts from a specified time range."
+msgstr "特定の時間内の人気の投稿を返す。"
+
+#: src/Rest/Controller.php:421
+msgid "The maximum number of popular posts to return."
+msgstr "表示する人気記事の最大数。"
+
+#: src/Rest/Controller.php:414
+msgid "Return popular posts from specified custom post type(s)."
+msgstr "指定されたカスタム投稿タイプの人気記事を表示。"
+
+#: src/Admin/admin-page.php:405
+msgid "This image will be displayed when no thumbnail is available"
+msgstr "サムネイルが設定されていない時にこの画像が使用されます。"
+
+#: src/Admin/admin-page.php:402
+msgid "Change thumbnail"
+msgstr "サムネイルを変更"
+
+#: src/Admin/Admin.php:405 src/Admin/admin-page.php:349
+msgid "Trending now"
+msgstr "今人気"
+
+#: src/Admin/admin-page.php:348
+msgid "Most commented"
+msgstr "コメント数の多い"
+
+#: src/Admin/admin-page.php:347
+msgid "Most viewed"
+msgstr "閲覧数の多い"
+
+#: src/Admin/admin-page.php:323
+msgid "Today"
+msgstr "今日"
+
+#: src/Admin/Admin.php:522
+msgid "Use this image"
+msgstr "この画像を使用"
+
+#: src/Admin/Admin.php:371
+msgid "%s view in the last hour"
+msgid_plural "%s views in the last hour"
+msgstr[0] "過去1時間に %s ビュー"
+
+#: src/Admin/admin-page.php:878
+msgid "returns the default stats tags"
+msgstr "デフォルト統計タグを表示"
+
+#: src/Admin/admin-page.php:878
+msgid "returns the post/page ID"
+msgstr "投稿・固定ページの ID を表示"
+
+#: src/Admin/admin-page.php:878
+msgid "returns linked post/page title"
+msgstr "リンクされた投稿・固定ページのタイトルを表示"
+
+#: src/Admin/admin-page.php:501
+msgid "Data older than the specified time frame will be automatically discarded"
+msgstr "指定された時間フレームより古いデータは自動的に削除されます"
+
+#: src/Admin/admin-page.php:730
+msgid "If set, WordPress Popular Posts will retrieve all entries that belong to the specified category ID(s). If a minus sign is used, entries associated to the category will be excluded instead."
+msgstr "設定されていると WordPress Popular Posts は指定されたカテゴリー ID をもとに投稿を取得するようになります。マイナス記号が使われている場合、それらのカテゴリーが設定された投稿は除外されます。"
+
+#. Description of the plugin
+msgid "A highly customizable widget that displays the most popular posts on your blog."
+msgstr "人気な投稿をサイト上に表示するカスタマイズ豊富なウィジェットです。"
+
+#: src/Widget/form.php:167
+msgid "Display taxonomy"
+msgstr "タクソノミーを表示"
+
+#: src/Widget/form.php:159
+msgid "Relative"
+msgstr "相対"
+
+#: src/Widget/form.php:88
+msgid "Author ID(s)"
+msgstr "投稿者 ID"
+
+#: src/Widget/form.php:60
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: src/Admin/admin-page.php:327 src/Widget/form.php:38
+msgid "Custom"
+msgstr "カスタム"
+
+#: src/Output.php:751
+msgid "posted %s"
+msgstr "%sに投稿"
+
+#: src/Admin/admin-page.php:878
+msgid "returns linked taxonomy names, requires stats_taxonomy=1"
+msgstr "リンクされたタクソノミー名を返す (stats_taxonomy=1 が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns thumbnail url, requires thumbnail_width & thumbnail_height"
+msgstr "サムネイルの URL を返す (thumbnail_width と thumbnail_height が必要)"
+
+#: src/Admin/admin-page.php:856
+msgid "If set, WordPress Popular Posts will display the taxonomies associated to each entry"
+msgstr "設定されていると WordPress Popular Posts は各投稿の設定されたタクソノミーを表示するようになります。"
+
+#: src/Admin/admin-page.php:849
+msgid "If set, WordPress Popular Posts will display the categories associated to each entry"
+msgstr "設定されていると WordPress Popular Posts は各投稿の設定されたカテゴリーを表示するようになります。"
+
+#: src/Admin/admin-page.php:821
+msgid "If set, WordPress Popular Posts will show how many views each popular post has got during the specified time range"
+msgstr "設定されていると WordPress Popular Posts は指定された時間範囲内に獲得した表示数を表示するようになります。"
+
+#: src/Admin/admin-page.php:737
+msgid "If set, WordPress Popular Posts will filter posts by a given taxonomy."
+msgstr "設定されていると WordPress Popular Posts は投稿をタクソノミーによって絞り込みます。"
+
+#: src/Admin/admin-page.php:695
+msgid "Especifies the time unit of the custom time range"
+msgstr "時間範囲のカスタムの時間単位を指定"
+
+#: src/Admin/admin-page.php:688
+msgid "Especifies the number of time units of the custom time range"
+msgstr "時間範囲のカスタムの時間単位の数を指定"
+
+#: src/Admin/admin-page.php:656 src/Admin/admin-page.php:663
+#: src/Admin/admin-page.php:670 src/Admin/admin-page.php:677
+#: src/Admin/admin-page.php:684 src/Admin/admin-page.php:691
+#: src/Admin/admin-page.php:698 src/Admin/admin-page.php:705
+#: src/Admin/admin-page.php:712 src/Admin/admin-page.php:719
+#: src/Admin/admin-page.php:726 src/Admin/admin-page.php:733
+#: src/Admin/admin-page.php:740 src/Admin/admin-page.php:747
+#: src/Admin/admin-page.php:754 src/Admin/admin-page.php:761
+#: src/Admin/admin-page.php:768 src/Admin/admin-page.php:775
+#: src/Admin/admin-page.php:782 src/Admin/admin-page.php:789
+#: src/Admin/admin-page.php:796 src/Admin/admin-page.php:803
+#: src/Admin/admin-page.php:810 src/Admin/admin-page.php:817
+#: src/Admin/admin-page.php:824 src/Admin/admin-page.php:831
+#: src/Admin/admin-page.php:838 src/Admin/admin-page.php:845
+#: src/Admin/admin-page.php:852 src/Admin/admin-page.php:859
+#: src/Admin/admin-page.php:866 src/Admin/admin-page.php:873
+#: src/Admin/admin-page.php:880
+msgid "With the [wpp] shortcode:"
+msgstr "[wpp] ショートコードと :"
+
+#: src/Admin/admin-page.php:656 src/Admin/admin-page.php:663
+#: src/Admin/admin-page.php:670 src/Admin/admin-page.php:677
+#: src/Admin/admin-page.php:684 src/Admin/admin-page.php:691
+#: src/Admin/admin-page.php:698 src/Admin/admin-page.php:705
+#: src/Admin/admin-page.php:712 src/Admin/admin-page.php:719
+#: src/Admin/admin-page.php:726 src/Admin/admin-page.php:733
+#: src/Admin/admin-page.php:740 src/Admin/admin-page.php:747
+#: src/Admin/admin-page.php:754 src/Admin/admin-page.php:761
+#: src/Admin/admin-page.php:768 src/Admin/admin-page.php:775
+#: src/Admin/admin-page.php:782 src/Admin/admin-page.php:789
+#: src/Admin/admin-page.php:796 src/Admin/admin-page.php:803
+#: src/Admin/admin-page.php:810 src/Admin/admin-page.php:817
+#: src/Admin/admin-page.php:824 src/Admin/admin-page.php:831
+#: src/Admin/admin-page.php:838 src/Admin/admin-page.php:845
+#: src/Admin/admin-page.php:852 src/Admin/admin-page.php:859
+#: src/Admin/admin-page.php:866 src/Admin/admin-page.php:873
+#: src/Admin/admin-page.php:880
+msgid "With wpp_get_mostpopular():"
+msgstr "wpp_get_mostpopular() と :"
+
+#: src/Admin/admin-page.php:331
+msgid "Err... A nice little chart is supposed to be here, instead you are seeing this because your browser is too old. <br /> Please <a href=\"%s\" target=\"_blank\">get a better browser</a>."
+msgstr "ここには小さなチャートが表示されるはずなのですが、お使いのブラウザが古すぎるようです。<br /><a href=\"%s\" target=\"_blank\">新しいブラウザ</a>を入手してください。"
+
+#: src/Admin/admin-page.php:303
+msgid "Select a date..."
+msgstr "日付を選択…"
+
+#: src/Admin/admin-page.php:289
+msgid "Date Range"
+msgstr "期間"
+
+#: src/Admin/admin-page.php:288
+msgid "Custom Time Range"
+msgstr "時間範囲のカスタム"
+
+#: src/Admin/admin-page.php:279 src/Admin/admin-page.php:313
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: src/Admin/admin-page.php:239
+msgid "Menu"
+msgstr "メニュー"
+
+#: src/Admin/Admin.php:622
+msgid "Settings"
+msgstr "設定"
+
+#: src/Admin/Admin.php:1094
+msgid "Edit"
+msgstr "編集"
+
+#: src/Admin/Admin.php:1094
+msgid "View"
+msgstr "表示"
+
+#: src/Admin/Admin.php:724
+msgid "Views"
+msgstr "表示数"
+
+#: src/Admin/Admin.php:598
+msgid "<p><strong>For more information:</strong></p><ul><li><a href=\"%1$s\">Documentation</a></li><li><a href=\"%2$s\">Support</a></li></ul>"
+msgstr "<p><strong>さらなる情報: </strong></p><ul><li><a href=\"%1$s\">ドキュメンテーション</a></li><li><a href=\"%2$s\">サポート</a></li></ul>"
+
+#: src/Admin/Admin.php:582
+msgid "Like this plugin?"
+msgstr "このプラグインを気に入りましたか ?"
+
+#: src/Admin/Admin.php:576
+msgid "Welcome to WordPress Popular Posts' Dashboard! In this screen you will find statistics on what's popular on your site, tools to further tweak WPP to your needs, and more!"
+msgstr "WordPress Popular Posts のダッシュボードへようこそ。この画面ではサイト上の人気の投稿の統計、さらなる WPP のオプションなどを利用できます。"
+
+#: src/Admin/Admin.php:575
+msgid "Overview"
+msgstr "概要"
+
+#: src/Admin/admin-page.php:414
+msgid "First attachment"
+msgstr "最初の添付ファイル"
+
+#. Author URI of the plugin
+msgid "https://cabrerahector.com/"
+msgstr "https://cabrerahector.com/"
+
+#. Author of the plugin
+msgid "Hector Cabrera"
+msgstr "Hector Cabrera"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wordpress-popular-posts/"
+msgstr "https://ja.wordpress.org/plugins/wordpress-popular-posts"
+
+#. Plugin Name of the plugin
+msgid "WordPress Popular Posts"
+msgstr "WordPress Popular Posts"
+
+#: src/Output.php:759
+msgid "under %s"
+msgstr "カテゴリ: %s"
+
+#: src/Output.php:751
+msgid "posted on %s"
+msgstr "%s に投稿された"
+
+#: src/Output.php:745
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: src/Output.php:237
+msgid "Sorry. No data so far."
+msgstr "まだデータがありません。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:214
+msgid "The thumbnail cache is already empty!"
+msgstr "サムネイルキャッシュはすでに空です。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:210
+msgid "Success! All files have been deleted!"
+msgstr "成功 !  すべてのファイルは削除されました。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:145 src/Admin/admin-page.php:184
+#: src/Admin/admin-page.php:222
+msgid "Sorry, you do not have enough permissions to do this. Please contact the site administrator for support."
+msgstr "申し訳ありませんが、あなたには必要な権限がありません。サイト管理者にお問い合わせください。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:141 src/Admin/admin-page.php:149
+#: src/Admin/admin-page.php:180 src/Admin/admin-page.php:188
+#: src/Admin/admin-page.php:218 src/Admin/admin-page.php:226
+msgid "Invalid action."
+msgstr "無効な操作。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:176
+msgid "Error: one or both data tables are missing."
+msgstr "エラー: ひとつ、または複数のテーブルが見つかりません。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:172
+msgid "Success! All data have been cleared!"
+msgstr "成功! すべてのデータは削除されました。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:137
+msgid "Error: cache table does not exist."
+msgstr "エラー:  キャッシュテーブルが存在しません。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:133
+msgid "Success! The cache table has been cleared!"
+msgstr "成功!  キャッシュテーブルは削除されました。"
+
+#: src/Widget/Widget.php:77
+msgid "The most Popular Posts on your blog."
+msgstr "ブログ上で最も人気の投稿。"
+
+#: src/Widget/form.php:211
+msgid "Post HTML Markup"
+msgstr "投稿の HTML マークアップ"
+
+#: src/Widget/form.php:208
+msgid "Before / after Popular Posts"
+msgstr "投稿の前 / 後"
+
+#: src/Widget/form.php:205
+msgid "Before / after title"
+msgstr "タイトルの前 / 後"
+
+#: src/Widget/form.php:190
+msgid "Use custom HTML Markup"
+msgstr "カスタム HTML マークアップを使う"
+
+#: src/Widget/form.php:188
+msgid "HTML Markup settings"
+msgstr "HTML マークアップ設定"
+
+#: src/Widget/form.php:160
+msgid "WordPress Date Format"
+msgstr "WordPress 日付書式"
+
+#: src/Widget/form.php:157
+msgid "Date Format"
+msgstr "日付フォーマット"
+
+#: src/Widget/form.php:154
+msgid "Display date"
+msgstr "日付を表示"
+
+#: src/Widget/form.php:152
+msgid "Display author"
+msgstr "投稿者を表示"
+
+#: src/Widget/form.php:150
+msgid "Display views"
+msgstr "閲覧数を表示"
+
+#: src/Widget/form.php:148
+msgid "Display comment count"
+msgstr "コメント数を表示"
+
+#: src/Widget/form.php:146
+msgid "Stats Tag settings"
+msgstr "統計タグの設定"
+
+#: src/Widget/form.php:139
+msgid "Height"
+msgstr "高さ"
+
+#: src/Widget/form.php:136
+msgid "Width"
+msgstr "幅"
+
+#: src/Widget/form.php:134
+msgid "Set size manually"
+msgstr "サイズを手動で指定"
+
+#: src/Widget/form.php:122
+msgid "Use predefined size"
+msgstr "既定のサイズから選ぶ"
+
+#: src/Widget/form.php:119
+msgid "Display post thumbnail"
+msgstr "アイキャッチ画像を表示"
+
+#: src/Widget/form.php:113
+msgid "Excerpt length"
+msgstr "抜粋の長さ"
+
+#: src/Widget/form.php:112
+msgid "Keep text format and links"
+msgstr "書式とリンクを保持"
+
+#: src/Widget/form.php:109
+msgid "Display post excerpt"
+msgstr "抜粋を表示"
+
+#: src/Widget/form.php:106 src/Widget/form.php:116
+msgid "words"
+msgstr "単語"
+
+#: src/Widget/form.php:105 src/Widget/form.php:115
+msgid "characters"
+msgstr "文字"
+
+#: src/Widget/form.php:104
+msgid "Shorten title to"
+msgstr "タイトルの長さ上限"
+
+#: src/Widget/form.php:101
+msgid "Shorten title"
+msgstr "タイトルを短縮"
+
+#: src/Widget/form.php:98
+msgid "Display post rating"
+msgstr "投稿の評価を表示"
+
+#: src/Widget/form.php:94
+msgid "Posts settings"
+msgstr "投稿設定"
+
+#: src/Widget/form.php:57
+msgid "Post ID(s) to exclude"
+msgstr "除外する投稿 ID"
+
+#: src/Widget/form.php:54
+msgid "Post type(s)"
+msgstr "投稿タイプ"
+
+#: src/Widget/form.php:32
+msgid "Time Range"
+msgstr "計測期間"
+
+#: src/Widget/form.php:30
+msgid "Filters"
+msgstr "フィルター"
+
+#: src/Widget/form.php:23
+msgid "Avg. daily views"
+msgstr "1日の平均閲覧数"
+
+#: src/Widget/form.php:22
+msgid "Total views"
+msgstr "総閲覧数"
+
+#: src/Admin/Admin.php:720 src/Widget/form.php:21
+msgid "Comments"
+msgstr "コメント"
+
+#: src/Widget/form.php:19
+msgid "Sort posts by"
+msgstr "ソート順"
+
+#: src/Widget/form.php:14
+msgid "posts"
+msgstr "件の投稿があります"
+
+#: src/Widget/form.php:13
+msgid "Show up to"
+msgstr "最大表示数"
+
+#: src/Widget/form.php:7
+msgid "Title"
+msgstr "タイトル"
+
+#: src/Admin/Admin.php:591
+msgid "You can <a href=\"%s\" target=\"_blank\">leave a review</a>, too!"
+msgstr "また、<a href=\"%s\" target=\"_blank\">レビューを残す</a>こともできます。"
+
+#: src/Admin/Admin.php:584
+msgid "Each donation motivates me to keep releasing free stuff for the WordPress community!"
+msgstr "皆様からの寄付が無償で WordPress コミュニテイにリリースし続けるモチベーションとなっています。"
+
+#: src/Admin/admin-page.php:814
+msgid "If set, WordPress Popular Posts will show how many comments each popular post has got during the specified time range"
+msgstr "設定されていると WordPress Popular Posts は指定された時間範囲内に獲得したコメント数を表示するようになります"
+
+#: src/Admin/admin-page.php:878
+msgid "returns post/page date, requires stats_date=1"
+msgstr "投稿/固定ページの投稿時間を返す (stats_date=1 が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns comments count only, no text, requires stats_comments=1"
+msgstr "コメントカウントのみ (テキストなし) を返す (stats_comments=1 が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns views count only, no text"
+msgstr "閲覧数のみを返す (テキストなし)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns linked category name, requires stats_category=1"
+msgstr "投稿のカテゴリーの返す (stats_category=1 が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns linked author name, requires stats_author=1"
+msgstr "投稿者名を返す (stats_author=1 が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns post/page title, no link"
+msgstr "リンクなしで投稿・固定ページのタイトルを表示"
+
+#: src/Admin/admin-page.php:878
+msgid "returns the URL of the post/page"
+msgstr "投稿・固定ページの URL を表示"
+
+#: src/Admin/admin-page.php:878
+msgid "returns post/page current rating as an integer, requires WP-PostRatings installed and enabled"
+msgstr "投稿・固定ページのレートを数値で表示 (WP-PostRatings がインストールされていて有効化されている必要があります)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns post/page current rating, requires WP-PostRatings installed and enabled"
+msgstr "投稿・固定ページの現在のレートを表示 (WP-PostRatings がインストールされていて有効化されている必要があります)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns post/page excerpt, and requires excerpt_length to be greater than 0"
+msgstr "投稿・固定ページの本文の抜粋を表示 (excerpt_length に0より大きい数が指定されている必要があります)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns thumbnail image without linking to post/page, requires thumbnail_width & thumbnail_height"
+msgstr "投稿・固定ページへのリンクなしでサムネイル画像を表示 (thumbnail_width と thumbnail_height が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "returns thumbnail linked to post/page, requires thumbnail_width & thumbnail_height"
+msgstr "リンクありで投稿・固定ページのサムネイル画像を表示 (thumbnail_width と thumbnail_height が必要)"
+
+#: src/Admin/admin-page.php:878
+msgid "Available Content Tags"
+msgstr "利用可能なコンテンツタグ"
+
+#: src/Admin/admin-page.php:878
+msgid "Text string, custom HTML"
+msgstr "テキスト文字列、カスタム HTML"
+
+#: src/Admin/admin-page.php:877
+msgid "Sets the HTML structure of each post"
+msgstr "各投稿の HTML 構造を設定する"
+
+#: src/Admin/admin-page.php:870
+msgid "Sets the closing tag for the listing"
+msgstr "リストの閉じタグを設定する"
+
+#: src/Admin/admin-page.php:863
+msgid "Sets the opening tag for the listing"
+msgstr "リストの開始タグを設定する"
+
+#: src/Admin/admin-page.php:842
+msgid "Sets the date format"
+msgstr "日付書式を設定する"
+
+#: src/Admin/admin-page.php:835
+msgid "If set, WordPress Popular Posts will display the date when each popular post on the list was published"
+msgstr "設定すると WordPress Popular Posts はリスト内に各人気記事の投稿した日付を表示します"
+
+#: src/Admin/admin-page.php:828
+msgid "If set, WordPress Popular Posts will show who published each popular post on the list"
+msgstr "設定すると WordPress Popular Posts はリスト内に各人気記事を投稿した人の名前を表示します"
+
+#: src/Admin/admin-page.php:807
+msgid "If set, and if the WP-PostRatings plugin is installed and enabled on your blog, WordPress Popular Posts will show how your visitors are rating your entries"
+msgstr "WP-PostRatings プラグインが有効化されている状態でこれを設定すると、WordPress Popular Posts は各人気記事のレートを表示します"
+
+#: src/Admin/admin-page.php:800
+msgid "If set, and if your current server configuration allows it, you will be able to display thumbnails of your posts. This attribute sets the height for thumbnails"
+msgstr "現在のサーバー設定で許可されている状態でこれを設定すると、投稿のサムネイルを表示できます。この属性はサムネイルの高さを設定します"
+
+#: src/Admin/admin-page.php:793
+msgid "If set, and if your current server configuration allows it, you will be able to display thumbnails of your posts. This attribute sets the width for thumbnails"
+msgstr "現在のサーバー設定で許可されている状態でこれを設定すると、投稿のサムネイルを表示できます。この属性はサムネイルの幅を設定します"
+
+#: src/Admin/admin-page.php:786
+msgid "If set to 1, WordPress Popular Posts will shorten the excerpt to \"n\" words instead of characters"
+msgstr "これを1に設定すると、WordPress Popular Posts は投稿の抜粋を文字列に変わって、\"n\"ワードに短縮します。"
+
+#: src/Admin/admin-page.php:779
+msgid "If set, WordPress Popular Posts will maintaing all styling tags (strong, italic, etc) and hyperlinks found in the excerpt"
+msgstr "設定すると WordPress Popular Posts は投稿の抜粋のすべてのスタイリングタグ（太字や斜体など）やリンクタグを保ちます"
+
+#: src/Admin/admin-page.php:772
+msgid "If set, WordPress Popular Posts will build and include an excerpt of \"n\" characters long from the content of each post listed as popular"
+msgstr "設定すると WordPress Popular Posts は各人気記事のコンテンツから長い\"n\"文字の抜粋が含まれ、構築されます"
+
+#: src/Admin/admin-page.php:765
+msgid "If set to 1, WordPress Popular Posts will shorten each post title to \"n\" words instead of characters"
+msgstr "これを1に設定すると、WordPress Popular Posts は投稿の抜粋を文字列に変わって、\"n\"ワードに短縮します"
+
+#: src/Admin/admin-page.php:758
+msgid "If set, WordPress Popular Posts will shorten each post title to \"n\" characters whenever possible"
+msgstr "設定すると WordPress Popular Posts は可能な限り記事タイトルを\"n\"文字に短縮します"
+
+#: src/Admin/admin-page.php:751
+msgid "If set, WordPress Popular Posts will retrieve all entries created by specified author(s) ID(s)."
+msgstr "設定すると WordPress Popular Posts は指定されたユーザーIDに属するすべての投稿を取得します。"
+
+#: src/Admin/admin-page.php:744
+msgid "If set, WordPress Popular Posts will retrieve all entries that belong to the specified term ID(s). If a minus sign is used, entries associated to the term(s) will be excluded instead."
+msgstr "設定すると、WordPress Popular Posts は指定されたターム ID に属するすべての投稿を取得します。マイナス記号が使われている場合、そのカテゴリーは除外されます。"
+
+#: src/Admin/admin-page.php:723
+msgid "If set, WordPress Popular Posts will exclude the specified post(s) ID(s) form the listing."
+msgstr "特定の投稿IDを設定することで、WordPress Popular Posts のリストから除外できます。"
+
+#: src/Admin/admin-page.php:716
+msgid "Defines the type of posts to show on the listing"
+msgstr "リスト表示させる投稿タイプを定義"
+
+#: src/Admin/admin-page.php:710
+msgid "(for average views per day)"
+msgstr "（1日あたりの平均ビュー用）"
+
+#: src/Admin/admin-page.php:709
+msgid "Sets the sorting option of the popular posts"
+msgstr "人気の投稿の並べ替えオプションを設定する"
+
+#: src/Admin/admin-page.php:702
+msgid "Tells WordPress Popular Posts to retrieve the most popular entries published within the time range specified by you"
+msgstr "WordPress Popular Posts にあなたの指定した特定範囲内に公開された記事を取得させます"
+
+#: src/Admin/admin-page.php:681
+msgid "Tells WordPress Popular Posts to retrieve the most popular entries within the time range specified by you"
+msgstr "WordPress Popular Posts に指定した時間範囲で人気記事を取得させます"
+
+#: src/Admin/admin-page.php:675 src/Admin/admin-page.php:689
+#: src/Admin/admin-page.php:759 src/Admin/admin-page.php:773
+#: src/Admin/admin-page.php:794 src/Admin/admin-page.php:801
+msgid "Positive integer"
+msgstr "正の整数"
+
+#: src/Admin/admin-page.php:674
+msgid "Sets the maximum number of popular posts to be shown on the listing"
+msgstr "リストに表示される人気の投稿の最大数を設定してください。"
+
+#: src/Admin/admin-page.php:667
+msgid "Set the closing tag for the heading of the list"
+msgstr "リストの見出しの閉じタグを設定"
+
+#: src/Admin/admin-page.php:660
+msgid "Set the opening tag for the heading of the list"
+msgstr "リストの見出しの開始タグを設定"
+
+#: src/Admin/admin-page.php:655 src/Admin/admin-page.php:725
+#: src/Admin/admin-page.php:732 src/Admin/admin-page.php:739
+#: src/Admin/admin-page.php:746 src/Admin/admin-page.php:753
+#: src/Widget/form.php:226
+msgid "None"
+msgstr "なし"
+
+#: src/Admin/admin-page.php:654 src/Admin/admin-page.php:661
+#: src/Admin/admin-page.php:668 src/Admin/admin-page.php:717
+#: src/Admin/admin-page.php:724 src/Admin/admin-page.php:731
+#: src/Admin/admin-page.php:738 src/Admin/admin-page.php:745
+#: src/Admin/admin-page.php:752 src/Admin/admin-page.php:843
+#: src/Admin/admin-page.php:864 src/Admin/admin-page.php:871
+msgid "Text string"
+msgstr "テキスト文字列"
+
+#: src/Admin/admin-page.php:653
+msgid "Sets a heading for the list"
+msgstr "リストの見出しを設定する"
+
+#: src/Admin/admin-page.php:647
+msgid "Example"
+msgstr "例"
+
+#: src/Admin/admin-page.php:646
+msgid "Defaults to"
+msgstr "デフォルト:"
+
+#: src/Admin/admin-page.php:645
+msgid "Possible values"
+msgstr "使用可能な値"
+
+#: src/Admin/admin-page.php:644
+msgid "What it does "
+msgstr "何をするか"
+
+#: src/Admin/admin-page.php:643
+msgid "Parameter"
+msgstr "パラメータ"
+
+#: src/Admin/admin-page.php:633
+msgid "With the following parameters you can customize the popular posts list when using either the <a href=\"%1$s\">wpp_get_mostpopular() template tag</a> or the <a href=\"%2$s\">[wpp] shortcode</a>."
+msgstr "With the following parameters you can customize the popular posts list when using either the <a href=\"%1$s\">wpp_get_mostpopular() テンプレートタグ</a>、または <a href=\"%2$s\">[wpp] ショートコード</a>"
+
+#: src/Admin/admin-page.php:625
+msgid "Use this button to manually clear entries from all WPP data tables"
+msgstr "WPP のすべてのデータテーブルから項目を消去するにはこのボタンを使ってください"
+
+#: src/Admin/admin-page.php:625
+msgid "Clear all data"
+msgstr "すべてのデータを削除"
+
+#: src/Admin/admin-page.php:624
+msgid "Use this button to manually clear entries from WPP cache only"
+msgstr "WPP のキャッシュのみから項目を手動で消去するにはこのボタンを使ってください"
+
+#: src/Admin/admin-page.php:624
+msgid "Empty cache"
+msgstr "キャッシュを空にする"
+
+#: src/Admin/admin-page.php:623
+msgid "WordPress Popular Posts maintains data in two separate tables: one for storing the most popular entries on a daily basis (from now on, \"cache\"), and another one to keep the All-time data (from now on, \"historical data\" or just \"data\"). If for some reason you need to clear the cache table, or even both historical and cache tables, please use the buttons below to do so."
+msgstr "WordPress Popular Posts はデータを2つのテーブルで管理します。ひとつは最も人気のある項目を毎日保存し (これを「キャッシュ」と呼びます）、もうひとつは全期間のデータを保存します (こちらを「履歴データ」または単に「データ」と呼びます) 。何らかの理由でキャッシュのテーブルを消去したり、履歴データとキャッシュテーブルの両方を消去する必要がある場合は以下のボタンを使ってください。"
+
+#: src/Admin/admin-page.php:603
+msgid "By default, the plugin includes a stylesheet called wpp.css which you can use to style your popular posts listing. If you wish to use your own stylesheet or do not want it to have it included in the header section of your site, use this."
+msgstr "プラグインにはデフォルトで wpp.css という名称のスタイルシートが含まれており、人気の投稿をリスト表示するために使えます。もし自分のスタイルシートを使いたい場合や、サイトの head セクションにデフォルトスタイルシートを含めたくない場合はこちらを使ってください。"
+
+#: src/Admin/admin-page.php:596
+msgid "Use plugin's stylesheet"
+msgstr "プラグインのスタイルシートを使う"
+
+#: src/Admin/admin-page.php:590
+msgid "New tab/window"
+msgstr "新しいタブまたはウィンドウ"
+
+#: src/Admin/admin-page.php:589
+msgid "Current window"
+msgstr "現在のウィンドウ"
+
+#: src/Admin/admin-page.php:586
+msgid "Open links in"
+msgstr "リンクの開き方"
+
+#: src/Admin/admin-page.php:580
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: src/Admin/admin-page.php:563
+msgid "A sampling rate of %d is recommended for large / high traffic sites. For lower traffic sites, you should lower the value"
+msgstr "大規模またはアクセスが多いサイトにはサンプル率 %d を推奨します。アクセスが少なければ値を小さくしてください"
+
+#: src/Admin/admin-page.php:559
+msgid "Sample Rate"
+msgstr "サンプル率"
+
+#: src/Admin/admin-page.php:555
+msgid "By default, WordPress Popular Posts stores in database every single visit your site receives. For small / medium sites this is generally OK, but on large / high traffic sites the constant writing to the database may have an impact on performance. With <a href=\"%1$s\" target=\"_blank\">data sampling</a>, WordPress Popular Posts will store only a subset of your traffic and report on the tendencies detected in that sample set (for more, <a href=\"%2$s\" target=\"_blank\">please read here</a>)"
+msgstr "デフォルトでは、WordPress Popular Posts はすべてのサイト訪問を毎回データベースへ保存します。一般的な小〜中規模サイトでは問題はありませんが、大規模またはアクセスが多いサイトではデータベース書き込みの連続によりパフォーマンスに影響が出る可能性があります。<a href=\"%1$s\" target=\"_blank\">データサンプリング</a>を有効化すると、WordPress Popular Posts はアクセスの一部のみを保存し、そこから見られる傾向をレポートします (詳しくは <a href=\"%2$s\" target=\"_blank\">こちらをご覧ください</a>) 。"
+
+#: src/Admin/admin-page.php:547
+msgid "Data Sampling"
+msgstr "データサンプリング"
+
+#: src/Admin/admin-page.php:543
+msgid "Really? That long?"
+msgstr "本当にそこまで長くしてもよいですか ?"
+
+#: src/Admin/admin-page.php:540
+msgid "Year(s)"
+msgstr "年"
+
+#: src/Admin/admin-page.php:539
+msgid "Month(s)"
+msgstr "月"
+
+#: src/Admin/admin-page.php:538
+msgid "Week(s)"
+msgstr "週"
+
+#: src/Admin/admin-page.php:298 src/Admin/admin-page.php:537
+#: src/Widget/form.php:47
+msgid "Day(s)"
+msgstr "日"
+
+#: src/Admin/admin-page.php:297 src/Admin/admin-page.php:536
+#: src/Widget/form.php:46
+msgid "Hour(s)"
+msgstr "時間"
+
+#: src/Admin/admin-page.php:296 src/Admin/admin-page.php:535
+#: src/Widget/form.php:45
+msgid "Minute(s)"
+msgstr "分"
+
+#: src/Admin/admin-page.php:531
+msgid "Refresh cache every"
+msgstr "キャッシュ更新間隔"
+
+#: src/Admin/admin-page.php:523
+msgid "Enable caching"
+msgstr "キャッシュする"
+
+#: src/Admin/admin-page.php:522
+msgid "Never cache"
+msgstr "キャッシュしない"
+
+#: src/Admin/admin-page.php:422 src/Admin/admin-page.php:519
+#: src/Admin/admin-page.php:547 src/Widget/form.php:7 src/Widget/form.php:54
+#: src/Widget/form.php:60 src/Widget/form.php:88 src/Widget/form.php:98
+#: src/Widget/form.php:190
+msgid "What is this?"
+msgstr "これは何ですか ?"
+
+#: src/Admin/admin-page.php:515
+msgid "If you are using a caching plugin such as WP Super Cache, enabling this feature will keep the popular list from being cached by it"
+msgstr "もし WP Super Cache のようなキャッシュプラグインを利用している場合、この機能を有効にすると、キャッシュ済みのデータの人気のある投稿リストとなります。"
+
+#: src/Admin/admin-page.php:507
+msgid "Ajaxify widget"
+msgstr "ウィジェットを AJAX 化"
+
+#: src/Admin/admin-page.php:498
+msgid "day(s)"
+msgstr "日"
+
+#: src/Admin/admin-page.php:494
+msgid "Keep data for"
+msgstr "データ保存期間"
+
+#: src/Admin/admin-page.php:490
+msgid "Log limit"
+msgstr "ログ上限"
+
+#: src/Admin/admin-page.php:484
+msgid "Everyone"
+msgstr "全員"
+
+#: src/Admin/admin-page.php:483
+msgid "Logged-in users only"
+msgstr "ログイン中のユーザーのみ"
+
+#: src/Admin/admin-page.php:482
+msgid "Visitors only"
+msgstr "訪問者のみ"
+
+#: src/Admin/admin-page.php:479
+msgid "Log views from"
+msgstr "閲覧を記録する対象者"
+
+#: src/Admin/admin-page.php:473
+msgid "Data"
+msgstr "データ"
+
+#: src/Admin/admin-page.php:453
+msgid "Use this button to clear WPP's thumbnails cache"
+msgstr "WPP のアイキャッチ画像のキャッシュを消去するにはこのボタンを使います"
+
+#: src/Admin/admin-page.php:452
+msgid "Empty image cache"
+msgstr "画像キャッシュを空にする"
+
+#: src/Admin/admin-page.php:493 src/Admin/admin-page.php:510
+#: src/Admin/admin-page.php:550 src/Admin/admin-page.php:600
+msgid "Disabled"
+msgstr "無効"
+
+#: src/Admin/admin-page.php:511 src/Admin/admin-page.php:551
+#: src/Admin/admin-page.php:599
+msgid "Enabled"
+msgstr "有効"
+
+#: src/Admin/admin-page.php:426 src/Admin/admin-page.php:441
+msgid "Yes"
+msgstr "はい"
+
+#: src/Admin/admin-page.php:440
+msgid "No, I will upload my own thumbnail"
+msgstr "いいえ、自分でアイキャッチ画像をアップロードします"
+
+#: src/Admin/admin-page.php:437
+msgid "Resize image from Custom field?"
+msgstr "カスタムフィールドからの画像をサイズ変更しますか ?"
+
+#: src/Admin/admin-page.php:431
+msgid "Custom field name"
+msgstr "カスタムフィールド名"
+
+#: src/Admin/admin-page.php:418
+msgid "Tell WordPress Popular Posts where it should get thumbnails from"
+msgstr "WordPress Popular Posts がどこからアイキャッチ画像を取得するか指定します"
+
+#: src/Admin/admin-page.php:415
+msgid "Custom field"
+msgstr "カスタムフィールド"
+
+#: src/Admin/admin-page.php:413
+msgid "First image on post"
+msgstr "本文内の最初の画像"
+
+#: src/Admin/admin-page.php:412
+msgid "Featured image"
+msgstr "アイキャッチ画像"
+
+#: src/Admin/admin-page.php:409
+msgid "Pick image from"
+msgstr "画像の取得元"
+
+#: src/Admin/admin-page.php:396
+msgid "Default thumbnail"
+msgstr "デフォルトのアイキャッチ画像"
+
+#: src/Admin/admin-page.php:390
+msgid "Thumbnails"
+msgstr "アイキャッチ画像"
+
+#: src/Widget/form.php:37
+msgid "All-time"
+msgstr "全期間"
+
+#: src/Admin/admin-page.php:326 src/Widget/form.php:36
+msgid "Last 30 days"
+msgstr "過去30日間"
+
+#: src/Admin/admin-page.php:325 src/Widget/form.php:35
+msgid "Last 7 days"
+msgstr "過去7日間"
+
+#: src/Admin/admin-page.php:324 src/Widget/form.php:34
+msgid "Last 24 hours"
+msgstr "過去24時間"
+
+#: src/Admin/admin-page.php:272 src/Widget/form.php:52
+msgid "Display only posts published within the selected Time Range"
+msgstr "選択期間内に公開された投稿のみを表示"
+
+#: src/Admin/admin-page.php:278 src/Admin/admin-page.php:310
+#: src/Admin/admin-page.php:462 src/Admin/admin-page.php:569
+#: src/Admin/admin-page.php:609
+msgid "Apply"
+msgstr "適用"
+
+#: src/Admin/admin-page.php:269
+msgid "Limit"
+msgstr "上限"
+
+#: src/Admin/admin-page.php:266
+msgid "Post type"
+msgstr "投稿タイプ"
+
+#: src/Admin/admin-page.php:8 src/Admin/admin-page.php:242
+msgid "Parameters"
+msgstr "パラメーター"
+
+#: src/Admin/admin-page.php:7 src/Admin/admin-page.php:241
+msgid "Tools"
+msgstr "ツール"
+
+#: src/Admin/admin-page.php:6 src/Admin/admin-page.php:240
+msgid "Stats"
+msgstr "統計情報"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:199
+msgid "This operation will delete all cached thumbnails and cannot be undone."
+msgstr "この操作はキャッシュされているアイキャッチ画像をすべて削除します。これは取り消せません。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:160
+msgid "This operation will delete all stored info from WordPress Popular Posts' data tables and cannot be undone."
+msgstr "この操作は WordPress Popular Posts のデータテーブルに保存されたすべての情報を消去します。これは取り消せません。"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:121 src/Admin/admin-page.php:160
+#: src/Admin/admin-page.php:199
+msgid "Do you want to continue?"
+msgstr "続行しますか ?"
+
+#. translators: Special characters (such as accents) must be replaced with
+#. Javascript Octal codes (eg. \341 is the Octal code for small a with acute
+#. accent)
+#: src/Admin/admin-page.php:121
+msgid "This operation will delete all entries from WordPress Popular Posts' cache table and cannot be undone."
+msgstr "この操作は WordPress Popular Posts のキャッシュテーブルからすべての項目を消去します。これは取り消せません。"
+
+#: src/Admin/admin-page.php:52
+msgid "Please provide the name of your custom field."
+msgstr "カスタムフィールド名を入力してください。"
+
+#: src/Admin/admin-page.php:30 src/Admin/admin-page.php:41
+#: src/Admin/admin-page.php:67 src/Admin/admin-page.php:103
+msgid "Settings saved."
+msgstr "設定を保存しました。"

@@ -1,0 +1,1947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SNS Count Cache\n"
+"POT-Creation-Date: 2019-05-18 22:52+0900\n"
+"PO-Revision-Date: 2019-05-18 22:52+0900\n"
+"Last-Translator: Daisuke Maruyama <marubon@gmail.com>\n"
+"Language-Team: Daisuke Maruyama <marubon@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: sns-count-cache.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-cache-status.php:69 includes/admin-dashboard.php:45
+#: includes/admin-help.php:36 includes/admin-hot-content.php:70
+#: includes/admin-setting.php:532 includes/admin-share-count.php:69
+#: sns-count-cache.php:2019
+msgid "SNS Count Cache"
+msgstr "SNS Count Cache"
+
+#: includes/admin-cache-status.php:72 includes/admin-dashboard.php:49
+#: includes/admin-help.php:39 includes/admin-hot-content.php:73
+#: includes/admin-setting.php:639 includes/admin-share-count.php:72
+#: sns-count-cache.php:2020
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: includes/admin-cache-status.php:73 includes/admin-cache-status.php:84
+#: includes/admin-dashboard-widget.php:49
+#: includes/admin-dashboard-widget.php:134 includes/admin-dashboard.php:50
+#: includes/admin-dashboard.php:63 includes/admin-dashboard.php:153
+#: includes/admin-help.php:40 includes/admin-help.php:66
+#: includes/admin-hot-content.php:74 includes/admin-setting.php:640
+#: includes/admin-share-count.php:73 sns-count-cache.php:2021
+msgid "Cache Status"
+msgstr "キャッシュ状況"
+
+#: includes/admin-cache-status.php:74 includes/admin-dashboard-widget.php:87
+#: includes/admin-dashboard-widget.php:110 includes/admin-dashboard.php:51
+#: includes/admin-dashboard.php:101 includes/admin-dashboard.php:124
+#: includes/admin-help.php:41 includes/admin-hot-content.php:75
+#: includes/admin-setting.php:641 includes/admin-share-count.php:74
+#: includes/admin-share-count.php:84 sns-count-cache.php:2022
+msgid "Share Count"
+msgstr "シェア数"
+
+#: includes/admin-cache-status.php:76 includes/admin-dashboard.php:53
+#: includes/admin-help.php:43 includes/admin-hot-content.php:76
+#: includes/admin-hot-content.php:83 includes/admin-setting.php:643
+#: includes/admin-share-count.php:76 sns-count-cache.php:2025
+msgid "Hot Content"
+msgstr "話題のコンテンツ"
+
+#: includes/admin-cache-status.php:78 includes/admin-dashboard.php:55
+#: includes/admin-help.php:45 includes/admin-hot-content.php:77
+#: includes/admin-setting.php:645 includes/admin-share-count.php:78
+#: sns-count-cache.php:2028 sns-count-cache.php:2043
+msgid "Setting"
+msgstr "設定"
+
+#: includes/admin-cache-status.php:79 includes/admin-dashboard.php:56
+#: includes/admin-help.php:46 includes/admin-help.php:51
+#: includes/admin-hot-content.php:78 includes/admin-setting.php:646
+#: includes/admin-share-count.php:79 sns-count-cache.php:2029
+msgid "Help"
+msgstr "ヘルプ"
+
+#: includes/admin-cache-status.php:93 includes/admin-hot-content.php:89
+#: includes/admin-share-count.php:116
+msgid "Content"
+msgstr "コンテンツ"
+
+#: includes/admin-cache-status.php:94 includes/admin-cache-status.php:136
+#: includes/admin-cache-status.php:140 includes/admin-cache-status.php:144
+#: includes/admin-cache-status.php:150 includes/admin-cache-status.php:220
+#: includes/admin-cache-status.php:238 includes/admin-cache-status.php:242
+#: includes/admin-cache-status.php:246 includes/admin-dashboard-widget.php:65
+#: includes/admin-dashboard-widget.php:150 includes/admin-dashboard.php:79
+#: includes/admin-dashboard.php:169
+msgid "Primary Cache"
+msgstr "一次キャッシュ"
+
+#: includes/admin-cache-status.php:95 includes/admin-cache-status.php:177
+#: includes/admin-cache-status.php:181 includes/admin-cache-status.php:185
+#: includes/admin-cache-status.php:270 includes/admin-cache-status.php:274
+#: includes/admin-cache-status.php:278 includes/admin-dashboard-widget.php:76
+#: includes/admin-dashboard-widget.php:161 includes/admin-dashboard.php:90
+#: includes/admin-dashboard.php:180
+msgid "Secondary Cache"
+msgstr "二次キャッシュ"
+
+#: includes/admin-cache-status.php:96 includes/admin-cache-status.php:191
+#: includes/admin-cache-status.php:195 includes/admin-cache-status.php:284
+#: includes/admin-cache-status.php:293 includes/admin-cache-status.php:297
+msgid "Crawl Date"
+msgstr "クロール日時"
+
+#: includes/admin-cache-status.php:137 includes/admin-cache-status.php:178
+#: includes/admin-cache-status.php:239 includes/admin-cache-status.php:271
+msgid "Full cache"
+msgstr "完全キャッシュ"
+
+#: includes/admin-cache-status.php:141 includes/admin-cache-status.php:182
+#: includes/admin-cache-status.php:243 includes/admin-cache-status.php:275
+msgid "Partial cache"
+msgstr "部分キャッシュ"
+
+#: includes/admin-cache-status.php:145 includes/admin-cache-status.php:151
+#: includes/admin-cache-status.php:186 includes/admin-cache-status.php:221
+#: includes/admin-cache-status.php:247 includes/admin-cache-status.php:279
+msgid "No cache"
+msgstr "未キャッシュ"
+
+#: includes/admin-cache-status.php:196 includes/admin-cache-status.php:298
+msgid "no data"
+msgstr "データなし"
+
+#: includes/admin-cache-status.php:203 includes/admin-cache-status.php:306
+#: includes/admin-setting.php:492 includes/admin-setting.php:1653
+msgid "Cache"
+msgstr "キャッシュ"
+
+#: includes/admin-dashboard-widget.php:48 includes/admin-dashboard.php:61
+msgid "Share"
+msgstr "Share"
+
+#: includes/admin-dashboard-widget.php:54
+#: includes/admin-dashboard-widget.php:139 includes/admin-dashboard.php:68
+#: includes/admin-dashboard.php:158
+msgid "Cache Type"
+msgstr "キャッシュタイプ"
+
+#: includes/admin-dashboard-widget.php:55
+#: includes/admin-dashboard-widget.php:66
+#: includes/admin-dashboard-widget.php:77
+#: includes/admin-dashboard-widget.php:140
+#: includes/admin-dashboard-widget.php:151
+#: includes/admin-dashboard-widget.php:162 includes/admin-dashboard.php:69
+#: includes/admin-dashboard.php:80 includes/admin-dashboard.php:91
+#: includes/admin-dashboard.php:159 includes/admin-dashboard.php:170
+#: includes/admin-dashboard.php:181
+msgid "Cache Progress"
+msgstr "キャッシュ進捗"
+
+#: includes/admin-dashboard-widget.php:56
+#: includes/admin-dashboard-widget.php:69
+#: includes/admin-dashboard-widget.php:80
+#: includes/admin-dashboard-widget.php:141
+#: includes/admin-dashboard-widget.php:154
+#: includes/admin-dashboard-widget.php:165 includes/admin-dashboard.php:70
+#: includes/admin-dashboard.php:83 includes/admin-dashboard.php:94
+#: includes/admin-dashboard.php:160 includes/admin-dashboard.php:173
+#: includes/admin-dashboard.php:184
+msgid "Total Content"
+msgstr "総コンテンツ数"
+
+#: includes/admin-dashboard-widget.php:57
+#: includes/admin-dashboard-widget.php:70
+#: includes/admin-dashboard-widget.php:81
+#: includes/admin-dashboard-widget.php:142
+#: includes/admin-dashboard-widget.php:155
+#: includes/admin-dashboard-widget.php:166 includes/admin-dashboard.php:71
+#: includes/admin-dashboard.php:84 includes/admin-dashboard.php:95
+#: includes/admin-dashboard.php:161 includes/admin-dashboard.php:174
+#: includes/admin-dashboard.php:185
+msgid "State - Full Cache"
+msgstr "状態 - 完全キャッシュ"
+
+#: includes/admin-dashboard-widget.php:58
+#: includes/admin-dashboard-widget.php:71
+#: includes/admin-dashboard-widget.php:82
+#: includes/admin-dashboard-widget.php:143
+#: includes/admin-dashboard-widget.php:156
+#: includes/admin-dashboard-widget.php:167 includes/admin-dashboard.php:72
+#: includes/admin-dashboard.php:85 includes/admin-dashboard.php:96
+#: includes/admin-dashboard.php:162 includes/admin-dashboard.php:175
+#: includes/admin-dashboard.php:186
+msgid "State - Partial Cache"
+msgstr "状態 - 部分キャッシュ"
+
+#: includes/admin-dashboard-widget.php:59
+#: includes/admin-dashboard-widget.php:72
+#: includes/admin-dashboard-widget.php:83
+#: includes/admin-dashboard-widget.php:144
+#: includes/admin-dashboard-widget.php:157
+#: includes/admin-dashboard-widget.php:168 includes/admin-dashboard.php:73
+#: includes/admin-dashboard.php:86 includes/admin-dashboard.php:97
+#: includes/admin-dashboard.php:163 includes/admin-dashboard.php:176
+#: includes/admin-dashboard.php:187
+msgid "State - No Cache"
+msgstr "状態 - 未キャッシュ"
+
+#: includes/admin-dashboard-widget.php:92
+#: includes/admin-dashboard-widget.php:177 includes/admin-dashboard.php:106
+#: includes/admin-dashboard.php:196
+msgid "SNS"
+msgstr "SNS"
+
+#: includes/admin-dashboard-widget.php:133 includes/admin-dashboard.php:151
+msgid "Follow"
+msgstr "Follow"
+
+#: includes/admin-dashboard-widget.php:172
+#: includes/admin-dashboard-widget.php:195 includes/admin-dashboard.php:191
+#: includes/admin-dashboard.php:214
+msgid "Follower Count"
+msgstr "フォロワー数"
+
+#: includes/admin-help.php:53
+msgid "What is WordPress plugin SNS Cout Cache?"
+msgstr "WordPressプラグイン SNS Count Cacheとは何か？"
+
+#: includes/admin-help.php:54
+msgid ""
+"WordPress plugin SNS Count Cache is a plugin which helps you to shorten page "
+"loading time when your site displays share and follower counts. This plugin "
+"gets share counts such as Twitter and Facebook, Pocket, Pinterest, Linkedin "
+"and caches these counts in the background. This plugin alse caches follower "
+"counts such as Twitter and Facebook, Feedly, Instagram, OneSignal, Push7 in "
+"the same way. The share and follower counts can be retrieved quickly not "
+"through network but through the cache using given functions."
+msgstr ""
+"WordPressプラグイン SNS Count Cacheは、シェア数やフォロワー数を表示している場"
+"合にページの表示時間を高速化するプラグインです。このプラグインは、Twitter、"
+"Facebook、Pocket、Pinterest、Linkedin、はてなブックマークのシェア数をバックグ"
+"ラウンドで取得し、キャッシュします。またTwitter、Facebook、Feedly、"
+"Instagram、OneSignal、Push7のフォロワー数も同様の方法でキャッシュします。これ"
+"らのシェア数とフォロワー数は、所定の関数を用いることでネットワークからではな"
+"くキャッシュ経由で迅速に取得可能になります。"
+
+#: includes/admin-help.php:55
+msgid "How often does this plugin get and cache share counts?"
+msgstr "シェア数を取得、キャッシュする頻度は？"
+
+#: includes/admin-help.php:56
+msgid ""
+"Although this plugin gets share count of 15 posts at a time every 15 minutes "
+"by default, you can modify the setting in the \"Setting\" tab in the "
+"administration page."
+msgstr ""
+"デフォルトで15分ごとに15記事のシェア数を取得しますが、管理ページの「設定」タ"
+"ブにてその取得間隔と一度に取得対象とする記事数を変更できます。"
+
+#: includes/admin-help.php:57
+msgid "How can I know whether share count of each post is cached or not?"
+msgstr "各記事のシェア数のキャッシュ有無を確認する方法は？"
+
+#: includes/admin-help.php:58
+msgid ""
+"Cache status is described in the \"Cache Status\" tab in the administration "
+"page."
+msgstr "キャッシュ状況は、管理ページの「キャッシュ状況」タブにて確認可能です。"
+
+#: includes/admin-help.php:59
+msgid "How often does this plugin get and cache follower counts?"
+msgstr "フォロワー数を取得、キャッシュする頻度は？"
+
+#: includes/admin-help.php:60
+msgid ""
+"Although this plugin gets follower count once a day by default, you can "
+"modify the setting in the \"Setting\" tab in the administration page."
+msgstr ""
+"デフォルトで1日に一回フォロワー数を取得しますが、管理ページの「設定」タブにて"
+"その取得間隔を変更できます。"
+
+#: includes/admin-help.php:61
+msgid ""
+"What is cache status such as \"full cache\", \"partial cache\" and \"no cache"
+"\"?"
+msgstr ""
+"「完全キャッシュ」、「部分キャッシュ」、「未キャッシュ」等のキャッシュ状況と"
+"は何か？"
+
+#: includes/admin-help.php:62
+msgid "The following is the explanation of the cache status."
+msgstr "以下は、そのキャッシュ状況に関する説明です。"
+
+#: includes/admin-help.php:67 includes/admin-help.php:82
+#: includes/admin-help.php:101 includes/admin-help.php:175
+#: includes/admin-help.php:194
+msgid "Description"
+msgstr "説明"
+
+#: includes/admin-help.php:71
+msgid "full cache"
+msgstr "完全キャッシュ"
+
+#: includes/admin-help.php:71
+msgid "Counts for configured all SNS are cached."
+msgstr "設定した全てのSNSのカウントがキャッシュされている。"
+
+#: includes/admin-help.php:72
+msgid "partial cache"
+msgstr "部分キャッシュ"
+
+#: includes/admin-help.php:72
+msgid "A subset of counts for configured SNS are cached."
+msgstr "設定したSNSの内、一部のSNSのカウントがキャッシュされている。"
+
+#: includes/admin-help.php:73
+msgid "no cache"
+msgstr "未キャッシュ"
+
+#: includes/admin-help.php:73
+msgid "Count for configured SNS are not cached at all."
+msgstr "設定したSNSのカウントが全くキャッシュされていない。"
+
+#: includes/admin-help.php:76
+msgid "How can I get share count from the cache?"
+msgstr "キャッシュからSNSカウントを参照する方法は？"
+
+#: includes/admin-help.php:77
+msgid ""
+"The share count is retrieved from the cache using the following functions in "
+"the WordPress loop such as query_posts(), get_posts() and WP_Query()."
+msgstr ""
+"WordPressのquery_posts()、get_posts()、WP_Query()等のループ内で下記の関数を使"
+"うことでキャッシュからSNSカウントを参照できます。"
+
+#: includes/admin-help.php:81 includes/admin-help.php:100
+msgid "Function"
+msgstr "関数"
+
+#: includes/admin-help.php:86
+msgid "Twitter share count is returned from cache."
+msgstr "キャッシュからTwitterのシェア数を取得"
+
+#: includes/admin-help.php:87
+msgid "Facebook share count is returned from cache."
+msgstr "キャッシュからFacebookのシェア数を取得"
+
+#: includes/admin-help.php:88
+msgid "Hatena Bookmark share count is returned from cache."
+msgstr "キャッシュからはてなブックマークのシェア数を取得"
+
+#: includes/admin-help.php:89
+msgid "Pocket share count is returned from cache."
+msgstr "キャッシュからPocketのシェア数を取得"
+
+#: includes/admin-help.php:90
+msgid "Pinterest share count is returned from cache."
+msgstr "キャッシュからPinterestのシェア数を取得"
+
+#: includes/admin-help.php:91
+msgid "Linkedin share count is returned from cache."
+msgstr "キャッシュからLinkedinのシェア数を取得"
+
+#: includes/admin-help.php:92
+msgid "Total share count of selected SNS is returned from cache."
+msgstr "キャッシュから対象として設定されたSNSのカウントの総和を取得"
+
+#: includes/admin-help.php:95
+msgid "How can I get follower count from the cache?"
+msgstr "キャッシュからフォロワーの数を参照する方法は？"
+
+#: includes/admin-help.php:96
+msgid ""
+"The follower count is retrieved from the cache using the following functions."
+msgstr "フォロワーの数は、以下の関数を用いることでキャッシュから参照可能です。"
+
+#: includes/admin-help.php:105
+msgid "Feedly follower count is returned from cache."
+msgstr "キャッシュからFeedlyのフォロワーの数を取得"
+
+#: includes/admin-help.php:106
+msgid "Twitter follower count is returned from cache."
+msgstr "キャッシュからTwitterのフォロワーの数を取得"
+
+#: includes/admin-help.php:107
+msgid "Facebook follower count is returned from cache."
+msgstr "キャッシュからFacebookのフォロワーの数を取得"
+
+#: includes/admin-help.php:108
+msgid "Instagram follower count is returned from cache."
+msgstr "キャッシュからInstagramのフォロワーの数を取得"
+
+#: includes/admin-help.php:109
+msgid "Push7 follower count is returned from cache."
+msgstr "キャッシュからPush7のフォロワーの数を取得"
+
+#: includes/admin-help.php:110
+msgid "OneSignal follower count is returned from cache."
+msgstr "キャッシュからOneSignalのフォロワーの数を取得"
+
+#: includes/admin-help.php:113
+msgid "Example Code"
+msgstr "サンプルコード"
+
+#: includes/admin-help.php:114
+msgid ""
+"The code below describes a simple example which displays share count and "
+"follower count using the above functions."
+msgstr ""
+"以下のコードは、上述した関数を用いてシェア数やフォロワー数を表示する簡単な例"
+"です。"
+
+#: includes/admin-help.php:169
+msgid "How can I access specific custom field containing each share count?"
+msgstr "シェア数を含むカスタムフィールドにアクセスする方法は？"
+
+#: includes/admin-help.php:170
+msgid ""
+"Custom fields including share count are accessed using the following meta "
+"keys."
+msgstr ""
+"シェア数を含むカスタムフィールドは、以下のmeta keyを用いて参照可能です。"
+
+#: includes/admin-help.php:174 includes/admin-help.php:193
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: includes/admin-help.php:179
+msgid "A meta key to access Twitter share count"
+msgstr "Twitterのシェア数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:180
+msgid "A meta key to access Facebook share count"
+msgstr "Facebookのシェア数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:181
+msgid "A meta key to access Hatena Bookmark share count"
+msgstr "はてなブックマークのシェア数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:182
+msgid "A meta key to access Pocket share count"
+msgstr "Pocketのシェア数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:183
+msgid "A meta key to access Pinterest share count"
+msgstr "Pinterestのシェア数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:184
+msgid "A meta key to access Linkedin share count"
+msgstr "Linkedinのシェア数の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:185
+msgid "A meta key to access total share count"
+msgstr "シェア数の合計にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:188
+msgid ""
+"How can I access specific custom field containing each variation of share "
+"count?"
+msgstr "シェア数の増減を含むカスタムフィールドにアクセスする方法は？"
+
+#: includes/admin-help.php:189
+msgid ""
+"Custom fields including variation of share count are accessed using the "
+"following meta keys."
+msgstr ""
+"シェア数の増減を含むカスタムフィールドは、以下のmeta keyを用いて参照可能で"
+"す。"
+
+#: includes/admin-help.php:198
+msgid "A meta key to access variation of Twitter share count"
+msgstr "Twitterのシェア数の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:199
+msgid "A meta key to access variation of Facebook share count"
+msgstr "Facebookのシェア数の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:200
+msgid "A meta key to access variation of Hatena Bookmark share count"
+msgstr "はてなブックマークのシェア数の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:201
+msgid "A meta key to access variation of Pocket share count"
+msgstr "Pocketのシェア数の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:202
+msgid "A meta key to access variation of Pinterest share count"
+msgstr "Pinterestのシェア数の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:203
+msgid "A meta key to access variation of Linkedin share count"
+msgstr "Linkedinのシェア数にアクセスするためのMeta Key"
+
+#: includes/admin-help.php:204
+msgid "A meta key to access variation of total share count"
+msgstr "シェア数合計の増減数にアクセスするためのMeta Key"
+
+#: includes/admin-hot-content.php:248 includes/admin-hot-content.php:279
+#: includes/admin-hot-content.php:299 includes/admin-setting.php:708
+#: includes/admin-setting.php:749 includes/admin-setting.php:917
+#: includes/admin-setting.php:933 includes/admin-share-count.php:178
+#: includes/admin-share-count.php:194 includes/admin-share-count.php:228
+#: includes/admin-share-count.php:244 includes/admin-share-count.php:256
+#: includes/admin-share-count.php:290 includes/admin-share-count.php:307
+#: includes/admin-share-count.php:341 includes/admin-share-count.php:357
+#: includes/admin-share-count.php:369 includes/admin-share-count.php:418
+#: includes/admin-share-count.php:453
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/admin-hot-content.php:293
+msgid "No hot content."
+msgstr "話題のコンテンツはありません。"
+
+#: includes/admin-setting.php:40 includes/admin-setting.php:1208
+#: includes/admin-setting.php:1255 includes/admin-setting.php:1295
+#: includes/admin-setting.php:1343 includes/admin-setting.php:1604
+#: includes/admin-setting.php:1652 includes/admin-setting.php:1730
+#: includes/admin-setting.php:1763 includes/admin-setting.php:1832
+#: includes/admin-setting.php:1872 includes/admin-setting.php:1901
+#: includes/admin-setting.php:1971 includes/admin-setting.php:2236
+#: includes/admin-setting.php:2258 includes/admin-setting.php:2279
+#: includes/admin-setting.php:2339 includes/admin-setting.php:2627
+msgid "Update All Options"
+msgstr "設定の更新"
+
+#: includes/admin-setting.php:431 includes/admin-setting.php:2682
+msgid "Reset"
+msgstr "リセット"
+
+#: includes/admin-setting.php:437 includes/admin-setting.php:2664
+msgid "Export"
+msgstr "エクスポート"
+
+#: includes/admin-setting.php:447 includes/admin-setting.php:457
+#: includes/admin-setting.php:1605 includes/admin-setting.php:2237
+msgid "Update Basis of Comparison"
+msgstr "比較基準の更新"
+
+#: includes/admin-setting.php:467 includes/admin-setting.php:480
+#: includes/admin-setting.php:1209 includes/admin-setting.php:1654
+msgid "Clear Cache"
+msgstr "キャッシュの消去"
+
+#: includes/admin-setting.php:502 includes/admin-setting.php:1945
+#: includes/admin-setting.php:1973
+msgid "Get Bearer Token"
+msgstr "Bearer Tokenの取得"
+
+#: includes/admin-setting.php:563
+msgid ""
+"There was a problem spawning a call to the WP-Cron system on your site. This "
+"means WP-Cron jobs on your site may not work. The problem was: "
+msgstr ""
+"あなたのサイト上でWP-Cronシステムの呼び出し処理に問題が見つかりました。あなた"
+"のサイト上でWP-Cronジョブが動作しない可能性があります。問題は次の通りです。"
+
+#: includes/admin-setting.php:574
+msgid ""
+"Configuratin is not enough to get share count. Please set required "
+"parameters at "
+msgstr ""
+"シェア数を取得するために必要な設定が不足しています。次のセクションで必要なパ"
+"ラメータを設定して下さい。"
+
+#: includes/admin-setting.php:575 includes/admin-setting.php:1216
+msgid "Share Base Cache - Facebook"
+msgstr "シェア基本キャッシュ - Facebook"
+
+#: includes/admin-setting.php:585 includes/admin-setting.php:596
+#: includes/admin-setting.php:607 includes/admin-setting.php:618
+#: includes/admin-setting.php:629
+msgid ""
+"Configuratin is not enough to get follower count. Please set required "
+"parameters at "
+msgstr ""
+"フォロワー数を取得するために必要な設定が不足しています。次のセクションで必要"
+"なパラメータを設定して下さい。"
+
+#: includes/admin-setting.php:586 includes/admin-setting.php:1771
+msgid "Follow Base Cache - Instagram"
+msgstr "フォロー基本キャシュ機能 - Instagram"
+
+#: includes/admin-setting.php:597 includes/admin-setting.php:926
+#: includes/admin-setting.php:1661
+msgid "Follow Base Cache - Facebook"
+msgstr "フォロー基本キャッシュ機能 - Facebook"
+
+#: includes/admin-setting.php:608 includes/admin-setting.php:1880
+msgid "Follow Base Cache - Push7"
+msgstr "フォロー基本キャッシュ機能 - Push7"
+
+#: includes/admin-setting.php:619 includes/admin-setting.php:910
+#: includes/admin-setting.php:1909
+msgid "Follow Base Cache - Twitter"
+msgstr "フォロー基本キャッシュ機能 - Twitter"
+
+#: includes/admin-setting.php:630 includes/admin-setting.php:1843
+msgid "Follow Base Cache - OneSignal"
+msgstr "フォロー基本キャッシュ機能 - OneSignal"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:654
+msgid "Current Setting"
+msgstr "現在の設定"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:668
+#: includes/admin-setting.php:701 includes/admin-setting.php:715
+#: includes/admin-setting.php:721 includes/admin-setting.php:727
+#: includes/admin-setting.php:742 includes/admin-setting.php:1126
+msgid "Share Base Cache"
+msgstr "シェア基本キャッシュ機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:775
+#: includes/admin-setting.php:789 includes/admin-setting.php:798
+#: includes/admin-setting.php:1302
+msgid "Share Rush Cache"
+msgstr "シェア臨時キャッシュ機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:805
+#: includes/admin-setting.php:829 includes/admin-setting.php:1349
+msgid "Share Variation Analysis"
+msgstr "シェア変動分析機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:838
+#: includes/admin-setting.php:867 includes/admin-setting.php:1611
+msgid "Follow Base Cache"
+msgstr "フォロー基本キャッシュ機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:941
+#: includes/admin-setting.php:966 includes/admin-setting.php:1981
+msgid "Follow Variation Analysis"
+msgstr "フォロー変動分析機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:975
+#: includes/admin-setting.php:2243
+msgid "Dynamic Cache"
+msgstr "動的キャッシュ機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:993
+#: includes/admin-setting.php:2264
+msgid "Fault Tolerance"
+msgstr "フォールトトレランス機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:1011
+#: includes/admin-setting.php:1028 includes/admin-setting.php:1057
+#: includes/admin-setting.php:1071 includes/admin-setting.php:2285
+msgid "Data Crawler"
+msgstr "データクローラ機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:1090
+#: includes/admin-setting.php:1109 includes/admin-setting.php:2345
+msgid "Data Export"
+msgstr "データエクスポート機能"
+
+#: includes/admin-setting.php:649 includes/admin-setting.php:2636
+msgid "Exported File"
+msgstr "エクスポートされたファイル"
+
+#: includes/admin-setting.php:660
+msgid "Capability"
+msgstr "機能"
+
+#: includes/admin-setting.php:661
+msgid "Parameter"
+msgstr "パラメータ"
+
+#: includes/admin-setting.php:662
+msgid "Value"
+msgstr "値"
+
+#: includes/admin-setting.php:669 includes/admin-setting.php:839
+#: includes/admin-setting.php:1130 includes/admin-setting.php:1615
+msgid "Target SNS"
+msgstr "対象SNS"
+
+#: includes/admin-setting.php:675 includes/admin-setting.php:1134
+#: includes/admin-setting.php:1619 sns-count-cache.php:2836
+#: sns-count-cache.php:2860
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin-setting.php:678 sns-count-cache.php:2839
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/admin-setting.php:681 includes/admin-setting.php:1138
+msgid "Hatena Bookmark"
+msgstr "はてなブックマーク"
+
+#: includes/admin-setting.php:684 includes/admin-setting.php:1142
+#: sns-count-cache.php:2851
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/admin-setting.php:687 includes/admin-setting.php:1146
+#: sns-count-cache.php:2848
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/admin-setting.php:690 includes/admin-setting.php:1150
+#: sns-count-cache.php:2842
+msgid "Pocket"
+msgstr "Pocket"
+
+#: includes/admin-setting.php:693 includes/admin-setting.php:1154
+#: includes/admin-setting.php:1639 sns-count-cache.php:2833
+#: sns-count-cache.php:2857
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/admin-setting.php:702 includes/admin-setting.php:1159
+msgid "Custom post types"
+msgstr "カスタム投稿タイプ"
+
+#: includes/admin-setting.php:716 includes/admin-setting.php:790
+#: includes/admin-setting.php:1167 includes/admin-setting.php:1328
+msgid "Interval cheking share count (sec)"
+msgstr "シェア数のチェック間隔（秒）"
+
+#: includes/admin-setting.php:717 includes/admin-setting.php:793
+#: includes/admin-setting.php:869
+msgid "seconds"
+msgstr "秒"
+
+#: includes/admin-setting.php:722 includes/admin-setting.php:799
+#: includes/admin-setting.php:1174 includes/admin-setting.php:1335
+msgid "Number of contents to check at a time"
+msgstr "一度にチェックするコンテンツ数"
+
+#: includes/admin-setting.php:723 includes/admin-setting.php:800
+msgid "contents"
+msgstr "コンテンツ"
+
+#: includes/admin-setting.php:728 includes/admin-setting.php:1181
+msgid "Scheme migration mode from http to https"
+msgstr "HTTPからHTTPSへのスキーム移行モード"
+
+#: includes/admin-setting.php:732 includes/admin-setting.php:1062
+#: includes/admin-setting.php:1185 includes/admin-setting.php:2322
+msgid "On"
+msgstr "有効"
+
+#: includes/admin-setting.php:734 includes/admin-setting.php:1064
+#: includes/admin-setting.php:1184 includes/admin-setting.php:2321
+msgid "Off"
+msgstr "無効"
+
+#: includes/admin-setting.php:743 includes/admin-setting.php:1192
+msgid "Scheme migration date from http to https"
+msgstr "HTTPからHTTPSへのスキーム移行日"
+
+#: includes/admin-setting.php:758 includes/admin-setting.php:1263
+msgid "Share Base Cache - Twitter"
+msgstr "シェア基本キャッシュ機能 - Twitter"
+
+#: includes/admin-setting.php:759 includes/admin-setting.php:1267
+msgid "Alternative Twitter API"
+msgstr "代替Twitter API"
+
+#: includes/admin-setting.php:776 includes/admin-setting.php:1306
+msgid "Term considering posted content as new content"
+msgstr "投稿日からコンテンツを新着とみなす期間"
+
+#: includes/admin-setting.php:780
+msgid "day"
+msgstr "日"
+
+#: includes/admin-setting.php:782
+msgid "days"
+msgstr "日"
+
+#: includes/admin-setting.php:806 includes/admin-setting.php:942
+#: includes/admin-setting.php:1353 includes/admin-setting.php:1985
+msgid "Method to update basis of comparison"
+msgstr "比較基準の更新方式"
+
+#: includes/admin-setting.php:810 includes/admin-setting.php:819
+#: includes/admin-setting.php:946 includes/admin-setting.php:955
+#: includes/admin-setting.php:1356 includes/admin-setting.php:1988
+msgid "Disabled (None)"
+msgstr "無効（なし）"
+
+#: includes/admin-setting.php:813 includes/admin-setting.php:949
+#: includes/admin-setting.php:1357 includes/admin-setting.php:1989
+msgid "Enabled (Manual)"
+msgstr "有効（手動）"
+
+#: includes/admin-setting.php:816 includes/admin-setting.php:952
+#: includes/admin-setting.php:1358 includes/admin-setting.php:1990
+msgid "Enabled (Scheduler)"
+msgstr "有効（スケジューラ）"
+
+#: includes/admin-setting.php:830 includes/admin-setting.php:967
+msgid "Schedule"
+msgstr "スケジュール"
+
+#: includes/admin-setting.php:868 includes/admin-setting.php:1644
+msgid "Interval cheking follower count (sec)"
+msgstr "フォロワー数のチェック間隔（秒）"
+
+#: includes/admin-setting.php:874 includes/admin-setting.php:902
+#: includes/admin-setting.php:1741
+msgid "Follow Base Cache - Feedly"
+msgstr "フォロー基本キャッシュ機能 - Feedly"
+
+#: includes/admin-setting.php:875 includes/admin-setting.php:1745
+msgid "Target feed type"
+msgstr "対象フィードタイプ"
+
+#: includes/admin-setting.php:880 includes/admin-setting.php:895
+#: includes/admin-setting.php:1748
+msgid "Default"
+msgstr "デフォルト"
+
+#: includes/admin-setting.php:883 includes/admin-setting.php:1749
+msgid "RSS"
+msgstr "RSS"
+
+#: includes/admin-setting.php:886 includes/admin-setting.php:1750
+msgid "RSS2"
+msgstr "RSS2"
+
+#: includes/admin-setting.php:889 includes/admin-setting.php:1751
+msgid "RDF"
+msgstr "RDF"
+
+#: includes/admin-setting.php:892 includes/admin-setting.php:1752
+msgid "ATOM"
+msgstr "ATOM"
+
+#: includes/admin-setting.php:903 includes/admin-setting.php:1758
+msgid "Target feed"
+msgstr "対象フィード"
+
+#: includes/admin-setting.php:911
+msgid "Target screen name"
+msgstr "対象スクリーンネーム"
+
+#: includes/admin-setting.php:927 includes/admin-setting.php:1665
+msgid "Page ID"
+msgstr "対象ページID"
+
+#: includes/admin-setting.php:976 includes/admin-setting.php:2247
+msgid "Dynamic caching based on user access"
+msgstr "ユーザアクセスをトリガとする動的キャッシュ"
+
+#: includes/admin-setting.php:980 includes/admin-setting.php:986
+#: includes/admin-setting.php:998 includes/admin-setting.php:1004
+#: includes/admin-setting.php:1077 includes/admin-setting.php:2250
+#: includes/admin-setting.php:2271 includes/admin-setting.php:2331
+msgid "Disabled"
+msgstr "無効"
+
+#: includes/admin-setting.php:983 includes/admin-setting.php:1001
+#: includes/admin-setting.php:1080 includes/admin-setting.php:1083
+#: includes/admin-setting.php:2251 includes/admin-setting.php:2272
+#: includes/admin-setting.php:2332
+msgid "Enabled"
+msgstr "有効"
+
+#: includes/admin-setting.php:994
+msgid "Fault tolerance of count retrieval"
+msgstr "カウント取得における障害耐性"
+
+#: includes/admin-setting.php:1012 includes/admin-setting.php:2289
+msgid "Crawl method"
+msgstr "クロールの方式"
+
+#: includes/admin-setting.php:1017 includes/admin-setting.php:2294
+msgid "Normal (Sequential Retrieval)"
+msgstr "標準（逐次検索）"
+
+#: includes/admin-setting.php:1020 includes/admin-setting.php:2297
+msgid "Extended (Parallel Retrieval)"
+msgstr "拡張（並列検索）"
+
+#: includes/admin-setting.php:1029 includes/admin-setting.php:2304
+msgid "Crawl retry limit"
+msgstr "クロールの再試行上限"
+
+#: includes/admin-setting.php:1034 includes/admin-setting.php:2307
+msgid "no retry"
+msgstr "再試行なし"
+
+#: includes/admin-setting.php:1037 includes/admin-setting.php:2308
+msgid "1 time"
+msgstr "1回"
+
+#: includes/admin-setting.php:1040 includes/admin-setting.php:1046
+#: includes/admin-setting.php:2309
+msgid "2 times"
+msgstr "2回"
+
+#: includes/admin-setting.php:1043 includes/admin-setting.php:2310
+msgid "3 times"
+msgstr "3回"
+
+#: includes/admin-setting.php:1049 includes/admin-setting.php:2312
+msgid "5 times"
+msgstr "5回"
+
+#: includes/admin-setting.php:1058 includes/admin-setting.php:2318
+msgid "SSL verification"
+msgstr "SSL証明書の検証"
+
+#: includes/admin-setting.php:1072 includes/admin-setting.php:2328
+msgid "Crawl throttling mode"
+msgstr "クロールスロットリングモード"
+
+#: includes/admin-setting.php:1091 includes/admin-setting.php:2349
+msgid "Method of data export"
+msgstr "データのエクスポート方式"
+
+#: includes/admin-setting.php:1095 includes/admin-setting.php:2352
+msgid "Manual"
+msgstr "手動"
+
+#: includes/admin-setting.php:1098 includes/admin-setting.php:1393
+#: includes/admin-setting.php:2025 includes/admin-setting.php:2353
+#: includes/admin-setting.php:2388
+msgid "Scheduler"
+msgstr "スケジューラ"
+
+#: includes/admin-setting.php:1110
+msgid "Interval exporting share count to a csv file"
+msgstr "シェア数をCSVファイルにエクスポートする間隔"
+
+#: includes/admin-setting.php:1111
+msgid "hours"
+msgstr "時間"
+
+#: includes/admin-setting.php:1163
+msgid "e.g. aaa, bbb, ccc (comma-delimited)"
+msgstr "例. aaa, bbb, ccc（カンマ区切り）"
+
+#: includes/admin-setting.php:1170 includes/admin-setting.php:1331
+msgid "Default: 900"
+msgstr "既定値: 900"
+
+#: includes/admin-setting.php:1177
+msgid "Default: 15"
+msgstr "既定値: 15"
+
+#: includes/admin-setting.php:1187
+msgid "Default: Off"
+msgstr "既定値: 無効"
+
+#: includes/admin-setting.php:1195
+msgid "Default: N/A"
+msgstr "既定値: N/A"
+
+#: includes/admin-setting.php:1220 includes/admin-setting.php:1673
+#: includes/admin-setting.php:1775 includes/admin-setting.php:1922
+msgid "Developer page"
+msgstr "開発者向けページ"
+
+#: includes/admin-setting.php:1224 includes/admin-setting.php:1677
+msgid ""
+"Register a application in Facebook developer page to get the following App "
+"ID and App Secret."
+msgstr ""
+"以下のApp IDとApp Secretを取得するために、Facebook開発者向けページでアプリ"
+"ケーションを登録して下さい。"
+
+#: includes/admin-setting.php:1228 includes/admin-setting.php:1681
+msgid "App ID"
+msgstr "App ID"
+
+#: includes/admin-setting.php:1232 includes/admin-setting.php:1685
+msgid "App ID for Facebook API"
+msgstr "Facebook API用のApp ID"
+
+#: includes/admin-setting.php:1236 includes/admin-setting.php:1689
+msgid "App Secret"
+msgstr "App Secret"
+
+#: includes/admin-setting.php:1240 includes/admin-setting.php:1693
+msgid "App Secret for Facebook API"
+msgstr "Facebook API用のApp Secret"
+
+#: includes/admin-setting.php:1245 includes/admin-setting.php:1706
+#: includes/admin-setting.php:1720 includes/admin-setting.php:1808
+#: includes/admin-setting.php:1822
+msgid "Access Token"
+msgstr "Access Token"
+
+#: includes/admin-setting.php:1249 includes/admin-setting.php:1724
+msgid "Access Token for Facebook API"
+msgstr "Facebook API用のAccess Token"
+
+#: includes/admin-setting.php:1274
+msgid "Default: widgetoon.js & count.jsoon"
+msgstr "既定値: widgetoon.js & count.jsoon"
+
+#: includes/admin-setting.php:1278
+msgid "Registration destination"
+msgstr "登録先"
+
+#: includes/admin-setting.php:1290
+msgid ""
+"You need to register information such as your domain with the above site in "
+"order to start counting."
+msgstr ""
+"カウントを開始するためには、上記サイトにドメイン等の情報を登録する必要があり"
+"ます。"
+
+#: includes/admin-setting.php:1309
+msgid "1 day"
+msgstr "1日"
+
+#: includes/admin-setting.php:1310
+msgid "2 days"
+msgstr "2日"
+
+#: includes/admin-setting.php:1311
+msgid "3 days"
+msgstr "3日"
+
+#: includes/admin-setting.php:1312
+msgid "4 days"
+msgstr "4日"
+
+#: includes/admin-setting.php:1313
+msgid "5 days"
+msgstr "5日"
+
+#: includes/admin-setting.php:1314
+msgid "6 days"
+msgstr "6日"
+
+#: includes/admin-setting.php:1315
+msgid "7 days"
+msgstr "7日"
+
+#: includes/admin-setting.php:1316
+msgid "8 days"
+msgstr "8日"
+
+#: includes/admin-setting.php:1317
+msgid "9 days"
+msgstr "9日"
+
+#: includes/admin-setting.php:1318
+msgid "10 days"
+msgstr "10日"
+
+#: includes/admin-setting.php:1319
+msgid "11 days"
+msgstr "11日"
+
+#: includes/admin-setting.php:1320
+msgid "12 days"
+msgstr "12日"
+
+#: includes/admin-setting.php:1321
+msgid "13 days"
+msgstr "13日"
+
+#: includes/admin-setting.php:1322
+msgid "14 days"
+msgstr "14日"
+
+#: includes/admin-setting.php:1324
+msgid "Default: 3 days"
+msgstr "既定値: 3日"
+
+#: includes/admin-setting.php:1338
+msgid "Default: 10"
+msgstr "既定値: 10"
+
+#: includes/admin-setting.php:1360 includes/admin-setting.php:1992
+msgid "Default: Disabled (None)"
+msgstr "既定値: 無効（なし）"
+
+#: includes/admin-setting.php:1398 includes/admin-setting.php:2030
+#: includes/admin-setting.php:2393
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/admin-setting.php:1403 includes/admin-setting.php:2035
+#: includes/admin-setting.php:2398
+msgid "Hour"
+msgstr "時"
+
+#: includes/admin-setting.php:1406 includes/admin-setting.php:2038
+#: includes/admin-setting.php:2401
+msgid "Minute"
+msgstr "分"
+
+#: includes/admin-setting.php:1412 includes/admin-setting.php:2044
+#: includes/admin-setting.php:2407
+msgid "monthly"
+msgstr "毎月"
+
+#: includes/admin-setting.php:1423 includes/admin-setting.php:2055
+#: includes/admin-setting.php:2418
+msgid "on 1."
+msgstr "1日"
+
+#: includes/admin-setting.php:1426 includes/admin-setting.php:2058
+#: includes/admin-setting.php:2421
+msgid "on 2."
+msgstr "2日"
+
+#: includes/admin-setting.php:1429 includes/admin-setting.php:2061
+#: includes/admin-setting.php:2424
+msgid "on 3."
+msgstr "3日"
+
+#: includes/admin-setting.php:1432 includes/admin-setting.php:2064
+#: includes/admin-setting.php:2427
+msgid "on 4."
+msgstr "4日"
+
+#: includes/admin-setting.php:1435 includes/admin-setting.php:2067
+#: includes/admin-setting.php:2430
+msgid "on 5."
+msgstr "5日"
+
+#: includes/admin-setting.php:1438 includes/admin-setting.php:2070
+#: includes/admin-setting.php:2433
+msgid "on 6."
+msgstr "6日"
+
+#: includes/admin-setting.php:1441 includes/admin-setting.php:2073
+#: includes/admin-setting.php:2436
+msgid "on 7."
+msgstr "7日"
+
+#: includes/admin-setting.php:1444 includes/admin-setting.php:2076
+#: includes/admin-setting.php:2439
+msgid "on 8."
+msgstr "8日"
+
+#: includes/admin-setting.php:1447 includes/admin-setting.php:2079
+#: includes/admin-setting.php:2442
+msgid "on 9."
+msgstr "9日"
+
+#: includes/admin-setting.php:1450 includes/admin-setting.php:2082
+#: includes/admin-setting.php:2445
+msgid "on 10."
+msgstr "10日"
+
+#: includes/admin-setting.php:1453 includes/admin-setting.php:2085
+#: includes/admin-setting.php:2448
+msgid "on 11."
+msgstr "11日"
+
+#: includes/admin-setting.php:1456 includes/admin-setting.php:2088
+#: includes/admin-setting.php:2451
+msgid "on 12."
+msgstr "12日"
+
+#: includes/admin-setting.php:1459 includes/admin-setting.php:2091
+#: includes/admin-setting.php:2454
+msgid "on 13."
+msgstr "13日"
+
+#: includes/admin-setting.php:1462 includes/admin-setting.php:2094
+#: includes/admin-setting.php:2457
+msgid "on 14."
+msgstr "14日"
+
+#: includes/admin-setting.php:1465 includes/admin-setting.php:2097
+#: includes/admin-setting.php:2460
+msgid "on 15."
+msgstr "15日"
+
+#: includes/admin-setting.php:1468 includes/admin-setting.php:2100
+#: includes/admin-setting.php:2463
+msgid "on 16."
+msgstr "16日"
+
+#: includes/admin-setting.php:1471 includes/admin-setting.php:2103
+#: includes/admin-setting.php:2466
+msgid "on 17."
+msgstr "17日"
+
+#: includes/admin-setting.php:1474 includes/admin-setting.php:2106
+#: includes/admin-setting.php:2469
+msgid "on 18."
+msgstr "18日"
+
+#: includes/admin-setting.php:1477 includes/admin-setting.php:2109
+#: includes/admin-setting.php:2472
+msgid "on 19."
+msgstr "19日"
+
+#: includes/admin-setting.php:1480 includes/admin-setting.php:2112
+#: includes/admin-setting.php:2475
+msgid "on 20."
+msgstr "20日"
+
+#: includes/admin-setting.php:1483 includes/admin-setting.php:2115
+#: includes/admin-setting.php:2478
+msgid "on 21."
+msgstr "21日"
+
+#: includes/admin-setting.php:1486 includes/admin-setting.php:2118
+#: includes/admin-setting.php:2481
+msgid "on 22."
+msgstr "22日"
+
+#: includes/admin-setting.php:1489 includes/admin-setting.php:2121
+#: includes/admin-setting.php:2484
+msgid "on 23."
+msgstr "23日"
+
+#: includes/admin-setting.php:1492 includes/admin-setting.php:2124
+#: includes/admin-setting.php:2487
+msgid "on 24."
+msgstr "24日"
+
+#: includes/admin-setting.php:1495 includes/admin-setting.php:2127
+#: includes/admin-setting.php:2490
+msgid "on 25."
+msgstr "25日"
+
+#: includes/admin-setting.php:1498 includes/admin-setting.php:2130
+#: includes/admin-setting.php:2493
+msgid "on 26."
+msgstr "26日"
+
+#: includes/admin-setting.php:1501 includes/admin-setting.php:2133
+#: includes/admin-setting.php:2496
+msgid "on 27."
+msgstr "27日"
+
+#: includes/admin-setting.php:1504 includes/admin-setting.php:2136
+#: includes/admin-setting.php:2499
+msgid "on 28."
+msgstr "28日"
+
+#: includes/admin-setting.php:1507 includes/admin-setting.php:2139
+#: includes/admin-setting.php:2502
+msgid "on 29."
+msgstr "29日"
+
+#: includes/admin-setting.php:1510 includes/admin-setting.php:2142
+#: includes/admin-setting.php:2505
+msgid "on 30."
+msgstr "30日"
+
+#: includes/admin-setting.php:1513 includes/admin-setting.php:2145
+#: includes/admin-setting.php:2508
+msgid "on 31."
+msgstr "31日"
+
+#: includes/admin-setting.php:1540 includes/admin-setting.php:2172
+#: includes/admin-setting.php:2539
+msgid "weekly"
+msgstr "毎週"
+
+#: includes/admin-setting.php:1546 includes/admin-setting.php:2178
+#: includes/admin-setting.php:2545
+msgid "Sunday"
+msgstr "日曜日"
+
+#: includes/admin-setting.php:1547 includes/admin-setting.php:2179
+#: includes/admin-setting.php:2546
+msgid "Monday"
+msgstr "月曜日"
+
+#: includes/admin-setting.php:1548 includes/admin-setting.php:2180
+#: includes/admin-setting.php:2547
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: includes/admin-setting.php:1549 includes/admin-setting.php:2181
+#: includes/admin-setting.php:2548
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: includes/admin-setting.php:1550 includes/admin-setting.php:2182
+#: includes/admin-setting.php:2549
+msgid "Thursday"
+msgstr "木曜日"
+
+#: includes/admin-setting.php:1551 includes/admin-setting.php:2183
+#: includes/admin-setting.php:2550
+msgid "Friday"
+msgstr "金曜日"
+
+#: includes/admin-setting.php:1552 includes/admin-setting.php:2184
+#: includes/admin-setting.php:2551
+msgid "Saturday"
+msgstr "土曜日"
+
+#: includes/admin-setting.php:1574 includes/admin-setting.php:2206
+#: includes/admin-setting.php:2577
+msgid "daily"
+msgstr "毎日"
+
+#: includes/admin-setting.php:1623 sns-count-cache.php:2863
+msgid "Feedly"
+msgstr "Feedly"
+
+#: includes/admin-setting.php:1627 sns-count-cache.php:2866
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/admin-setting.php:1631 sns-count-cache.php:2869
+msgid "OneSignal"
+msgstr "OneSignal"
+
+#: includes/admin-setting.php:1635 sns-count-cache.php:2872
+msgid "Push7"
+msgstr "Push7"
+
+#: includes/admin-setting.php:1647
+msgid "Default: 86400 Minimum: 3600"
+msgstr "既定値: 86400 最小値: 3600"
+
+#: includes/admin-setting.php:1669
+msgid "Facebook page ID that you want to get follower count"
+msgstr "フォロワー数取得対象のFacebookページID"
+
+#: includes/admin-setting.php:1697 includes/admin-setting.php:1799
+msgid "Redirect URI"
+msgstr "Redirect URI"
+
+#: includes/admin-setting.php:1699 includes/admin-setting.php:1709
+#: includes/admin-setting.php:1801 includes/admin-setting.php:1811
+#: includes/admin-setting.php:1950
+msgid "To copy, click the field then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr ""
+"フィールドをクリック後、Ctrl + C (PC)、またはCmd + C (Mac)を押下しコピーして"
+"下さい。"
+
+#: includes/admin-setting.php:1701
+msgid ""
+"Copy and set this to the field of \"Valid OAuth redirect URIs\" in "
+"application management page of Facebook developer page."
+msgstr ""
+"Facebook開発者向けページ内のアプリケーション管理ページにて「有効なOAuthリダイ"
+"レクトURI」フィールドにこのURIを設定して下さい。"
+
+#: includes/admin-setting.php:1711 includes/admin-setting.php:1813
+#: includes/admin-setting.php:1952
+msgid "Copy and pase this into the fields below."
+msgstr "以下のフィールドにコピー&ペーストして下さい。"
+
+#: includes/admin-setting.php:1732 includes/admin-setting.php:1834
+msgid "Get Access Token"
+msgstr "Access Tokenの取得"
+
+#: includes/admin-setting.php:1754
+msgid "Default: Default"
+msgstr "既定値: デフォルト"
+
+#: includes/admin-setting.php:1779
+msgid ""
+"Register a client in Instagram developer page to get the following Client ID "
+"and Client Secret."
+msgstr ""
+"以下のClient IDとClient Secretを取得するために、Instagram開発者向けページでク"
+"ライアントを登録して下さい。"
+
+#: includes/admin-setting.php:1783
+msgid "Client ID"
+msgstr "Client ID"
+
+#: includes/admin-setting.php:1787
+msgid "Client ID for Instagram API"
+msgstr "Instagram API用のClient ID"
+
+#: includes/admin-setting.php:1791
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: includes/admin-setting.php:1795
+msgid "Client Secret for Instagram API"
+msgstr "Instagram API用のClient Secret"
+
+#: includes/admin-setting.php:1803
+msgid ""
+"Copy and set this to the field of \"Valid redirect URIs\" in the client "
+"management page of Instagram developer page."
+msgstr ""
+"Instagram開発者向けページ内のクライアント管理ページにて「Valid redirect "
+"URIs」フィールドにこのURIを設定して下さい。"
+
+#: includes/admin-setting.php:1826
+msgid "Access Token for Instagram API"
+msgstr "Instagram API用のAccess Token"
+
+#: includes/admin-setting.php:1847
+msgid "Home page"
+msgstr "ホームページ"
+
+#: includes/admin-setting.php:1851
+msgid ""
+"Register a application in OneSignal page to get the following App ID and "
+"User Auth Key."
+msgstr ""
+"以下のApp IDとUser Auth Keyを取得するために、OneSignalページでアプリケーショ"
+"ンを登録して下さい。"
+
+#: includes/admin-setting.php:1855
+msgid "OneSignal App ID"
+msgstr "OneSignal App ID"
+
+#: includes/admin-setting.php:1859
+msgid "OneSignal app ID that you want to get follower count"
+msgstr "フォロワー数取得対象のOneSignal App ID"
+
+#: includes/admin-setting.php:1863
+msgid "REST API Key"
+msgstr "REST API Key"
+
+#: includes/admin-setting.php:1867
+msgid "REST API Key for OneSignal API"
+msgstr "OneSignal API用のREST API Key"
+
+#: includes/admin-setting.php:1884
+msgid "Push7 page"
+msgstr "Push7ページ"
+
+#: includes/admin-setting.php:1888
+msgid "Register a application in Push7 page to get the following App Number."
+msgstr ""
+"以下のApp Numberを取得するために、Push7のページでアプリケーションを登録して下"
+"さい。"
+
+#: includes/admin-setting.php:1892
+msgid "App Number"
+msgstr "App Number"
+
+#: includes/admin-setting.php:1896
+msgid "App Number for Push7 API"
+msgstr "Push7 API用のApp Number"
+
+#: includes/admin-setting.php:1913
+msgid "Screen Name"
+msgstr "スクリーン名"
+
+#: includes/admin-setting.php:1918
+msgid "Twitter screen name that you want to get follower count"
+msgstr "フォロワー数を取得するTwitterのスクリーン名"
+
+#: includes/admin-setting.php:1926
+msgid ""
+"Register a application in Twitter developer page to get the following "
+"Consumer Key and Consumer Secret."
+msgstr ""
+"以下のConsumer KeyとConsumer Secretを取得するために、Twitter開発者向けページ"
+"でアプリケーションを登録して下さい。"
+
+#: includes/admin-setting.php:1930
+msgid "API Key"
+msgstr "API Key"
+
+#: includes/admin-setting.php:1934
+msgid "API key for Twitter API"
+msgstr "Twitter API用のAPI Key"
+
+#: includes/admin-setting.php:1938
+msgid "API Secret Key"
+msgstr "API Secret Key"
+
+#: includes/admin-setting.php:1942
+msgid "API Secret Key for Twitter API"
+msgstr "Twitter API用のAPI Secret Key"
+
+#: includes/admin-setting.php:1947 includes/admin-setting.php:1961
+msgid "Bearer Token"
+msgstr "Bearer Token"
+
+#: includes/admin-setting.php:1965
+msgid "Bearer Token for Twitter API"
+msgstr "Twitter API用のBearer Token"
+
+#: includes/admin-setting.php:2253 includes/admin-setting.php:2274
+#: includes/admin-setting.php:2334
+msgid "Default: Disabled"
+msgstr "既定値: 無効"
+
+#: includes/admin-setting.php:2268
+msgid "Fault tolerant mode of count retrieval"
+msgstr "カウント取得における耐障害モード"
+
+#: includes/admin-setting.php:2311
+msgid "4 times"
+msgstr "4回"
+
+#: includes/admin-setting.php:2314
+msgid "Default: no retry"
+msgstr "既定値: 再試行なし"
+
+#: includes/admin-setting.php:2324
+msgid "Default: On"
+msgstr "既定値: 有効"
+
+#: includes/admin-setting.php:2355
+msgid "Default: Manual"
+msgstr "既定値: 手動"
+
+#: includes/admin-setting.php:2604
+msgid "hourly"
+msgstr "毎時"
+
+#: includes/admin-setting.php:2641
+msgid "Disk usage of exported file"
+msgstr "エクスポートされたファイルのディスク使用量"
+
+#: includes/admin-setting.php:2650
+msgid "No exported file"
+msgstr "エクスポートされたファイルは存在しません。"
+
+#: includes/admin-setting.php:2662
+msgid "Manual export"
+msgstr "手動エクスポート"
+
+#: includes/admin-setting.php:2666
+msgid "Export share count to a csv file."
+msgstr "シェア数をCSVファイルにエクスポートします。"
+
+#: includes/admin-setting.php:2680
+msgid "Reset of exported file"
+msgstr "エクスポートされたファイルのリセット"
+
+#: includes/admin-setting.php:2684
+msgid "Clear exported csv file."
+msgstr "エクスポートされたCSVファイルを削除します。"
+
+#: includes/admin-setting.php:2695
+msgid "Download of exported file"
+msgstr "エクスポートされたファイルのダウンロード"
+
+#: includes/admin-setting.php:2697 includes/download.php:40
+msgid "Download"
+msgstr "ダウンロード"
+
+#: includes/admin-setting.php:2699
+msgid "Download the exported csv file."
+msgstr "エクスポートされたCSVファイルをダウンロードします。"
+
+#: includes/class-scc-wp-cron.php:279
+#, php-format
+msgid "The %s constant is set to true. WP-Cron spawning is disabled."
+msgstr "%s定数がtrueに設定されています。WP-Cronの実行が無効になります。"
+
+#: includes/class-scc-wp-cron.php:284
+#, php-format
+msgid "The %s constant is set to true."
+msgstr "%s定数がtrueに設定されています。"
+
+#: includes/class-scc-wp-cron.php:315
+#, php-format
+msgid "Unexpected HTTP response code: %s"
+msgstr "予期しないHTTPレスポンスコード: %s"
+
+#: includes/download.php:70 includes/download.php:73 index.php:42 index.php:50
+#: index.php:53 index.php:56 index.php:59 sns-count-cache.php:2067
+#: sns-count-cache.php:2080 sns-count-cache.php:2092 sns-count-cache.php:2104
+#: sns-count-cache.php:2116 sns-count-cache.php:2128 sns-count-cache.php:2140
+#: sns-count-cache.php:2152
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするために必要な権限がありません。"
+
+#: sns-count-cache.php:2020
+msgid "Dashboard | SNS Count Cache"
+msgstr "ダッシュボード | SNS Count Cache"
+
+#: sns-count-cache.php:2021
+msgid "Cache Status | SNS Count Cache"
+msgstr "キャッシュ状況 | SNS Count Cache"
+
+#: sns-count-cache.php:2022
+msgid "Share Count | SNS Count Cache"
+msgstr "シェア数 | SNS Count Cache"
+
+#: sns-count-cache.php:2025
+msgid "Hot Content | SNS Count Cache"
+msgstr "話題のコンテンツ | SNS Count Cache"
+
+#: sns-count-cache.php:2028
+msgid "Setting | SNS Count Cache"
+msgstr "設定 | SNS Count Cache"
+
+#: sns-count-cache.php:2029
+msgid "Help | SNS Count Cache"
+msgstr "ヘルプ | SNS Count Cache"
+
+#: sns-count-cache.php:2608 sns-count-cache.php:2616 sns-count-cache.php:2788
+#: sns-count-cache.php:2796
+msgid "Completed"
+msgstr "完了"
+
+#: sns-count-cache.php:2610 sns-count-cache.php:2618 sns-count-cache.php:2790
+#: sns-count-cache.php:2798
+msgid "Partially Completed"
+msgstr "部分完了"
+
+#: sns-count-cache.php:2612 sns-count-cache.php:2620 sns-count-cache.php:2792
+#: sns-count-cache.php:2800
+msgid "Ongoing"
+msgstr "進行中"
+
+#: sns-count-cache.php:2845
+msgid "Hatebu"
+msgstr "はてブ"
+
+#: sns-count-cache.php:2854
+msgid "Total"
+msgstr "合計"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/sns-count-cache/"
+msgstr "https://wordpress.org/plugins/sns-count-cache/"
+
+#. Description of the plugin/theme
+msgid ""
+"SNS Count Cache gets share count for Twitter and Facebook, Pocket, "
+"Pinterest, Linkedin, Hatena Bookmark and caches these count in the "
+"background. This plugin may help you to shorten page loading time because "
+"the share count can be retrieved not through network but through the cache "
+"using given functions."
+msgstr ""
+"SNS Count Cacheは、Twitter、Facebook、Pocket、Pinterest、Linkedin、はてなブッ"
+"クマークのシェア数を取得し、バックグラウンドでキャッシュします。用意された関"
+"数を利用することで、ネットワーク経由でなくキャッシュからシェア数を参照できよ"
+"うになるため、ページ読み込みの高速化が見込めます。"
+
+#. Author of the plugin/theme
+msgid "Daisuke Maruyama"
+msgstr "Daisuke Maruyama"
+
+#. Author URI of the plugin/theme
+msgid "https://logicore.cc/"
+msgstr ""
+
+#~ msgid "Default: Enabled"
+#~ msgstr "既定値: 有効"
+
+#~ msgid "https://marubon.info/"
+#~ msgstr "https://marubon.info/"
+
+#~ msgid "App ID (Client ID)"
+#~ msgstr "App ID (Client ID)"
+
+#~ msgid "App Secret (Client Secret)"
+#~ msgstr "App Secret (Client Secret)"
+
+#~ msgid "User Auth Key"
+#~ msgstr "User Auth Key"
+
+#~ msgid "AppNo"
+#~ msgstr "AppNo"
+
+#~ msgid "Consumer Key (API Key)"
+#~ msgstr "Consumer Key (API Key)"
+
+#~ msgid "Cconsumer Key for Twitter API"
+#~ msgstr "Twitter API用のCconsumer Key"
+
+#~ msgid "Consumer Secret (API Secret)"
+#~ msgstr "Consumer Secret (API Secret)"
+
+#~ msgid "Default: 1 time"
+#~ msgstr "既定値: 1回"
+
+#~ msgid "Google Plus share count is returned from cache."
+#~ msgstr "キャッシュからGoogle+のシェア数を取得します。"
+
+#~ msgid "A meta key to access Google+ share count"
+#~ msgstr "Google+のシェア数にアクセスするためのMeta Keyです。"
+
+#~ msgid "A meta key to access variation of Google+ share count"
+#~ msgstr "Google+のシェア数の増減数にアクセスするためのMeta Keyです。"
+
+#~ msgid "Follow Count"
+#~ msgstr "フォロー数"
+
+#~ msgid ""
+#~ "WordPress plugin SNS Count Cache is a plugin which helps you to shorten "
+#~ "page loading time when your site displays share and follower counts. This "
+#~ "plugin gets share counts such as Twitter and Facebook, Google+, Pocket, "
+#~ "Pinterest and caches these counts in the background. This plugin alse "
+#~ "caches follower counts such as Twitter and Facebook, Feedly, Instagram, "
+#~ "Push7 in the same way. The share and follower counts can be retrieved "
+#~ "quickly not through network but through the cache using given functions."
+#~ msgstr ""
+#~ "WordPressプラグイン SNS Count Cacheは、シェア数やフォロワー数を表示してい"
+#~ "る場合にページの表示時間を高速化するプラグインです。このプラグインは、"
+#~ "Twitter、Facebook、Google+、Pocket、Pinterest、はてなブックマークのシェア"
+#~ "数をバックグラウンドで取得し、キャッシュします。またTwitter、Facebook、"
+#~ "Feedly、Instagram、Push7のフォロワー数も同様の方法でキャッシュします。これ"
+#~ "らのシェア数とフォロワー数は、所定の関数を用いることでネットワークからでは"
+#~ "なくキャッシュ経由で迅速に取得可能になります。"
+
+#~ msgid ""
+#~ "SNS Count Cache gets share count for Twitter and Facebook, Google Plus, "
+#~ "Pocket, Pinterest, Hatena Bookmark and caches these count in the "
+#~ "background. This plugin may help you to shorten page loading time because "
+#~ "the share count can be retrieved not through network but through the "
+#~ "cache using given functions."
+#~ msgstr ""
+#~ "SNS Count Cacheは、Twitter、Facebook、Google+、Pocket、Pinterest、はてな"
+#~ "ブックマークのシェア数を取得し、バックグラウンドでキャッシュします。用意さ"
+#~ "れた関数を利用することで、ネットワーク経由でなくキャッシュからシェア数を参"
+#~ "照できようになるため、ページ読み込みの高速化が見込めます。"
+
+#~ msgid ""
+#~ "Copy and set this to the field of \"Valid OAuth redirect URIs\" in "
+#~ "application management page of Facebook developer page"
+#~ msgstr ""
+#~ "Facebook開発者向けページ内のアプリケーション管理ページにて「Valid OAuth "
+#~ "redirect URIs」フィールドにこのURIを設定して下さい。"
+
+#~ msgid "Facebook developer page"
+#~ msgstr "Facebook開発者向けページ"
+
+#~ msgid "Instagram developer page"
+#~ msgstr "Instagram開発者向けページ"
+
+#~ msgid "Twitter developer page"
+#~ msgstr "Twitter開発者向けページ"
+
+#~ msgid ""
+#~ "Register a application in Push7 page to get AppNo for utilization of "
+#~ "Push7 API."
+#~ msgstr ""
+#~ "Push7 API利用のためのAppNoを取得するために、Push7ページにてアプリケーショ"
+#~ "ンを登録して下さい。"
+
+#~ msgid ""
+#~ "Register a application in Facebook developer page to get App ID and App "
+#~ "secret for utilization of Facebook API."
+#~ msgstr ""
+#~ "Facebook API利用のためのApp IDとApp secretを取得するために、Facebook開発者"
+#~ "向けページにてアプリケーションを登録して下さい。"
+
+#~ msgid ""
+#~ "Register a client in Instagram developer page to get Client ID and Client "
+#~ "secret for utilization of Instagram API."
+#~ msgstr ""
+#~ "Instagram API利用のためのClient IDとClient secretを取得するために、"
+#~ "Instagram開発者向けページにてアプリケーションを登録して下さい。"
+
+#~ msgid ""
+#~ "Register a application in Twitter developer page to get Consumer key and "
+#~ "Consumer secret for utilization of Twitter API."
+#~ msgstr ""
+#~ "Twitter API利用のためのConsumer keyとConsumer secretを取得するために、"
+#~ "Twitter開発者向けページにてアプリケーションを登録して下さい。"
+
+#~ msgid "Facebook app ID for OAuth"
+#~ msgstr "OAuth認証のためのFacebook app ID"
+
+#~ msgid "App secret (Client secret)"
+#~ msgstr "App secret (Client secret)"
+
+#~ msgid "Facebook app secret for OAuth"
+#~ msgstr "OAuth認証のためのFacebook app secret"
+
+#~ msgid "Access token"
+#~ msgstr "Access Token"
+
+#~ msgid "Facebook access token for OAuth"
+#~ msgstr "OAuth認証のためのFacebook access token"
+
+#~ msgid "Instagram client ID for OAuth"
+#~ msgstr "OAuth認証のためのInstagram client ID"
+
+#~ msgid "Client secret"
+#~ msgstr "Client secret"
+
+#~ msgid "Instagram client secret for OAuth"
+#~ msgstr "OAuth認証のためのInstagram client secret"
+
+#~ msgid "Instagram access token for OAuth"
+#~ msgstr "OAuth認証のためのInstagram access token"
+
+#~ msgid "Push7 appno to access Push7 API"
+#~ msgstr "Push7 APIにアクセスするためのAppNo"
+
+#~ msgid "Screen name"
+#~ msgstr "スクリーン名"
+
+#~ msgid "Consumer key (API Key)"
+#~ msgstr "Consumer key (API Key)"
+
+#~ msgid "Twitter consumer key for OAuth"
+#~ msgstr "OAuth認証のためのTwitter consumer key"
+
+#~ msgid "Consumer secret (API Secret)"
+#~ msgstr "Consumer secret (API Secret)"
+
+#~ msgid "Twitter consumer secret for OAuth"
+#~ msgstr "OAuth認証のためのTwitter consumer secret"
+
+#~ msgid "Bearer token"
+#~ msgstr "Bearer token"
+
+#~ msgid "Twitter bearer token for OAuth"
+#~ msgstr "OAuth認証のためのTwitter bearer token"
+
+#~ msgid ""
+#~ "Copy and set this to the field of \"Valid OAuth redirect URIs\" in client "
+#~ "management page of Facebook developer page"
+#~ msgstr ""
+#~ "Facebook開発者向けページ内のクライアント管理ページにて「Valid OAuth "
+#~ "redirect URIs」フィールドにこのURIを設定して下さい。"
+
+#~ msgid ""
+#~ "Register a application in Facebook developer page to get App ID and App "
+#~ "secret for utilization of Graph API."
+#~ msgstr ""
+#~ "Graph API利用のためのConsumer keyとConsumer secretを取得するために、"
+#~ "Twitter開発者向けページにてアプリケーションを登録して下さい。"
+
+#~ msgid "Retry limit"
+#~ msgstr "再試行上限"
+
+#~ msgid ""
+#~ "SNS Count Cache gets share count for Twitter and Facebook, Google Plus, "
+#~ "Pocket, Hatena Bookmark and caches these count in the background. This "
+#~ "plugin may help you to shorten page loading time because the share count "
+#~ "can be retrieved not through network but through the cache using given "
+#~ "functions."
+#~ msgstr ""
+#~ "SNS Count Cacheは、Twitter、Facebook、Google+、Pocket、はてなブックマーク"
+#~ "のシェア数を取得し、バックグラウンドでキャッシュします。用意された関数を利"
+#~ "用することで、ネットワーク経由でなくキャッシュからシェア数を参照できように"
+#~ "なるため、ページ読み込みの高速化が見込めます。"
+
+#~ msgid ""
+#~ "WordPress plugin SNS Count Cache is a plugin which helps you to shorten "
+#~ "page loading time when your site displays share and follower counts. This "
+#~ "plugin gets share counts such as Twitter and Facebook, Google+, Pocket "
+#~ "and caches these counts in the background. This plugin alse caches "
+#~ "follower counts such as Twitter and Facebook, Feedly, Instagram, Push7 in "
+#~ "the same way. The share and follower counts can be retrieved quickly not "
+#~ "through network but through the cache using given functions."
+#~ msgstr ""
+#~ "WordPressプラグイン SNS Count Cacheは、シェア数やフォロワー数を表示してい"
+#~ "る場合にページの表示時間を高速化するプラグインです。このプラグインは、"
+#~ "Twitter、Facebook、Google+、Pocket、はてなブックマークのシェア数をバックグ"
+#~ "ラウンドで取得し、キャッシュします。またTwitter、Facebook、Feedly、"
+#~ "Instagram、Push7のフォロワー数も同様の方法でキャッシュします。これらのシェ"
+#~ "ア数とフォロワー数は、所定の関数を用いることでネットワークからではなく"
+#~ "キャッシュ経由で迅速に取得可能になります。"
+
+#~ msgid "http://marubon.info/"
+#~ msgstr "http://marubon.info/"
+
+#~ msgid "Enabled (Synchronous Cache)"
+#~ msgstr "有効（同期キャッシュ）"
+
+#~ msgid "Enabled (Asynchronous Cache)"
+#~ msgstr "有効（非同期キャッシュ）"
+
+#~ msgid "Enabled (Asynchronous 2nd Cache)"
+#~ msgstr "有効（非同期2次キャッシュ）"
+
+#~ msgid "Default: Enabled (Asynchronous 2nd Cache)"
+#~ msgstr "既定値: 有効（非同期2次キャッシュ）"
+
+#~ msgid ""
+#~ "WordPress plugin SNS Count Cache is a plugin which helps you to shorten "
+#~ "page loading time when your site displays share counts and follow counts. "
+#~ "This plugin gets share count for Twitter and Facebook, Google Plus, "
+#~ "Pocket, Hatena Bookmark and caches these count in the background. This "
+#~ "plugin also caches follower count for Twitter and Facebook, Feedly, "
+#~ "Instagram, Push7 and caches these count in the same way. The share counts "
+#~ "and follower counts can be retrieved quickly not through network but "
+#~ "through the cache using given functions."
+#~ msgstr ""
+#~ "WordPressプラグイン SNS Count Cacheは、シェア数やフォロワー数を表示してい"
+#~ "る場合にページの表示時間を高速化するプラグインです。このプラグインは、"
+#~ "Twitter、Facebook、Google+、Pocket、はてなブックマークのシェア数をバックグ"
+#~ "ラウンドで取得し、キャッシュします。またTwitter、Facebook、Feedly、"
+#~ "Instagram、Push7のフォロワー数も同様の方法でキャッシュします。これらのシェ"
+#~ "ア数とフォロワー数は、所定の関数を用いることでネットワークからではなく"
+#~ "キャッシュ経由で迅速に取得可能になります。"
+
+#~ msgid ""
+#~ "Copy and set this to the field of Valid redirect URIs in the Instagram "
+#~ "developer page of manage clients."
+#~ msgstr ""
+#~ "これをコピーし、Instagram開発者向けページの「manage clients」内の「Valid "
+#~ "redirect URIs」のフィールドに設定して下さい。"
+
+#~ msgid ""
+#~ "Copy and set this to the field of Valid OAuth redirect URIs in the "
+#~ "Facebook developer page of Client OAuth Settings."
+#~ msgstr ""
+#~ "これをコピーし、Facebook開発者向けページの「Client OAuth Settings」内の"
+#~ "「Valid OAuth redirect URIs」のフィールドに設定して下さい。"
+
+#~ msgid ""
+#~ "WordPress plugin SNS Count Cache is a plugin whitch helps you to shorten "
+#~ "page loading time when you display share counts. This plugin gets share "
+#~ "count for Twitter and Facebook, Google Plus, Pocket, Hatena Bookmark and "
+#~ "caches these count in the background. The share count can be retrieved "
+#~ "not through network but through the cache using given functions."
+#~ msgstr ""
+#~ "WordPressプラグイン SNS Count Cacheは、シェア数を表示している場合にページ"
+#~ "の表示時間を高速化するプラグインです。このプラグインは、Twitter、"
+#~ "Facebook、Google+、Pocket、はてなブックマークのシェア数をバックグラウンド"
+#~ "で取得し、キャッシュします。これらのシェア数は、指定された関数を用いること"
+#~ "でネットワーク経由ではなく、キャッシュから参照可能になります。"
+
+#~ msgid ""
+#~ "What is cache status of \"full cache\", \"partial cache\" and \"no cache"
+#~ "\"?"
+#~ msgstr "「完全キャッシュ」、「部分キャッシュ」"
+
+#~ msgid ""
+#~ "You need to register your domain with the above site in order to start "
+#~ "counting."
+#~ msgstr "カウントを開始するために上記サイトにドメイン"
+
+#~ msgid ""
+#~ "The code below describes a simple example which displays share count and "
+#~ "follower count using the above functions for each post."
+#~ msgstr ""
+#~ "以下のコードは、上述した関数を用いて記事ごとにシェア数やフォロワーの数を表"
+#~ "示する簡単な例です。"
+
+#~ msgid "A meta key for Twitter share count"
+#~ msgstr "Twitterのシェア数のためのMeta Keyです。"
+
+#~ msgid "A meta key for Facebook share count"
+#~ msgstr "Facebookのシェア数のためのMeta Keyです。"
+
+#~ msgid "A meta key for Google+ share count"
+#~ msgstr "Google+のシェア数のためのMeta Keyです。"
+
+#~ msgid "A meta key for Hatena Bookmark share count"
+#~ msgstr "はてなブックマークのシェア数のためのMeta Keyです。"
+
+#~ msgid "A meta key for Pocket share count"
+#~ msgstr "Pocketのシェア数のためのMeta Keyです。"
+
+#~ msgid "A meta key for total share count"
+#~ msgstr "シェア数の合計のためのMeta Keyです。"
+
+#~ msgid "How can I get follow count from the cache?"
+#~ msgstr "キャッシュからフォロー数を参照する方法は？"
+
+#~ msgid ""
+#~ "The follow count is retrieved from the cache using the following "
+#~ "functions."
+#~ msgstr "フォロー数は、以下の関数を用いることでキャッシュから参照可能です。"
+
+#~ msgid "Feedly follow count is returned from cache."
+#~ msgstr "キャッシュからFeedlyのフォロー数を取得します。"
+
+#~ msgid "Twitter follow count is returned from cache."
+#~ msgstr "キャッシュからFeedlyのフォロー数を取得します。"

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tcd-google-maps\n"
+"POT-Creation-Date: 2016-07-08 11:15+0900\n"
+"PO-Revision-Date: 2016-07-08 11:24+0900\n"
+"Last-Translator: atsuo okuda <okuda@design-plus.info>\n"
+"Language-Team: design plus\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gmaps-options.php:176
+msgid "Address"
+msgstr "住所"
+
+#: ../gmaps-options.php:177
+msgid "Write the address here. Do not include the post-code."
+msgstr "住所を入力してください。（郵便番号は使えません）"
+
+#: ../gmaps-options.php:182
+msgid "API Key"
+msgstr "APIキー"
+
+#: ../gmaps-options.php:183
+msgid "Write your API key here if you have one."
+msgstr "Google Maps APIキーを入力してください。"
+
+#: ../gmaps-options.php:188
+msgid "Zoom"
+msgstr "ズーム"
+
+#: ../gmaps-options.php:189
+msgid ""
+"Adjust the zoom level. leftmost will show the whole world, righmost just the "
+"building. Use the image below for a preview."
+msgstr ""
+"ズームレベルを設定してください。一番左にすると世界地図、一番右にすると詳細地"
+"図となります。プレビューでご確認ください。"
+
+#: ../gmaps-options.php:194
+msgid "Width"
+msgstr "横幅"
+
+#: ../gmaps-options.php:195
+msgid ""
+"Select the width of the map in pixels. If you are using a responsive design, "
+"please select \"Full width\""
+msgstr ""
+"地図の横幅（ピクセル値）を設定してください。レスポンシブデザインの場合は「フ"
+"ル幅」を選択してください。"
+
+#: ../gmaps-options.php:202
+msgid "Full width"
+msgstr "フル幅"
+
+#: ../gmaps-options.php:206
+msgid "Height"
+msgstr "縦幅"
+
+#: ../gmaps-options.php:207
+msgid "Select the height of the map in pixels."
+msgstr "地図の縦幅（ピクセル値）を設定してください。"
+
+#: ../gmaps-options.php:217
+msgid "Various"
+msgstr "その他の設定"
+
+#: ../gmaps-options.php:219
+msgid "Map controls - Show map controls like zoom, street view, etc."
+msgstr ""
+"マップコントロール（ズームやストリートビューなどのコントロール）を表示する"
+
+#: ../gmaps-options.php:220
+msgid "Add border - Show a nice shadowed border outside the map"
+msgstr "地図の外側に枠線を表示する"
+
+#: ../gmaps-options.php:221
+msgid "Align center - Align the map in the center of the section"
+msgstr "中央揃え"
+
+#: ../gmaps-options.php:222
+msgid "Draggable - Allow user to move the map around with the mouse"
+msgstr "ドラッグを許可する"
+
+#: ../gmaps-options.php:227
+msgid "Themes"
+msgstr "テーマ"
+
+#: ../gmaps-options.php:228
+msgid "Select between those themes to add a bit of your own style!"
+msgstr "お好みのテーマをお選びください。"
+
+#: ../gmaps-options.php:230
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../gmaps-options.php:335
+msgid "Preview"
+msgstr "プレビュー"
+
+#: ../gmaps-options.php:340
+msgid "Result"
+msgstr "ショートコード"
+
+#: ../gmaps-options.php:341
+msgid ""
+"Just copy and paste this shortcode inside your blog post, page or widget!"
+msgstr ""
+"このショートコードをコピーして、記事本文やテキストウィジェットにペーストして"
+"ください。"
